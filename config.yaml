@@ -30,11 +30,16 @@ keywords:
         filters: ["Visual Localization", "Camera Localization",
                   "Camera Re-localisation", "Loop Closure Detection",
                   "visual place recognition", "image retrieval", 
-                  "Camera Pose Regression"]
+                  "Camera Pose Regression", "camera pose estimation",
+                  "Scene Coordinate Regression"]
     "Keypoint Detection":
         filters: ["Keypoint Detection", "Feature Descriptor"]
     "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
+        filters: ["Image Matching", "Keypoint Matching", "feature matching", 
                   "Line Segment Detection", "Local Feature Matching"]
+    "Registration":
+        filters: ["Registration"]
+    "Pose Estimation":
+        filters: ["pose estimation"]
     "NeRF":
         filters: ["NeRF"]
