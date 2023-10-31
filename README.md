@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**Identifiable Contrastive Learning with Automatic Feature Importance Discovery**|Qi Zhang et.al.|[2310.18904](http://arxiv.org/abs/2310.18904)|**[link](https://github.com/pku-ml/tri-factor-contrastive-learning)**|
 |**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
 |**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879](http://arxiv.org/abs/2310.17879)|null|
 |**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299](http://arxiv.org/abs/2310.16299)|null|
@@ -83,7 +84,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117](http://arxiv.org/abs/2310.18117)|null|
+|**2023-10-29**|**HDMNet: A Hierarchical Matching Network with Double Attention for Large-scale Outdoor LiDAR Point Cloud Registration**|Weiyi Xue et.al.|[2310.18874](http://arxiv.org/abs/2310.18874)|null|
+|**2023-10-28**|**KernelGPA: A Globally Optimal Solution to Deformable SLAM in Closed-form**|Fang Bai et.al.|[2310.18697](http://arxiv.org/abs/2310.18697)|null|
+|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117](http://arxiv.org/abs/2310.18117)|**[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)**|
 |**2023-10-26**|**AutoCT: Automated CT registration, segmentation, and quantification**|Zhe Bai et.al.|[2310.17780](http://arxiv.org/abs/2310.17780)|null|
 |**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359](http://arxiv.org/abs/2310.17359)|null|
 |**2023-10-24**|**Deep Feature Registration for Unsupervised Domain Adaptation**|Youshan Zhang et.al.|[2310.16100](http://arxiv.org/abs/2310.16100)|null|
@@ -108,6 +111,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**Distributed Nonlinear Filtering using Triangular Transport Maps**|Daniel Grange et.al.|[2310.19000](http://arxiv.org/abs/2310.19000)|null|
+|**2023-10-29**|**TIC-TAC: A Framework To Learn And Evaluate Your Covariance**|Megh Shukla et.al.|[2310.18953](http://arxiv.org/abs/2310.18953)|**[link](https://github.com/vita-epfl/TIC-TAC)**|
+|**2023-10-29**|**Improving Multi-Person Pose Tracking with A Confidence Network**|Zehua Fu et.al.|[2310.18920](http://arxiv.org/abs/2310.18920)|null|
+|**2023-10-29**|**HDMNet: A Hierarchical Matching Network with Double Attention for Large-scale Outdoor LiDAR Point Cloud Registration**|Weiyi Xue et.al.|[2310.18874](http://arxiv.org/abs/2310.18874)|null|
 |**2023-10-27**|**ProcNet: Deep Predictive Coding Model for Robust-to-occlusion Visual Segmentation and Pose Estimation**|Michael Zechmair et.al.|[2310.18009](http://arxiv.org/abs/2310.18009)|null|
 |**2023-10-26**|**Learning Extrinsic Dexterity with Parameterized Manipulation Primitives**|Shih-Min Yang et.al.|[2310.17785](http://arxiv.org/abs/2310.17785)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
@@ -138,12 +145,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
+|**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/abs/2310.17880)|null|
 |**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
 |**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858](http://arxiv.org/abs/2310.16858)|null|
 |**2023-10-26**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
-|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|**[link](https://github.com/perf-project/PeRF)**|
+|**2023-10-28**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383](http://arxiv.org/abs/2310.16383)|null|
 |**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255](http://arxiv.org/abs/2310.16255)|null|
 |**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
