@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**|Gaoshuang Huang et.al.|[2311.00230](http://arxiv.org/abs/2311.00230)|null|
 |**2023-10-29**|**Identifiable Contrastive Learning with Automatic Feature Importance Discovery**|Qi Zhang et.al.|[2310.18904](http://arxiv.org/abs/2310.18904)|**[link](https://github.com/pku-ml/tri-factor-contrastive-learning)**|
 |**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
 |**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879](http://arxiv.org/abs/2310.17879)|null|
@@ -84,6 +85,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**A Collaborative Filtering-Based Two Stage Model with Item Dependency for Course Recommendation**|Eric L. Lee et.al.|[2311.00612](http://arxiv.org/abs/2311.00612)|null|
+|**2023-11-01**|**Continual atlas-based segmentation of prostate MRI**|Amin Ranem et.al.|[2311.00548](http://arxiv.org/abs/2311.00548)|**[link](https://github.com/meclabtuda/atlas-replay)**|
+|**2023-11-01**|**An open-source, three-dimensional growth model of the mandible**|Cornelis Klop et.al.|[2311.00392](http://arxiv.org/abs/2311.00392)|null|
+|**2023-11-01**|**MolecularWebXR: Multiuser discussions about chemistry and biology in immersive and inclusive VR**|Fabio J. Cortes Rodriguez et.al.|[2311.00385](http://arxiv.org/abs/2311.00385)|null|
 |**2023-10-31**|**Enhanced Synthetic MRI Generation from CT Scans Using CycleGAN with Feature Extraction**|Saba Nikbakhsh et.al.|[2310.20604](http://arxiv.org/abs/2310.20604)|null|
 |**2023-10-30**|**Incorporating Zero-Knowledge Succinct Non-interactive Argument of Knowledge for Blockchain-based Identity Management with off-chain computations**|Pranay Kothari et.al.|[2310.19452](http://arxiv.org/abs/2310.19452)|null|
 |**2023-10-30**|**Overview of the CLAIMSCAN-2023: Uncovering Truth in Social Media through Claim Detection and Identification of Claim Spans**|Megha Sundriyal et.al.|[2310.19267](http://arxiv.org/abs/2310.19267)|null|
@@ -114,6 +119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios**|Wenyang Hu et.al.|[2311.00401](http://arxiv.org/abs/2311.00401)|null|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
 |**2023-10-31**|**Pose-to-Motion: Cross-Domain Motion Retargeting with Pose Prior**|Qingqing Zhao et.al.|[2310.20249](http://arxiv.org/abs/2310.20249)|null|
 |**2023-10-30**|**FetusMapV2: Enhanced Fetal Pose Estimation in 3D Ultrasound**|Chaoyu Chen et.al.|[2310.19293](http://arxiv.org/abs/2310.19293)|null|
