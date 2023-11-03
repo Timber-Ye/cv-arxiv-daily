@@ -85,6 +85,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432](http://arxiv.org/abs/2311.01432)|null|
+|**2023-11-02**|**Look at Robot Base Once: Hand-Eye Calibration with Point Clouds of Robot Base Leveraging Learning-Based 3D Vision**|Leihui Li et.al.|[2311.01335](http://arxiv.org/abs/2311.01335)|null|
+|**2023-11-02**|**Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration**|Yifan Xie et.al.|[2311.01202](http://arxiv.org/abs/2311.01202)|**[link](https://github.com/ivanxie416/cmignet)**|
+|**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928](http://arxiv.org/abs/2311.00928)|null|
+|**2023-11-01**|**User Experiences with Third-Party SIM Cards and ID Registration in Kenya and Tanzania**|Edith Luhanga et.al.|[2311.00830](http://arxiv.org/abs/2311.00830)|null|
+|**2023-11-01**|**PET Tracer Conversion among Brain PET via Variable Augmented Invertible Network**|Bohui Shen et.al.|[2311.00735](http://arxiv.org/abs/2311.00735)|null|
 |**2023-11-01**|**A Collaborative Filtering-Based Two Stage Model with Item Dependency for Course Recommendation**|Eric L. Lee et.al.|[2311.00612](http://arxiv.org/abs/2311.00612)|null|
 |**2023-11-02**|**Continual atlas-based segmentation of prostate MRI**|Amin Ranem et.al.|[2311.00548](http://arxiv.org/abs/2311.00548)|**[link](https://github.com/meclabtuda/atlas-replay)**|
 |**2023-11-01**|**An open-source, three-dimensional growth model of the mandible**|Cornelis Klop et.al.|[2311.00392](http://arxiv.org/abs/2311.00392)|null|
@@ -119,6 +125,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380](http://arxiv.org/abs/2311.01380)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
 |**2023-11-01**|**A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios**|Wenyang Hu et.al.|[2311.00401](http://arxiv.org/abs/2311.00401)|null|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
 |**2023-10-31**|**Pose-to-Motion: Cross-Domain Motion Retargeting with Pose Prior**|Qingqing Zhao et.al.|[2310.20249](http://arxiv.org/abs/2310.20249)|null|
@@ -157,6 +164,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
