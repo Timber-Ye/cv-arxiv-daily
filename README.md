@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
 |**2023-11-08**|**Training CLIP models on Data from Scientific Papers**|Calvin Metzger et.al.|[2311.04711](http://arxiv.org/abs/2311.04711)|**[link](https://github.com/nopperl/clip_arxiv_pmc)**|
 |**2023-11-08**|**Learning Robust Multi-Scale Representation for Neural Radiance Fields from Unposed Images**|Nishant Jain et.al.|[2311.04521](http://arxiv.org/abs/2311.04521)|null|
@@ -97,6 +98,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Diffusion Shape Prior for Wrinkle-Accurate Cloth Registration**|Jingfan Guo et.al.|[2311.05828](http://arxiv.org/abs/2311.05828)|null|
 |**2023-11-09**|**TransReg: Cross-transformer as auto-registration module for multi-view mammogram mass detection**|Hoang C. Nguyen et.al.|[2311.05192](http://arxiv.org/abs/2311.05192)|null|
 |**2023-11-08**|**VioLA: Aligning Videos to 2D LiDAR Scans**|Jun-Jee Chao et.al.|[2311.04783](http://arxiv.org/abs/2311.04783)|null|
 |**2023-11-08**|**Non-Rigid Shape Registration via Deep Functional Maps Prior**|Puhua Jiang et.al.|[2311.04494](http://arxiv.org/abs/2311.04494)|null|
@@ -144,6 +146,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**CESPED: a new benchmark for supervised particle pose estimation in Cryo-EM**|Ruben Sanchez-Garcia et.al.|[2311.06194](http://arxiv.org/abs/2311.06194)|null|
+|**2023-11-10**|**2D Image head pose estimation via latent space regression under occlusion settings**|José Celestino et.al.|[2311.06038](http://arxiv.org/abs/2311.06038)|**[link](https://github.com/sipg-isr/Occlusion_HPE)**|
+|**2023-11-10**|**Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous**|Ziwei Wang et.al.|[2311.05992](http://arxiv.org/abs/2311.05992)|null|
+|**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887](http://arxiv.org/abs/2311.05887)|null|
 |**2023-11-09**|**Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking**|Mederic Fourmy et.al.|[2311.05344](http://arxiv.org/abs/2311.05344)|null|
 |**2023-11-09**|**Spatial Attention-based Distribution Integration Network for Human Pose Estimation**|Sihan Gao et.al.|[2311.05323](http://arxiv.org/abs/2311.05323)|null|
 |**2023-11-09**|**SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing**|Arunkumar Rathinam et.al.|[2311.05310](http://arxiv.org/abs/2311.05310)|null|
@@ -201,6 +207,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
+|**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
 |**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
 |**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
