@@ -26,7 +26,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-23**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
+|**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937](http://arxiv.org/abs/2311.15937)|**[link](https://github.com/serizba/salad)**|
+|**2023-11-25**|**X-Ray to CT Rigid Registration Using Scene Coordinate Regression**|Pragyan Shrestha et.al.|[2311.15087](http://arxiv.org/abs/2311.15087)|**[link](https://github.com/pragyanstha/scr-registration)**|
+|**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
 |**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752](http://arxiv.org/abs/2311.13752)|null|
 |**2023-11-22**|**Medical Image Retrieval Using Pretrained Embeddings**|Farnaz Khun Jush et.al.|[2311.13547](http://arxiv.org/abs/2311.13547)|null|
 |**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|**[link](https://github.com/qvpr/vprsnn)**|
@@ -69,6 +71,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**|Jialin Liu et.al.|[2311.15609](http://arxiv.org/abs/2311.15609)|null|
 |**2023-11-21**|**Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers**|Bo Sun et.al.|[2311.12291](http://arxiv.org/abs/2311.12291)|null|
 |**2023-11-20**|**CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**|Boni Hu et.al.|[2311.11604](http://arxiv.org/abs/2311.11604)|**[link](https://github.com/npupilab/curriculumloc)**|
 |**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361](http://arxiv.org/abs/2311.10361)|null|
@@ -117,6 +120,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Spatially Covariant Image Registration with Text Prompts**|Hang Zhang et.al.|[2311.15607](http://arxiv.org/abs/2311.15607)|null|
+|**2023-11-27**|**SVRDA: A Web-based Dataset Annotation Tool for Slice-to-Volume Registration**|Weixun Luo et.al.|[2311.15536](http://arxiv.org/abs/2311.15536)|**[link](https://github.com/roldbach/svrda)**|
+|**2023-11-27**|**Adaptive Image Registration: A Hybrid Approach Integrating Deep Learning and Optimization Functions for Enhanced Precision**|Gabriel De Araujo et.al.|[2311.15497](http://arxiv.org/abs/2311.15497)|null|
+|**2023-11-26**|**Understanding the Utilization of Cryptocurrency in the Metaverse and Security Implications**|Ayodeji Adeniran et.al.|[2311.15360](http://arxiv.org/abs/2311.15360)|null|
+|**2023-11-26**|**Self-supervised OCT Image Denoising with Slice-to-Slice Registration and Reconstruction**|Shijie Li et.al.|[2311.15167](http://arxiv.org/abs/2311.15167)|**[link](https://github.com/cjlee94/slice2slice)**|
+|**2023-11-25**|**SAMv2: A Unified Framework for Learning Appearance, Semantic and Cross-Modality Anatomical Embeddings**|Xiaoyu Bai et.al.|[2311.15111](http://arxiv.org/abs/2311.15111)|**[link](https://github.com/alibaba-damo-academy/self-supervised-anatomical-embedding-v2)**|
+|**2023-11-25**|**X-Ray to CT Rigid Registration Using Scene Coordinate Regression**|Pragyan Shrestha et.al.|[2311.15087](http://arxiv.org/abs/2311.15087)|**[link](https://github.com/pragyanstha/scr-registration)**|
+|**2023-11-25**|**SAME++: A Self-supervised Anatomical eMbeddings Enhanced medical image registration framework using stable sampling and regularized transformation**|Lin Tian et.al.|[2311.14986](http://arxiv.org/abs/2311.14986)|**[link](https://github.com/alibaba-damo-academy/same)**|
 |**2023-11-24**|**Deep Learning for Automatic Strain Quantification in Arrhythmogenic Right Ventricular Cardiomyopathy**|Laura Alvarez-Florez et.al.|[2311.14448](http://arxiv.org/abs/2311.14448)|null|
 |**2023-11-24**|**Deformable multi-modal image registration for the correlation between optical measurements and histology images**|Lianne Feenstra et.al.|[2311.14414](http://arxiv.org/abs/2311.14414)|null|
 |**2023-11-22**|**Point Projection Mapping System for Tracking, Registering, Labeling and Validating Optical Tissue Measurements**|Lianne Feenstra et.al.|[2311.13378](http://arxiv.org/abs/2311.13378)|null|
@@ -182,11 +193,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**DiffSLVA: Harnessing Diffusion Models for Sign Language Video Anonymization**|Zhaoyang Xia et.al.|[2311.16060](http://arxiv.org/abs/2311.16060)|**[link](https://github.com/jeffery9707/diffslva)**|
+|**2023-11-27**|**Uncertainty Quantification of Set-Membership Estimation in Control and Perception: Revisiting the Minimum Enclosing Ellipsoid**|Yukai Tang et.al.|[2311.15962](http://arxiv.org/abs/2311.15962)|null|
+|**2023-11-27**|**Computer Vision for Carriers: PATRIOT**|Ari Goodman et.al.|[2311.15914](http://arxiv.org/abs/2311.15914)|null|
+|**2023-11-27**|**SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation**|Jiehong Lin et.al.|[2311.15707](http://arxiv.org/abs/2311.15707)|**[link](https://github.com/jiehonglin/sam-6d)**|
 |**2023-11-24**|**RSB-Pose: Robust Short-Baseline Binocular 3D Human Pose Estimation with Occlusion Handling**|Xiaoyue Wan et.al.|[2311.14242](http://arxiv.org/abs/2311.14242)|null|
 |**2023-11-23**|**Appearance-based gaze estimation enhanced with synthetic images using deep neural networks**|Dmytro Herashchenko et.al.|[2311.14175](http://arxiv.org/abs/2311.14175)|**[link](https://github.com/flakeua/bachelorsthesis)**|
 |**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155](http://arxiv.org/abs/2311.14155)|**[link](https://github.com/nv-nguyen/gigapose)**|
 |**2023-11-23**|**GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence**|Pengyuan Wang et.al.|[2311.13777](http://arxiv.org/abs/2311.13777)|null|
-|**2023-11-22**|**HEViTPose: High-Efficiency Vision Transformer for Human Pose Estimation**|Chengpeng Wu et.al.|[2311.13615](http://arxiv.org/abs/2311.13615)|null|
+|**2023-11-22**|**HEViTPose: High-Efficiency Vision Transformer for Human Pose Estimation**|Chengpeng Wu et.al.|[2311.13615](http://arxiv.org/abs/2311.13615)|**[link](https://github.com/T1sweet/HEViTPose)**|
 |**2023-11-24**|**Calibration System and Algorithm Design for a Soft Hinged Micro Scanning Mirror with a Triaxial Hall Effect Sensor**|Di Wang et.al.|[2311.12778](http://arxiv.org/abs/2311.12778)|null|
 |**2023-11-21**|**HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation**|Yongliang Lin et.al.|[2311.12588](http://arxiv.org/abs/2311.12588)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580](http://arxiv.org/abs/2311.12580)|null|
@@ -269,6 +284,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
+|**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803](http://arxiv.org/abs/2311.15803)|null|
+|**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510](http://arxiv.org/abs/2311.15510)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
+|**2023-11-26**|**Efficient Encoding of Graphics Primitives with Simplex-based Structures**|Yibo Wen et.al.|[2311.15439](http://arxiv.org/abs/2311.15439)|null|
+|**2023-11-26**|**Obj-NeRF: Extract Object NeRFs from Multi-view Images**|Zhiyi Li et.al.|[2311.15291](http://arxiv.org/abs/2311.15291)|null|
+|**2023-11-26**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260](http://arxiv.org/abs/2311.15260)|**[link](https://github.com/georghess/neurad)**|
 |**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
 |**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
 |**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208](http://arxiv.org/abs/2311.14208)|null|
