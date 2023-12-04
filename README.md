@@ -68,7 +68,7 @@
 |**2023-10-16**|**EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**|Tom Bryan et.al.|[2310.10050](http://arxiv.org/abs/2310.10050)|null|
 |**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen et.al.|[2310.09956](http://arxiv.org/abs/2310.09956)|null|
 |**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|**[link](https://github.com/yuleiqin/capro)**|
-|**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|null|
+|**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|**[link](https://github.com/ydwen/opensphere/blob/main/opensphere/module/head/simple.py)**|
 
 <p align=right>(<a href=#updated-on-20231204>back to top</a>)</p>
 
@@ -345,7 +345,7 @@
 |**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664](http://arxiv.org/abs/2311.16664)|null|
 |**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
 |**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504](http://arxiv.org/abs/2311.16504)|null|
-|**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|null|
+|**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|**[link](https://github.com/danielshkao/deceptivehuman)**|
 |**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
 |**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803](http://arxiv.org/abs/2311.15803)|null|
 |**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510](http://arxiv.org/abs/2311.15510)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
