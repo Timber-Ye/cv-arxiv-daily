@@ -26,6 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|null|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527](http://arxiv.org/abs/2312.04527)|null|
 |**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
 |**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
@@ -117,6 +118,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Adaptive Feature Selection for No-Reference Image Quality Assessment using Contrastive Mitigating Semantic Noise Sensitivity**|Xudong Li et.al.|[2312.06158](http://arxiv.org/abs/2312.06158)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141](http://arxiv.org/abs/2312.02141)|null|
@@ -151,6 +153,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Intraoperative 2D/3D Image Registration via Differentiable X-ray Rendering**|Vivek Gopalakrishnan et.al.|[2312.06358](http://arxiv.org/abs/2312.06358)|**[link](https://github.com/eigenvivek/diffpose)**|
+|**2023-12-11**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|null|
+|**2023-12-11**|**A dynamic interactive learning framework for automated 3D medical image segmentation**|Mu Tian et.al.|[2312.06072](http://arxiv.org/abs/2312.06072)|null|
+|**2023-12-11**|**PCRDiffusion: Diffusion Probabilistic Models for Point Cloud Registration**|Yue Wu et.al.|[2312.06063](http://arxiv.org/abs/2312.06063)|null|
+|**2023-12-09**|**HumanReg: Self-supervised Non-rigid Registration of Human Point Cloud**|Yifan Chen et.al.|[2312.05462](http://arxiv.org/abs/2312.05462)|null|
 |**2023-12-08**|**TMID: A Comprehensive Real-world Dataset for Trademark Infringement Detection in E-Commerce**|Tongxin Hu et.al.|[2312.05103](http://arxiv.org/abs/2312.05103)|**[link](https://github.com/emnlptmid/emnlptmid.github.io)**|
 |**2023-12-07**|**Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching**|Junsheng Zhou et.al.|[2312.04060](http://arxiv.org/abs/2312.04060)|**[link](https://github.com/junshengzhou/vp2p-match)**|
 |**2023-12-05**|**Deformable Registration of MRA Images with 4D Flow Images to Facilitate Accurate Estimation of Flow Properties within Blood Vessels**|Dan U. Lior et.al.|[2312.03116](http://arxiv.org/abs/2312.03116)|null|
@@ -243,6 +250,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**3D Hand Pose Estimation in Egocentric Images in the Wild**|Aditya Prakash et.al.|[2312.06583](http://arxiv.org/abs/2312.06583)|null|
+|**2023-12-11**|**PointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation**|Zhiyu Pan et.al.|[2312.06409](http://arxiv.org/abs/2312.06409)|null|
+|**2023-12-11**|**ManiPose: Manifold-Constrained Multi-Hypothesis 3D Human Pose Estimation**|Cédric Rommel et.al.|[2312.06386](http://arxiv.org/abs/2312.06386)|null|
+|**2023-12-10**|**From Correspondences to Pose: Non-minimal Certifiably Optimal Relative Pose without Disambiguation**|Javier Tirado-Garín et.al.|[2312.05995](http://arxiv.org/abs/2312.05995)|**[link](https://github.com/javrtg/c2p)**|
+|**2023-12-09**|**You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Human-Centric Perception**|Sheng Jin et.al.|[2312.05525](http://arxiv.org/abs/2312.05525)|null|
+|**2023-12-07**|**Image and AIS Data Fusion Technique for Maritime Computer Vision Applications**|Emre Gülsoylu et.al.|[2312.05270](http://arxiv.org/abs/2312.05270)|null|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527](http://arxiv.org/abs/2312.04527)|null|
 |**2023-12-07**|**Detecting and Restoring Non-Standard Hands in Stable Diffusion Generated Images**|Yiqun Zhang et.al.|[2312.04236](http://arxiv.org/abs/2312.04236)|null|
 |**2023-12-06**|**Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning**|Xinshun Wang et.al.|[2312.03703](http://arxiv.org/abs/2312.03703)|**[link](https://github.com/fanglaosi/skeleton-in-context)**|
@@ -364,6 +377,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
+|**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439](http://arxiv.org/abs/2312.06439)|null|
+|**2023-12-10**|**NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences**|Minye Wu et.al.|[2312.05855](http://arxiv.org/abs/2312.05855)|null|
+|**2023-12-10**|**IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment**|Letian Zhang et.al.|[2312.05748](http://arxiv.org/abs/2312.05748)|null|
+|**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664](http://arxiv.org/abs/2312.05664)|null|
+|**2023-12-09**|**R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning**|Zhiling Ye et.al.|[2312.05572](http://arxiv.org/abs/2312.05572)|null|
+|**2023-12-08**|**Multi-view Inversion for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2312.05330](http://arxiv.org/abs/2312.05330)|null|
 |**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161](http://arxiv.org/abs/2312.05161)|null|
 |**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
 |**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784](http://arxiv.org/abs/2312.04784)|null|
