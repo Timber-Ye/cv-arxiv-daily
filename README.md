@@ -105,6 +105,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**|Elias Marks et.al.|[2312.14706](http://arxiv.org/abs/2312.14706)|null|
 |**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
 |**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793](http://arxiv.org/abs/2312.11793)|null|
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
@@ -140,6 +141,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2023-12-20**|**Segment Anything Model Meets Image Harmonization**|Haoxing Chen et.al.|[2312.12729](http://arxiv.org/abs/2312.12729)|null|
 |**2023-12-19**|**EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**|Weipeng Guan et.al.|[2312.11911](http://arxiv.org/abs/2312.11911)|null|
 |**2023-12-18**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
@@ -181,7 +183,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-21**|**Geometric Awareness in Neural Fields for 3D Human Registration**|Riccardo Marin et.al.|[2312.14024](http://arxiv.org/abs/2312.14024)|null|
-|**2023-12-21**|**On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient Gradient Methods**|Anh Duc Nguyen et.al.|[2312.13970](http://arxiv.org/abs/2312.13970)|null|
+|**2023-12-22**|**On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient Gradient Methods**|Anh Duc Nguyen et.al.|[2312.13970](http://arxiv.org/abs/2312.13970)|null|
 |**2023-12-21**|**SE(3)-Equivariant and Noise-Invariant 3D Motion Tracking in Medical Images**|Benjamin Billot et.al.|[2312.13534](http://arxiv.org/abs/2312.13534)|**[link](https://github.com/bbillot/equitrack)**|
 |**2023-12-20**|**D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer**|Junjie Gao et.al.|[2312.12970](http://arxiv.org/abs/2312.12970)|null|
 |**2023-12-19**|**Finger Biometric Recognition With Feature Selection**|Asish Bera et.al.|[2312.10447](http://arxiv.org/abs/2312.10447)|null|
@@ -292,6 +294,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915](http://arxiv.org/abs/2312.14915)|null|
+|**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
+|**2023-12-22**|**Pola4All: survey of polarimetric applications and an open-source toolkit to analyze polarization**|Joaquin Rodriguez et.al.|[2312.14697](http://arxiv.org/abs/2312.14697)|null|
+|**2023-12-22**|**PoseViNet: Distracted Driver Action Recognition Framework Using Multi-View Pose Estimation and Vision Transformer**|Neha Sengar et.al.|[2312.14577](http://arxiv.org/abs/2312.14577)|null|
+|**2023-12-22**|**Scalable 3D Reconstruction From Single Particle X-Ray Diffraction Images Based on Online Machine Learning**|Jay Shenoy et.al.|[2312.14432](http://arxiv.org/abs/2312.14432)|null|
 |**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157](http://arxiv.org/abs/2312.14157)|null|
 |**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132](http://arxiv.org/abs/2312.14132)|null|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
@@ -450,10 +457,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915](http://arxiv.org/abs/2312.14915)|null|
+|**2023-12-22**|**Density Uncertainty Quantification with NeRF-Ensembles: Impact of Data and Scene Constraints**|Miriam Jäger et.al.|[2312.14664](http://arxiv.org/abs/2312.14664)|null|
+|**2023-12-21**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer et.al.|[2312.14239](http://arxiv.org/abs/2312.14239)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154](http://arxiv.org/abs/2312.14154)|null|
 |**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
 |**2023-12-21**|**SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS**|Ahmet Haydar Ornek et.al.|[2312.13832](http://arxiv.org/abs/2312.13832)|null|
-|**2023-12-21**|**Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction**|Dawid Malarz et.al.|[2312.13729](http://arxiv.org/abs/2312.13729)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
+|**2023-12-22**|**Gaussian Splatting with NeRF-based Color and Opacity**|Dawid Malarz et.al.|[2312.13729](http://arxiv.org/abs/2312.13729)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528](http://arxiv.org/abs/2312.13528)|null|
 |**2023-12-21**|**Visual Tomography: Physically Faithful Volumetric Models of Partially Translucent Objects**|David Nakath et.al.|[2312.13494](http://arxiv.org/abs/2312.13494)|null|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
