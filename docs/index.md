@@ -197,6 +197,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Bayesian Intrinsic Groupwise Image Registration: Unsupervised Disentanglement of Anatomy and Geometry**|Xinzhe Luo et.al.|[2401.02141](http://arxiv.org/abs/2401.02141)|null|
 |**2024-01-01**|**Optimizing ADMM and Over-Relaxed ADMM Parameters for Linear Quadratic Problems**|Jintao Song et.al.|[2401.00657](http://arxiv.org/abs/2401.00657)|null|
 |**2024-01-03**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436](http://arxiv.org/abs/2401.00436)|null|
 |**2023-12-30**|**BusReF: Infrared-Visible images registration and fusion focus on reconstructible area using one set of features**|Zeyang Zhang et.al.|[2401.00285](http://arxiv.org/abs/2401.00285)|null|
@@ -313,6 +314,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Survey of 3D Human Body Pose and Shape Estimation Methods for Contemporary Dance Applications**|Darshan Venkatrayappa et.al.|[2401.02383](http://arxiv.org/abs/2401.02383)|null|
+|**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357](http://arxiv.org/abs/2401.02357)|null|
+|**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281](http://arxiv.org/abs/2401.02281)|null|
 |**2024-01-03**|**Real-Time Human Fall Detection using a Lightweight Pose Estimation Technique**|Ekram Alam et.al.|[2401.01587](http://arxiv.org/abs/2401.01587)|null|
 |**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081](http://arxiv.org/abs/2401.01081)|null|
 |**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889](http://arxiv.org/abs/2401.00889)|null|
