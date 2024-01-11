@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.10
+## Updated on 2024.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -109,7 +109,7 @@
 |**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|**[link](https://github.com/yuleiqin/capro)**|
 |**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|**[link](https://github.com/ydwen/opensphere/blob/main/opensphere/module/head/simple.py)**|
 
-<p align=right>(<a href=#updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240111>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -149,18 +149,19 @@
 |**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563](http://arxiv.org/abs/2309.09563)|null|
 |**2023-09-17**|**CryoAlign: feature-based method for global and local 3D alignment of EM density maps**|Bintao He et.al.|[2309.09217](http://arxiv.org/abs/2309.09217)|null|
 
-<p align=right>(<a href=#updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240111>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345](http://arxiv.org/abs/2401.04345)|**[link](https://github.com/halleyjiang/romnistereo)**|
 |**2024-01-08**|**ExTraCT -- Explainable Trajectory Corrections from language inputs using Textual description of features**|J-Anne Yow et.al.|[2401.03701](http://arxiv.org/abs/2401.03701)|null|
 |**2024-01-05**|**Hubble Asteroid Hunter III. Physical properties of newly found asteroids**|Pablo García-Martín et.al.|[2401.02605](http://arxiv.org/abs/2401.02605)|null|
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|null|
-|**2024-01-08**|**Adaptive FSS: A Novel Few-Shot Segmentation Framework via Prototype Enhancement**|Jing Wang et.al.|[2312.15731](http://arxiv.org/abs/2312.15731)|**[link](https://github.com/jingw193/adaptivefss)**|
+|**2024-01-09**|**Adaptive FSS: A Novel Few-Shot Segmentation Framework via Prototype Enhancement**|Jing Wang et.al.|[2312.15731](http://arxiv.org/abs/2312.15731)|**[link](https://github.com/jingw193/adaptivefss)**|
 |**2023-12-24**|**Road-Aware Localization With Salient Feature Matching in Heterogeneous Networks**|Lele Cong et.al.|[2312.15443](http://arxiv.org/abs/2312.15443)|null|
 |**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|null|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
@@ -198,12 +199,16 @@
 |**2023-10-05**|**Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation**|Kashu Yamazaki et.al.|[2310.03923](http://arxiv.org/abs/2310.03923)|null|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420](http://arxiv.org/abs/2310.03420)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
 
-<p align=right>(<a href=#updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240111>back to top</a>)</p>
 
 ## Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Augmented Reality and Human-Robot Collaboration Framework for Percutaneous Nephrolithotomy**|Junling Fu et.al.|[2401.04492](http://arxiv.org/abs/2401.04492)|null|
+|**2024-01-09**|**Iterative Feedback Network for Unsupervised Point Cloud Registration**|Yifan Xie et.al.|[2401.04357](http://arxiv.org/abs/2401.04357)|**[link](https://github.com/ivanxie416/ifnet)**|
+|**2024-01-08**|**Spatio-Temporal Turbulence Mitigation: A Translational Perspective**|Xingguang Zhang et.al.|[2401.04244](http://arxiv.org/abs/2401.04244)|null|
+|**2024-01-08**|**Mapping Whole Exome Sequencing to In Vivo Imaging with Stereotactic Localization and Deep Learning**|Mahsa Servati et.al.|[2401.04231](http://arxiv.org/abs/2401.04231)|null|
 |**2024-01-08**|**Overview of the 2023 ICON Shared Task on Gendered Abuse Detection in Indic Languages**|Aatman Vaidya et.al.|[2401.03677](http://arxiv.org/abs/2401.03677)|null|
 |**2024-01-06**|**SecureReg: A Combined Framework for Proactively Exposing Malicious Domain Name Registrations**|Furkan Çolhak et.al.|[2401.03196](http://arxiv.org/abs/2401.03196)|null|
 |**2024-01-06**|**PosDiffNet: Positional Neural Diffusion for Point Cloud Registration in a Large Field of View with Perturbations**|Rui She et.al.|[2401.03167](http://arxiv.org/abs/2401.03167)|null|
@@ -324,12 +329,13 @@
 |**2023-10-17**|**NP-RDMA: Using Commodity RDMA without Pinning Memory**|Huijun Shen et.al.|[2310.11062](http://arxiv.org/abs/2310.11062)|null|
 |**2023-10-19**|**Co-Learning Semantic-aware Unsupervised Segmentation for Pathological Image Registration**|Yang Liu et.al.|[2310.11040](http://arxiv.org/abs/2310.11040)|null|
 
-<p align=right>(<a href=#updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240111>back to top</a>)</p>
 
 ## Pose Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-07**|**RHOBIN Challenge: Reconstruction of Human Object Interaction**|Xianghui Xie et.al.|[2401.04143](http://arxiv.org/abs/2401.04143)|null|
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914](http://arxiv.org/abs/2401.03914)|null|
 |**2024-01-07**|**Big Data and Deep Learning in Smart Cities: A Comprehensive Dataset for AI-Driven Traffic Accident Detection and Computer Vision Systems**|Victor Adewopo et.al.|[2401.03587](http://arxiv.org/abs/2401.03587)|null|
 |**2024-01-04**|**Survey of 3D Human Body Pose and Shape Estimation Methods for Contemporary Dance Applications**|Darshan Venkatrayappa et.al.|[2401.02383](http://arxiv.org/abs/2401.02383)|null|
@@ -510,7 +516,7 @@
 |**2023-10-17**|**Holistic Parking Slot Detection with Polygon-Shaped Representations**|Lihao Wang et.al.|[2310.11629](http://arxiv.org/abs/2310.11629)|null|
 |**2023-10-17**|**Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication**|Chelsey Edge et.al.|[2310.11536](http://arxiv.org/abs/2310.11536)|null|
 
-<p align=right>(<a href=#updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240111>back to top</a>)</p>
 
 ## NeRF
 
@@ -725,7 +731,7 @@
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
 |**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|**[link](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**|
 
-<p align=right>(<a href=#updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
