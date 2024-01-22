@@ -22,7 +22,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-18**|**Cross-Modality Perturbation Synergy Attack for Person Re-identification**|Yunpeng Gong et.al.|[2401.10090](http://arxiv.org/abs/2401.10090)|null|
+|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
+|**2024-01-19**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475](http://arxiv.org/abs/2401.10475)|null|
+|**2024-01-19**|**PhotoScout: Synthesis-Powered Multi-Modal Image Search**|Celeste Barnaby et.al.|[2401.10464](http://arxiv.org/abs/2401.10464)|null|
+|**2024-01-19**|**Cross-Modality Perturbation Synergy Attack for Person Re-identification**|Yunpeng Gong et.al.|[2401.10090](http://arxiv.org/abs/2401.10090)|null|
 |**2024-01-16**|**AdaSem: Adaptive Goal-Oriented Semantic Communications for End-to-End Camera Relocalization**|Qi Liao et.al.|[2401.08360](http://arxiv.org/abs/2401.08360)|null|
 |**2024-01-16**|**Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**|Zahra Tabatabaei et.al.|[2401.08272](http://arxiv.org/abs/2401.08272)|null|
 |**2024-01-16**|**Multi-Technique Sequential Information Consistency For Dynamic Visual Place Recognition In Changing Environments**|Bruno Arcanjo et.al.|[2401.08263](http://arxiv.org/abs/2401.08263)|null|
@@ -164,6 +167,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
 |**2024-01-17**|**DK-SLAM: Monocular Visual SLAM with Deep Keypoints Adaptive Learning, Tracking and Loop-Closing**|Hao Qu et.al.|[2401.09160](http://arxiv.org/abs/2401.09160)|null|
 |**2024-01-10**|**Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection**|Yucheng Han et.al.|[2401.05011](http://arxiv.org/abs/2401.05011)|**[link](https://github.com/tingxueronghua/dpke)**|
@@ -358,6 +362,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
+|**2024-01-19**|**Source-Free and Image-Only Unsupervised Domain Adaptation for Category Level Object Pose Estimation**|Prakhar Kaushik et.al.|[2401.10848](http://arxiv.org/abs/2401.10848)|null|
 |**2024-01-18**|**Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Antonia Bronars et.al.|[2401.10230](http://arxiv.org/abs/2401.10230)|null|
 |**2024-01-18**|**Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework**|Junkun Jiang et.al.|[2401.09836](http://arxiv.org/abs/2401.09836)|null|
 |**2024-01-17**|**DK-SLAM: Monocular Visual SLAM with Deep Keypoints Adaptive Learning, Tracking and Loop-Closing**|Hao Qu et.al.|[2401.09160](http://arxiv.org/abs/2401.09160)|null|
@@ -557,7 +563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-17**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
+|**2024-01-19**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-18**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140](http://arxiv.org/abs/2401.08140)|null|
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
