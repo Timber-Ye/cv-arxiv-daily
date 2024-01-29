@@ -209,7 +209,7 @@
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034](http://arxiv.org/abs/2311.10034)|null|
 |**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043](http://arxiv.org/abs/2311.05043)|**[link](https://github.com/explainableml/zs-a2t)**|
 |**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842](http://arxiv.org/abs/2311.02842)|null|
-|**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|null|
+|**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|**[link](https://github.com/openxrlab/xrslam)**|
 |**2023-10-23**|**On Partial Shape Correspondence and Functional Maps**|Amit Bracha et.al.|[2310.14692](http://arxiv.org/abs/2310.14692)|null|
 |**2023-10-23**|**Player Re-Identification Using Body Part Appearences**|Mahesh Bhosale et.al.|[2310.14469](http://arxiv.org/abs/2310.14469)|null|
 |**2023-10-22**|**Research on Key Technologies of Infrastructure Digitalization based on Multimodal Spatial Data**|Zhanyuan Tian et.al.|[2310.14296](http://arxiv.org/abs/2310.14296)|null|
@@ -464,7 +464,7 @@
 |**2023-12-11**|**ManiPose: Manifold-Constrained Multi-Hypothesis 3D Human Pose Estimation**|Cédric Rommel et.al.|[2312.06386](http://arxiv.org/abs/2312.06386)|null|
 |**2023-12-10**|**From Correspondences to Pose: Non-minimal Certifiably Optimal Relative Pose without Disambiguation**|Javier Tirado-Garín et.al.|[2312.05995](http://arxiv.org/abs/2312.05995)|**[link](https://github.com/javrtg/c2p)**|
 |**2023-12-09**|**You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Human-Centric Perception**|Sheng Jin et.al.|[2312.05525](http://arxiv.org/abs/2312.05525)|null|
-|**2023-12-07**|**Image and AIS Data Fusion Technique for Maritime Computer Vision Applications**|Emre Gülsoylu et.al.|[2312.05270](http://arxiv.org/abs/2312.05270)|null|
+|**2023-12-07**|**Image and AIS Data Fusion Technique for Maritime Computer Vision Applications**|Emre Gülsoylu et.al.|[2312.05270](http://arxiv.org/abs/2312.05270)|**[link](https://github.com/egulsoylu/image-ais-fusion)**|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527](http://arxiv.org/abs/2312.04527)|null|
 |**2023-12-07**|**Detecting and Restoring Non-Standard Hands in Stable Diffusion Generated Images**|Yiqun Zhang et.al.|[2312.04236](http://arxiv.org/abs/2312.04236)|null|
 |**2023-12-06**|**Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning**|Xinshun Wang et.al.|[2312.03703](http://arxiv.org/abs/2312.03703)|**[link](https://github.com/fanglaosi/skeleton-in-context)**|
