@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-29**|**Cross-Modal Coordination Across a Diverse Set of Input Modalities**|Jorge Sánchez et.al.|[2401.16347](http://arxiv.org/abs/2401.16347)|null|
 |**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304](http://arxiv.org/abs/2401.16304)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
@@ -177,6 +178,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**LATENTPATCH: A Non-Parametric Approach for Face Generation and Editing**|Benjamin Samuth et.al.|[2401.16830](http://arxiv.org/abs/2401.16830)|null|
+|**2024-01-30**|**MESA: Matching Everything by Segmenting Anything**|Yesheng Zhang et.al.|[2401.16741](http://arxiv.org/abs/2401.16741)|null|
 |**2024-01-29**|**Bridging the Domain Gap: A Simple Domain Matching Method for Reference-based Image Super-Resolution in Remote Sensing**|Jeongho Min et.al.|[2401.15944](http://arxiv.org/abs/2401.15944)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
@@ -236,6 +239,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Deep 3D World Models for Multi-Image Super-Resolution Beyond Optical Flow**|Luca Savant Aira et.al.|[2401.16972](http://arxiv.org/abs/2401.16972)|null|
+|**2024-01-30**|**A Tournament of Transformation Models: B-Spline-based vs. Mesh-based Multi-Objective Deformable Image Registration**|Georgios Andreadis et.al.|[2401.16867](http://arxiv.org/abs/2401.16867)|null|
+|**2024-01-30**|**A Literature Review on Fetus Brain Motion Correction in MRI**|Haoran Zhang et.al.|[2401.16782](http://arxiv.org/abs/2401.16782)|null|
 |**2024-01-29**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin et.al.|[2401.16027](http://arxiv.org/abs/2401.16027)|null|
 |**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753](http://arxiv.org/abs/2401.15753)|null|
 |**2024-01-28**|**Pericoronary adipose tissue feature analysis in CT calcium score images with comparison to coronary CTA**|Yingnan Song et.al.|[2401.15554](http://arxiv.org/abs/2401.15554)|null|
@@ -391,10 +397,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**MESA: Matching Everything by Segmenting Anything**|Yesheng Zhang et.al.|[2401.16741](http://arxiv.org/abs/2401.16741)|null|
+|**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
 |**2024-01-29**|**Leveraging Positional Encoding for Robust Multi-Reference-Based Object 6D Pose Estimation**|Jaewoo Park et.al.|[2401.16284](http://arxiv.org/abs/2401.16284)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
-|**2024-01-27**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin et.al.|[2401.15313](http://arxiv.org/abs/2401.15313)|null|
+|**2024-01-30**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin et.al.|[2401.15313](http://arxiv.org/abs/2401.15313)|null|
 |**2024-01-26**|**Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones**|Beatrice Alessandra Motetti et.al.|[2401.15236](http://arxiv.org/abs/2401.15236)|null|
 |**2024-01-26**|**SimpleEgo: Predicting Probabilistic Body Pose from Egocentric Cameras**|Hanz Cuevas-Velasquez et.al.|[2401.14785](http://arxiv.org/abs/2401.14785)|null|
 |**2024-01-24**|**Synthetic data enables faster annotation and robust segmentation for multi-object grasping in clutter**|Dongmyoung Lee et.al.|[2401.13405](http://arxiv.org/abs/2401.13405)|null|
@@ -603,6 +611,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|null|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
