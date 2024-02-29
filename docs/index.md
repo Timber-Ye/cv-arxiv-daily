@@ -26,12 +26,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport**|Bin Li et.al.|[2402.18411](http://arxiv.org/abs/2402.18411)|**[link](https://github.com/hcvlab/protoot)**|
+|**2024-02-28**|**Balanced Similarity with Auxiliary Prompts: Towards Alleviating Text-to-Image Retrieval Bias for CLIP in Zero-shot Learning**|Hanyao Wang et.al.|[2402.18400](http://arxiv.org/abs/2402.18400)|null|
+|**2024-02-28**|**Representing 3D sparse map points and lines for camera relocalization**|Bach-Thuan Bui et.al.|[2402.18011](http://arxiv.org/abs/2402.18011)|**[link](https://github.com/ais-lab/pl2map)**|
 |**2024-02-27**|**Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control**|Thong Nguyen et.al.|[2402.17535](http://arxiv.org/abs/2402.17535)|**[link](https://github.com/thongnt99/lsr-multimodal)**|
 |**2024-02-27**|**Active propulsion noise shaping for multi-rotor aircraft localization**|Serussi Gabriele et.al.|[2402.17289](http://arxiv.org/abs/2402.17289)|**[link](https://github.com/tamirshor7/ears_code)**|
 |**2024-02-27**|**NocPlace: Nocturnal Visual Place Recognition Using Generative and Inherited Knowledge Transfer**|Bingxi Liu et.al.|[2402.17159](http://arxiv.org/abs/2402.17159)|null|
 |**2024-02-25**|**Deep Homography Estimation for Visual Place Recognition**|Feng Lu et.al.|[2402.16086](http://arxiv.org/abs/2402.16086)|**[link](https://github.com/lu-feng/dhe-vpr)**|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
-|**2024-02-23**|**Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**|Zijun Long et.al.|[2402.15276](http://arxiv.org/abs/2402.15276)|null|
+|**2024-02-28**|**Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**|Zijun Long et.al.|[2402.15276](http://arxiv.org/abs/2402.15276)|null|
 |**2024-02-23**|**Fine-tuning CLIP Text Encoders with Two-step Paraphrasing**|Hyunjae Kim et.al.|[2402.15120](http://arxiv.org/abs/2402.15120)|null|
 |**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817](http://arxiv.org/abs/2402.14817)|null|
 |**2024-02-22**|**Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**|Feng Lu et.al.|[2402.14505](http://arxiv.org/abs/2402.14505)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
@@ -282,10 +285,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images**|Jiarui Xing et.al.|[2402.18507](http://arxiv.org/abs/2402.18507)|null|
+|**2024-02-28**|**Bimanual Manipulation of Steady Hand Eye Robots with Adaptive Sclera Force Control: Cooperative vs. Teleoperation Strategies**|Mojtaba Esfandiari et.al.|[2402.18088](http://arxiv.org/abs/2402.18088)|null|
 |**2024-02-27**|**Quantifying the Resolution of a Template after Image Registration**|Matthias Glock et.al.|[2402.17617](http://arxiv.org/abs/2402.17617)|**[link](https://github.com/Stochastik-TU-Ilmenau/image-template-resolution)**|
 |**2024-02-27**|**How we won BraTS 2023 Adult Glioma challenge? Just faking it! Enhanced Synthetic Data Augmentation and Model Ensemble for brain tumour segmentation**|André Ferreira et.al.|[2402.17317](http://arxiv.org/abs/2402.17317)|null|
 |**2024-02-23**|**Multi-Objective Learning for Deformable Image Registration**|Monika Grewal et.al.|[2402.16658](http://arxiv.org/abs/2402.16658)|null|
-|**2024-02-26**|**PCR-99: A Practical Method for Point Cloud Registration with 99% Outliers**|Seong Hun Lee et.al.|[2402.16598](http://arxiv.org/abs/2402.16598)|**[link](https://github.com/sunghoon031/pcr-99)**|
+|**2024-02-28**|**PCR-99: A Practical Method for Point Cloud Registration with 99% Outliers**|Seong Hun Lee et.al.|[2402.16598](http://arxiv.org/abs/2402.16598)|**[link](https://github.com/sunghoon031/pcr-99)**|
 |**2024-02-26**|**Autonomous Integration of TSN-unaware Applications with QoS Requirements in TSN Networks**|Moritz Fluechter et.al.|[2402.16454](http://arxiv.org/abs/2402.16454)|null|
 |**2024-02-24**|**General Purpose Image Encoder DINOv2 for Medical Image Registration**|Xinrui Song et.al.|[2402.15687](http://arxiv.org/abs/2402.15687)|null|
 |**2024-02-23**|**CLIPPER+: A Fast Maximal Clique Algorithm for Robust Global Registration**|Kaveh Fathian et.al.|[2402.15464](http://arxiv.org/abs/2402.15464)|null|
@@ -472,6 +477,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting**|Taeho Kang et.al.|[2402.18330](http://arxiv.org/abs/2402.18330)|**[link](https://github.com/tho-kn/egotap)**|
+|**2024-02-28**|**Location-guided Head Pose Estimation for Fisheye Image**|Bing Li et.al.|[2402.18320](http://arxiv.org/abs/2402.18320)|null|
+|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|null|
+|**2024-02-28**|**Six-Point Method for Multi-Camera Systems with Reduced Solution Space**|Banglei Guan et.al.|[2402.18066](http://arxiv.org/abs/2402.18066)|null|
 |**2024-02-27**|**Real-Time Estimation of Relative Pose for UAVs Using a Dual-Channel Feature Association**|Zhaoying Wang et.al.|[2402.17504](http://arxiv.org/abs/2402.17504)|null|
 |**2024-02-26**|**HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields**|Haozhe Qi et.al.|[2402.17062](http://arxiv.org/abs/2402.17062)|**[link](https://github.com/amathislab/hoisdf)**|
 |**2024-02-26**|**DRSI-Net: Dual-Residual Spatial Interaction Network for Multi-Person Pose Estimation**|Shang Wu et.al.|[2402.16640](http://arxiv.org/abs/2402.16640)|null|
@@ -734,6 +743,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|null|
+|**2024-02-26**|**Neural Radiance Fields in Medical Imaging: Challenges and Next Steps**|Xin Wang et.al.|[2402.17797](http://arxiv.org/abs/2402.17797)|null|
 |**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
 |**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
 |**2024-02-27**|**Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**|Zicheng Zhang et.al.|[2402.17364](http://arxiv.org/abs/2402.17364)|**[link](https://github.com/zhangzc21/dyntet)**|
