@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
+|**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703](http://arxiv.org/abs/2403.04703)|null|
 |**2024-03-06**|**Self-supervised Photographic Image Layout Representation Learning**|Zhaoran Zhao et.al.|[2403.03740](http://arxiv.org/abs/2403.03740)|**[link](https://github.com/cv-xueba/image-layout-learning)**|
 |**2024-03-05**|**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**|Chris Rockwell et.al.|[2403.03221](http://arxiv.org/abs/2403.03221)|null|
 |**2024-03-04**|**Multi-Spectral Remote Sensing Image Retrieval Using Geospatial Foundation Models**|Benedikt Blumenstiel et.al.|[2403.02059](http://arxiv.org/abs/2403.02059)|**[link](https://github.com/ibm/remote-sensing-image-retrieval)**|
@@ -220,7 +222,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-06**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
+|**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
+|**2024-03-07**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
 |**2024-02-29**|**SIFT-Aided Rectified 2D-DIC for Displacement and Strain Measurements in Asphalt Concrete Testing**|Zehui Zhu et.al.|[2402.19279](http://arxiv.org/abs/2402.19279)|null|
 |**2024-02-25**|**Towards Robust Image Stitching: An Adaptive Resistance Learning against Compatible Attacks**|Zhiying Jiang et.al.|[2402.15959](http://arxiv.org/abs/2402.15959)|**[link](https://github.com/jzy2017/tris)**|
 |**2024-02-25**|**An Error-Matching Exclusion Method for Accelerating Visual SLAM**|Shaojie Zhang et.al.|[2402.14345](http://arxiv.org/abs/2402.14345)|null|
@@ -298,6 +301,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
+|**2024-03-07**|**Anatomy-Guided Surface Diffusion Model for Alzheimer's Disease Normative Modeling**|Jianwei Zhang et.al.|[2403.04531](http://arxiv.org/abs/2403.04531)|null|
 |**2024-03-06**|**Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension**|Quan Liu et.al.|[2403.03532](http://arxiv.org/abs/2403.03532)|**[link](https://github.com/liuquan98/eyoc)**|
 |**2024-03-05**|**Towards Geometric-Photometric Joint Alignment for Facial Mesh Registration**|Xizhi Wang et.al.|[2403.02629](http://arxiv.org/abs/2403.02629)|null|
 |**2024-03-04**|**Coronary artery segmentation in non-contrast calcium scoring CT images using deep learning**|Mariusz Bujny et.al.|[2403.02544](http://arxiv.org/abs/2403.02544)|null|
@@ -505,6 +510,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
+|**2024-03-07**|**Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser**|Qingyuan Cai et.al.|[2403.04444](http://arxiv.org/abs/2403.04444)|null|
+|**2024-03-07**|**Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation**|Ruicong Liu et.al.|[2403.04381](http://arxiv.org/abs/2403.04381)|null|
 |**2024-03-05**|**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**|Chris Rockwell et.al.|[2403.03221](http://arxiv.org/abs/2403.03221)|null|
 |**2024-03-05**|**NRDF: Neural Riemannian Distance Fields for Learning Articulated Pose Priors**|Yannan He et.al.|[2403.03122](http://arxiv.org/abs/2403.03122)|null|
 |**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111](http://arxiv.org/abs/2403.03111)|null|
@@ -786,6 +794,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Space**|Evangelos Skartados et.al.|[2403.04508](http://arxiv.org/abs/2403.04508)|null|
+|**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116](http://arxiv.org/abs/2403.04116)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
+|**2024-03-07**|**DNAct: Diffusion Guided Multi-Task 3D Policy Learning**|Ge Yan et.al.|[2403.04115](http://arxiv.org/abs/2403.04115)|null|
+|**2024-03-07**|**Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs**|Nikhil Mishra et.al.|[2403.04114](http://arxiv.org/abs/2403.04114)|**[link](https://github.com/nikhilmishra000/cov-nerf)**|
 |**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
 |**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
