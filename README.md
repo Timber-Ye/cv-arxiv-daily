@@ -30,7 +30,7 @@
 |**2024-03-03**|**Image2Sentence based Asymmetrical Zero-shot Composed Image Retrieval**|Yongchao Du et.al.|[2403.01431](http://arxiv.org/abs/2403.01431)|null|
 |**2024-03-02**|**Single-image camera calibration with model-free distortion correction**|Katia Genovese et.al.|[2403.01263](http://arxiv.org/abs/2403.01263)|null|
 |**2024-03-01**|**Asymmetric Feature Fusion for Image Retrieval**|Hui Wu et.al.|[2403.00671](http://arxiv.org/abs/2403.00671)|null|
-|**2024-03-01**|**Structure Similarity Preservation Learning for Asymmetric Image Retrieval**|Hui Wu et.al.|[2403.00648](http://arxiv.org/abs/2403.00648)|null|
+|**2024-03-01**|**Structure Similarity Preservation Learning for Asymmetric Image Retrieval**|Hui Wu et.al.|[2403.00648](http://arxiv.org/abs/2403.00648)|**[link](https://github.com/mcc-wh/ssp)**|
 |**2024-02-29**|**CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**|Feng Lu et.al.|[2402.19231](http://arxiv.org/abs/2402.19231)|**[link](https://github.com/lu-feng/cricavpr)**|
 |**2024-02-28**|**Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport**|Bin Li et.al.|[2402.18411](http://arxiv.org/abs/2402.18411)|**[link](https://github.com/hcvlab/protoot)**|
 |**2024-02-28**|**Balanced Similarity with Auxiliary Prompts: Towards Alleviating Text-to-Image Retrieval Bias for CLIP in Zero-shot Learning**|Hanyao Wang et.al.|[2402.18400](http://arxiv.org/abs/2402.18400)|null|
