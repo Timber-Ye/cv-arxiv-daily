@@ -26,7 +26,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-08**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002](http://arxiv.org/abs/2403.05002)|null|
+|**2024-03-11**|**EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**|Gabriele Berton et.al.|[2403.06758](http://arxiv.org/abs/2403.06758)|**[link](https://github.com/gmberton/earthloc)**|
+|**2024-03-11**|**BEV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues**|Fudong Ge et.al.|[2403.06600](http://arxiv.org/abs/2403.06600)|null|
+|**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567](http://arxiv.org/abs/2403.06567)|null|
+|**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341](http://arxiv.org/abs/2403.06341)|null|
+|**2024-03-10**|**Texture image retrieval using a classification and contourlet-based features**|Asal Rouhafzay et.al.|[2403.06048](http://arxiv.org/abs/2403.06048)|null|
+|**2024-03-11**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002](http://arxiv.org/abs/2403.05002)|null|
 |**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703](http://arxiv.org/abs/2403.04703)|null|
 |**2024-03-06**|**Self-supervised Photographic Image Layout Representation Learning**|Zhaoran Zhao et.al.|[2403.03740](http://arxiv.org/abs/2403.03740)|**[link](https://github.com/cv-xueba/image-layout-learning)**|
@@ -223,6 +228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Ensemble Quadratic Assignment Network for Graph Matching**|Haoru Tan et.al.|[2403.06457](http://arxiv.org/abs/2403.06457)|null|
 |**2024-03-08**|**Generalized Correspondence Matching via Flexible Hierarchical Refinement and Patch Descriptor Distillation**|Yu Han et.al.|[2403.05388](http://arxiv.org/abs/2403.05388)|null|
 |**2024-03-08**|**PIPsUS: Self-Supervised Dense Point Tracking in Ultrasound**|Wanwen Chen et.al.|[2403.04969](http://arxiv.org/abs/2403.04969)|null|
 |**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
@@ -302,6 +308,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**LIBR+: Improving Intraoperative Liver Registration by Learning the Residual of Biomechanics-Based Deformable Registration**|Dingrong Wang et.al.|[2403.06901](http://arxiv.org/abs/2403.06901)|null|
+|**2024-03-11**|**Towards Zero-Shot Interpretable Human Recognition: A 2D-3D Registration Framework**|Henrique Jesus et.al.|[2403.06658](http://arxiv.org/abs/2403.06658)|null|
+|**2024-03-10**|**PSS-BA: LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2403.06124](http://arxiv.org/abs/2403.06124)|null|
+|**2024-03-09**|**uniGradICON: A Foundation Model for Medical Image Registration**|Lin Tian et.al.|[2403.05780](http://arxiv.org/abs/2403.05780)|**[link](https://github.com/uncbiag/unigradicon)**|
+|**2024-03-09**|**UDCR: Unsupervised Aortic DSA/CTA Rigid Registration Using Deep Reinforcement Learning and Overlap Degree Calculation**|Wentao Liu et.al.|[2403.05753](http://arxiv.org/abs/2403.05753)|null|
+|**2024-03-07**|**An Image-based Typology for Visualization**|Jian Chen et.al.|[2403.05594](http://arxiv.org/abs/2403.05594)|null|
 |**2024-03-08**|**From Registration Uncertainty to Segmentation Uncertainty**|Junyu Chen et.al.|[2403.05111](http://arxiv.org/abs/2403.05111)|null|
 |**2024-03-08**|**Robust automated calcification meshing for biomechanical cardiac digital twins**|Daniel H. Pak et.al.|[2403.04998](http://arxiv.org/abs/2403.04998)|null|
 |**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
@@ -511,7 +523,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-08**|**Exploiting polar symmetry in designing equivariant observers for vision-based motion estimation**|Tarek Bouazza et.al.|[2403.05450](http://arxiv.org/abs/2403.05450)|null|
+|**2024-03-11**|**Real-Time Simulated Avatar from Head-Mounted Sensors**|Zhengyi Luo et.al.|[2403.06862](http://arxiv.org/abs/2403.06862)|null|
+|**2024-03-11**|**Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition**|Erkut Akdag et.al.|[2403.06577](http://arxiv.org/abs/2403.06577)|null|
+|**2024-03-10**|**Platypose: Calibrated Zero-Shot Multi-Hypothesis 3D Human Motion Estimation**|Paweł A. Pierzchlewicz et.al.|[2403.06164](http://arxiv.org/abs/2403.06164)|null|
+|**2024-03-10**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090](http://arxiv.org/abs/2403.06090)|null|
+|**2024-03-08**|**Prepared for the Worst: A Learning-Based Adversarial Attack for Resilience Analysis of the ICP Algorithm**|Ziyu Zhang et.al.|[2403.05666](http://arxiv.org/abs/2403.05666)|null|
+|**2024-03-11**|**Exploiting polar symmetry in designing equivariant observers for vision-based motion estimation**|Tarek Bouazza et.al.|[2403.05450](http://arxiv.org/abs/2403.05450)|null|
 |**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936](http://arxiv.org/abs/2403.04936)|null|
 |**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
 |**2024-03-07**|**Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser**|Qingyuan Cai et.al.|[2403.04444](http://arxiv.org/abs/2403.04444)|null|
@@ -795,6 +812,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
+|**2024-03-11**|**Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis**|Chenhao Zhang et.al.|[2403.06505](http://arxiv.org/abs/2403.06505)|null|
+|**2024-03-11**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394](http://arxiv.org/abs/2403.06394)|null|
+|**2024-03-10**|**Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?**|Hanxin Zhu et.al.|[2403.06092](http://arxiv.org/abs/2403.06092)|null|
+|**2024-03-09**|**Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**|Junyi Cao et.al.|[2403.05907](http://arxiv.org/abs/2403.05907)|null|
+|**2024-03-09**|**Large Generative Model Assisted 3D Semantic Communication**|Feibo Jiang et.al.|[2403.05783](http://arxiv.org/abs/2403.05783)|null|
 |**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154](http://arxiv.org/abs/2403.05154)|null|
 |**2024-03-08**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados et.al.|[2403.04508](http://arxiv.org/abs/2403.04508)|null|
 |**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116](http://arxiv.org/abs/2403.04116)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
