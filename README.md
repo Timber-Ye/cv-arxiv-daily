@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.12
+## Updated on 2024.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341](http://arxiv.org/abs/2403.06341)|null|
 |**2024-03-10**|**Texture image retrieval using a classification and contourlet-based features**|Asal Rouhafzay et.al.|[2403.06048](http://arxiv.org/abs/2403.06048)|null|
 |**2024-03-11**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002](http://arxiv.org/abs/2403.05002)|null|
-|**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
+|**2024-03-11**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703](http://arxiv.org/abs/2403.04703)|null|
 |**2024-03-06**|**Self-supervised Photographic Image Layout Representation Learning**|Zhaoran Zhao et.al.|[2403.03740](http://arxiv.org/abs/2403.03740)|**[link](https://github.com/cv-xueba/image-layout-learning)**|
 |**2024-03-05**|**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**|Chris Rockwell et.al.|[2403.03221](http://arxiv.org/abs/2403.03221)|null|
@@ -175,7 +175,7 @@
 |**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|**[link](https://github.com/yuleiqin/capro)**|
 |**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|**[link](https://github.com/ydwen/opensphere/blob/main/opensphere/module/head/simple.py)**|
 
-<p align=right>(<a href=#updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -222,7 +222,7 @@
 |**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563](http://arxiv.org/abs/2309.09563)|null|
 |**2023-09-17**|**CryoAlign: feature-based method for global and local 3D alignment of EM density maps**|Bintao He et.al.|[2309.09217](http://arxiv.org/abs/2309.09217)|null|
 
-<p align=right>(<a href=#updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
 
 ## Image Matching
 
@@ -231,7 +231,7 @@
 |**2024-03-11**|**Ensemble Quadratic Assignment Network for Graph Matching**|Haoru Tan et.al.|[2403.06457](http://arxiv.org/abs/2403.06457)|null|
 |**2024-03-08**|**Generalized Correspondence Matching via Flexible Hierarchical Refinement and Patch Descriptor Distillation**|Yu Han et.al.|[2403.05388](http://arxiv.org/abs/2403.05388)|null|
 |**2024-03-08**|**PIPsUS: Self-Supervised Dense Point Tracking in Ultrasound**|Wanwen Chen et.al.|[2403.04969](http://arxiv.org/abs/2403.04969)|null|
-|**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
+|**2024-03-11**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
 |**2024-02-29**|**SIFT-Aided Rectified 2D-DIC for Displacement and Strain Measurements in Asphalt Concrete Testing**|Zehui Zhu et.al.|[2402.19279](http://arxiv.org/abs/2402.19279)|null|
 |**2024-02-25**|**Towards Robust Image Stitching: An Adaptive Resistance Learning against Compatible Attacks**|Zhiying Jiang et.al.|[2402.15959](http://arxiv.org/abs/2402.15959)|**[link](https://github.com/jzy2017/tris)**|
@@ -304,7 +304,7 @@
 |**2023-10-05**|**Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation**|Kashu Yamazaki et.al.|[2310.03923](http://arxiv.org/abs/2310.03923)|null|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420](http://arxiv.org/abs/2310.03420)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
 
-<p align=right>(<a href=#updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
 
 ## Registration
 
@@ -521,7 +521,7 @@
 |**2023-10-17**|**NP-RDMA: Using Commodity RDMA without Pinning Memory**|Huijun Shen et.al.|[2310.11062](http://arxiv.org/abs/2310.11062)|null|
 |**2023-10-19**|**Co-Learning Semantic-aware Unsupervised Segmentation for Pathological Image Registration**|Yang Liu et.al.|[2310.11040](http://arxiv.org/abs/2310.11040)|null|
 
-<p align=right>(<a href=#updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
 
 ## Pose Estimation
 
@@ -812,7 +812,7 @@
 |**2023-10-17**|**Holistic Parking Slot Detection with Polygon-Shaped Representations**|Lihao Wang et.al.|[2310.11629](http://arxiv.org/abs/2310.11629)|null|
 |**2023-10-17**|**Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication**|Chelsey Edge et.al.|[2310.11536](http://arxiv.org/abs/2310.11536)|null|
 
-<p align=right>(<a href=#updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
 
 ## NeRF
 
@@ -1122,7 +1122,7 @@
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
 |**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|**[link](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**|
 
-<p align=right>(<a href=#updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
