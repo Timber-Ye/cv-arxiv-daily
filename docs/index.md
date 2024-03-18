@@ -78,7 +78,7 @@ layout: default
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588](http://arxiv.org/abs/2402.00588)|null|
 |**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330](http://arxiv.org/abs/2402.00330)|**[link](https://github.com/imrl/night-rider)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|**[link](https://github.com/vignywang/awesome-local-feature-matching)**|
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-29**|**Cross-Modal Coordination Across a Diverse Set of Input Modalities**|Jorge Sánchez et.al.|[2401.16347](http://arxiv.org/abs/2401.16347)|null|
 |**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304](http://arxiv.org/abs/2401.16304)|null|
@@ -209,7 +209,7 @@ layout: default
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
-|**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|null|
+|**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|**[link](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)**|
 |**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
 |**2023-11-28**|**Riemannian Self-Attention Mechanism for SPD Networks**|Rui Wang et.al.|[2311.16738](http://arxiv.org/abs/2311.16738)|null|
 |**2023-11-27**|**A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**|Jialin Liu et.al.|[2311.15609](http://arxiv.org/abs/2311.15609)|null|
@@ -259,7 +259,7 @@ layout: default
 |**2024-02-05**|**Exploring Federated Self-Supervised Learning for General Purpose Audio Understanding**|Yasar Abbas Ur Rehman et.al.|[2402.02889](http://arxiv.org/abs/2402.02889)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-31**|**Exploring the Common Appearance-Boundary Adaptation for Nighttime Optical Flow**|Hanyu Zhou et.al.|[2401.17642](http://arxiv.org/abs/2401.17642)|null|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|**[link](https://github.com/vignywang/awesome-local-feature-matching)**|
 |**2024-01-30**|**LATENTPATCH: A Non-Parametric Approach for Face Generation and Editing**|Benjamin Samuth et.al.|[2401.16830](http://arxiv.org/abs/2401.16830)|null|
 |**2024-01-30**|**MESA: Matching Everything by Segmenting Anything**|Yesheng Zhang et.al.|[2401.16741](http://arxiv.org/abs/2401.16741)|null|
 |**2024-01-29**|**Bridging the Domain Gap: A Simple Domain Matching Method for Reference-based Image Super-Resolution in Remote Sensing**|Jeongho Min et.al.|[2401.15944](http://arxiv.org/abs/2401.15944)|null|
@@ -355,7 +355,7 @@ layout: default
 |**2024-02-28**|**PCR-99: A Practical Method for Point Cloud Registration with 99% Outliers**|Seong Hun Lee et.al.|[2402.16598](http://arxiv.org/abs/2402.16598)|**[link](https://github.com/sunghoon031/pcr-99)**|
 |**2024-02-26**|**Autonomous Integration of TSN-unaware Applications with QoS Requirements in TSN Networks**|Moritz Fluechter et.al.|[2402.16454](http://arxiv.org/abs/2402.16454)|**[link](https://github.com/uni-tue-kn/tsn-unaware-integration)**|
 |**2024-02-24**|**General Purpose Image Encoder DINOv2 for Medical Image Registration**|Xinrui Song et.al.|[2402.15687](http://arxiv.org/abs/2402.15687)|null|
-|**2024-02-23**|**CLIPPER+: A Fast Maximal Clique Algorithm for Robust Global Registration**|Kaveh Fathian et.al.|[2402.15464](http://arxiv.org/abs/2402.15464)|null|
+|**2024-02-23**|**CLIPPER+: A Fast Maximal Clique Algorithm for Robust Global Registration**|Kaveh Fathian et.al.|[2402.15464](http://arxiv.org/abs/2402.15464)|**[link](https://github.com/ariarobotics/clipperp)**|
 |**2024-02-19**|**An evaluation of Deep Learning based stereo dense matching dataset shift from aerial images and a large scale stereo dataset**|Teng Wu et.al.|[2402.12522](http://arxiv.org/abs/2402.12522)|**[link](https://github.com/whuwuteng/aerial_stereo_dataset)**|
 |**2024-02-19**|**Revisiting registration-based synthesis: A focus on unsupervised MR image synthesis**|Savannah P. Hays et.al.|[2402.12288](http://arxiv.org/abs/2402.12288)|null|
 |**2024-02-19**|**Real-time 3D Semantic Scene Perception for Egocentric Robots with Binocular Vision**|K. Nguyen et.al.|[2402.11872](http://arxiv.org/abs/2402.11872)|**[link](https://github.com/mkhangg/semantic_scene_perception)**|
@@ -377,9 +377,9 @@ layout: default
 |**2024-02-06**|**Home Automation System based on Intelligent Transducer Enablers**|Manuel Suárez-Albela et.al.|[2402.04334](http://arxiv.org/abs/2402.04334)|null|
 |**2024-02-06**|**Instance by Instance: An Iterative Framework for Multi-instance 3D Registration**|Xinyue Cao et.al.|[2402.04195](http://arxiv.org/abs/2402.04195)|null|
 |**2024-02-05**|**Decoder-Only Image Registration**|Xi Jia et.al.|[2402.03585](http://arxiv.org/abs/2402.03585)|**[link](https://github.com/xi-jia/lessnet)**|
-|**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|null|
+|**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|**[link](https://github.com/m1nhengchen/cdreg)**|
 |**2024-02-01**|**$n$ -Dimensional Volumetric Stretch Energy Minimization for Volume-/Mass-Preserving Parameterizations**|Zhong-Heng Tan et.al.|[2402.00380](http://arxiv.org/abs/2402.00380)|null|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|**[link](https://github.com/vignywang/awesome-local-feature-matching)**|
 |**2024-01-31**|**Is Registering Raw Tagged-MR Enough for Strain Estimation in the Era of Deep Learning?**|Zhangxing Bian et.al.|[2401.17571](http://arxiv.org/abs/2401.17571)|null|
 |**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-30**|**Coronary CTA and Quantitative Cardiac CT Perfusion (CCTP) in Coronary Artery Disease**|Hao Wu et.al.|[2401.17433](http://arxiv.org/abs/2401.17433)|null|
@@ -626,7 +626,7 @@ layout: default
 |**2024-02-04**|**Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation**|Ti Wang et.al.|[2402.02339](http://arxiv.org/abs/2402.02339)|null|
 |**2024-02-01**|**mmID: High-Resolution mmWave Imaging for Human Identification**|Sakila S. Jayaweera et.al.|[2402.00996](http://arxiv.org/abs/2402.00996)|null|
 |**2024-02-01**|**In-Bed Pose Estimation: A Review**|Ziya Ata Yazıcı et.al.|[2402.00700](http://arxiv.org/abs/2402.00700)|null|
-|**2024-02-01**|**WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness**|Mateus Valverde Gasparino et.al.|[2402.00683](http://arxiv.org/abs/2402.00683)|null|
+|**2024-02-01**|**WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness**|Mateus Valverde Gasparino et.al.|[2402.00683](http://arxiv.org/abs/2402.00683)|**[link](https://github.com/matval/wayfaster)**|
 |**2024-02-02**|**CMRNext: Camera to LiDAR Matching in the Wild for Localization and Extrinsic Calibration**|Daniele Cattaneo et.al.|[2402.00129](http://arxiv.org/abs/2402.00129)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-30**|**Navigating the Unknown: Uncertainty-Aware Compute-in-Memory Autonomy of Edge Robotics**|Nastaran Darabi et.al.|[2401.17481](http://arxiv.org/abs/2401.17481)|null|
