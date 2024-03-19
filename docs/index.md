@@ -26,6 +26,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization**|Peng Jiang et.al.|[2403.11367](http://arxiv.org/abs/2403.11367)|null|
+|**2024-03-17**|**MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**|Paul S. Scotti et.al.|[2403.11207](http://arxiv.org/abs/2403.11207)|**[link](https://github.com/medarc-ai/mindeyev2)**|
+|**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
+|**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
+|**2024-03-13**|**Training Self-localization Models for Unseen Unfamiliar Places via Teacher-to-Student Data-Free Knowledge Transfer**|Kenta Tsukahara et.al.|[2403.10552](http://arxiv.org/abs/2403.10552)|null|
 |**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
 |**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
@@ -193,6 +198,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241](http://arxiv.org/abs/2402.14241)|null|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
@@ -238,10 +244,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**|Theresa Huber et.al.|[2403.11370](http://arxiv.org/abs/2403.11370)|null|
+|**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
+|**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
 |**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
 |**2024-03-15**|**Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning**|Meixuan Li et.al.|[2403.10252](http://arxiv.org/abs/2403.10252)|null|
 |**2024-03-14**|**Virtual birefringence imaging and histological staining of amyloid deposits in label-free tissue using autofluorescence microscopy and deep learning**|Xilin Yang et.al.|[2403.09100](http://arxiv.org/abs/2403.09100)|null|
-|**2024-03-13**|**Matching Non-Identical Objects**|Yusuke Marumo et.al.|[2403.08227](http://arxiv.org/abs/2403.08227)|null|
+|**2024-03-18**|**Matching Non-Identical Objects**|Yusuke Marumo et.al.|[2403.08227](http://arxiv.org/abs/2403.08227)|null|
 |**2024-03-12**|**VANP: Learning Where to See for Navigation with Self-Supervised Vision-Action Pre-Training**|Mohammad Nazeri et.al.|[2403.08109](http://arxiv.org/abs/2403.08109)|null|
 |**2024-03-11**|**Ensemble Quadratic Assignment Network for Graph Matching**|Haoru Tan et.al.|[2403.06457](http://arxiv.org/abs/2403.06457)|null|
 |**2024-03-08**|**Generalized Correspondence Matching via Flexible Hierarchical Refinement and Patch Descriptor Distillation**|Yu Han et.al.|[2403.05388](http://arxiv.org/abs/2403.05388)|null|
@@ -323,6 +332,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589](http://arxiv.org/abs/2403.11589)|null|
+|**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496](http://arxiv.org/abs/2403.11496)|null|
+|**2024-03-16**|**A Spectrum-based Image Denoising Method with Edge Feature Enhancement**|Peter Luvton et.al.|[2403.11036](http://arxiv.org/abs/2403.11036)|null|
+|**2024-03-16**|**EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration**|Abu Zahid Bin Aziz et.al.|[2403.11026](http://arxiv.org/abs/2403.11026)|null|
+|**2024-03-16**|**Automatic Spatial Calibration of Near-Field MIMO Radar With Respect to Optical Sensors**|Vanessa Wirth et.al.|[2403.10981](http://arxiv.org/abs/2403.10981)|null|
 |**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085](http://arxiv.org/abs/2403.10085)|**[link](https://github.com/guiyuzhao/vrhcf)**|
 |**2024-03-15**|**MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings**|Yu Du et.al.|[2403.09996](http://arxiv.org/abs/2403.09996)|null|
 |**2024-03-15**|**CLOSURE: Fast Quantification of Pose Uncertainty Sets**|Yihuai Gao et.al.|[2403.09990](http://arxiv.org/abs/2403.09990)|null|
@@ -547,6 +561,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Normalized Validity Scores for DNNs in Regression based Eye Feature Extraction**|Wolfgang Fuhl et.al.|[2403.11665](http://arxiv.org/abs/2403.11665)|null|
+|**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
+|**2024-03-18**|**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models**|Yang Yang et.al.|[2403.11627](http://arxiv.org/abs/2403.11627)|**[link](https://github.com/young98cn/lora_composer)**|
+|**2024-03-18**|**GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects**|Sungphill Moon et.al.|[2403.11510](http://arxiv.org/abs/2403.11510)|null|
+|**2024-03-17**|**A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation**|Qucheng Peng et.al.|[2403.11310](http://arxiv.org/abs/2403.11310)|null|
+|**2024-03-17**|**Compact 3D Gaussian Splatting For Dense Visual SLAM**|Tianchen Deng et.al.|[2403.11247](http://arxiv.org/abs/2403.11247)|null|
+|**2024-03-16**|**Robotic Task Success Evaluation Under Multi-modal Non-Parametric Object Pose Uncertainty**|Lakshadeep Naik et.al.|[2403.10874](http://arxiv.org/abs/2403.10874)|null|
+|**2024-03-16**|**DPPE: Dense Pose Estimation in a Plenoxels Environment using Gradient Approximation**|Christopher Kolios et.al.|[2403.10773](http://arxiv.org/abs/2403.10773)|null|
+|**2024-03-15**|**GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation**|Dingding Cai et.al.|[2403.10683](http://arxiv.org/abs/2403.10683)|null|
 |**2024-03-15**|**CLOSURE: Fast Quantification of Pose Uncertainty Sets**|Yihuai Gao et.al.|[2403.09990](http://arxiv.org/abs/2403.09990)|null|
 |**2024-03-14**|**ThermoHands: A Benchmark for 3D Hand Pose Estimation from Egocentric Thermal Image**|Fangqiang Ding et.al.|[2403.09871](http://arxiv.org/abs/2403.09871)|null|
 |**2024-03-14**|**BOP Challenge 2023 on Detection, Segmentation and Pose Estimation of Seen and Unseen Rigid Objects**|Tomas Hodan et.al.|[2403.09799](http://arxiv.org/abs/2403.09799)|null|
@@ -853,6 +876,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**|Antoine Schnepf et.al.|[2403.11678](http://arxiv.org/abs/2403.11678)|null|
+|**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589](http://arxiv.org/abs/2403.11589)|null|
+|**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573](http://arxiv.org/abs/2403.11573)|null|
+|**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364](http://arxiv.org/abs/2403.11364)|null|
+|**2024-03-17**|**SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**|Lin Zhu et.al.|[2403.11222](http://arxiv.org/abs/2403.11222)|**[link](https://github.com/bit-vision/spikenerf)**|
+|**2024-03-17**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134](http://arxiv.org/abs/2403.11134)|null|
+|**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/abs/2403.11131)|null|
+|**2024-03-16**|**Fast Sparse View Guided NeRF Update for Object Reconfigurations**|Ziqi Lu et.al.|[2403.11024](http://arxiv.org/abs/2403.11024)|null|
+|**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906](http://arxiv.org/abs/2403.10906)|null|
+|**2024-03-16**|**MSI-NeRF: Linking Omni-Depth with View Synthesis through Multi-Sphere Image aided Generalizable Neural Radiance Field**|Dongyu Yan et.al.|[2403.10840](http://arxiv.org/abs/2403.10840)|null|
 |**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516](http://arxiv.org/abs/2403.10516)|**[link](https://github.com/mhamilton723/FeatUp)**|
 |**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340](http://arxiv.org/abs/2403.10340)|null|
 |**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
