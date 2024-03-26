@@ -22,6 +22,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras**|Gokul B. Nair et.al.|[2403.16425](http://arxiv.org/abs/2403.16425)|null|
+|**2024-03-24**|**Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval**|Yucheng Suo et.al.|[2403.16005](http://arxiv.org/abs/2403.16005)|null|
+|**2024-03-24**|**BIMCV-R: A Landmark Dataset for 3D CT Text-Image Retrieval**|Yinda Chen et.al.|[2403.15992](http://arxiv.org/abs/2403.15992)|null|
 |**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378](http://arxiv.org/abs/2403.15378)|null|
 |**2024-03-22**|**A Multimodal Approach for Cross-Domain Image Retrieval**|Lucas Iijima et.al.|[2403.15152](http://arxiv.org/abs/2403.15152)|null|
 |**2024-03-22**|**Piecewise-Linear Manifolds for Deep Metric Learning**|Shubhang Bhatnagar et.al.|[2403.14977](http://arxiv.org/abs/2403.14977)|null|
@@ -254,6 +257,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627](http://arxiv.org/abs/2403.16627)|null|
+|**2024-03-25**|**Multi-attention Associate Prediction Network for Visual Tracking**|Xinglong Sun et.al.|[2403.16395](http://arxiv.org/abs/2403.16395)|null|
+|**2024-03-23**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Ruiqiang Xiao et.al.|[2403.15901](http://arxiv.org/abs/2403.15901)|**[link](https://github.com/keeplearning-again/matchseg)**|
 |**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395](http://arxiv.org/abs/2403.13395)|**[link](https://github.com/dlr-rm/umf)**|
 |**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543](http://arxiv.org/abs/2403.12543)|null|
 |**2024-03-19**|**DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**|Theresa Huber et.al.|[2403.11370](http://arxiv.org/abs/2403.11370)|null|
@@ -346,6 +352,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**ModeTv2: GPU-accelerated Motion Decomposition Transformer for Pairwise Optimization in Medical Image Registration**|Haiqiao Wang et.al.|[2403.16526](http://arxiv.org/abs/2403.16526)|**[link](https://github.com/zax130/modetv2)**|
+|**2024-03-25**|**Medical Image Registration and Its Application in Retinal Images: A Review**|Qiushi Nie et.al.|[2403.16502](http://arxiv.org/abs/2403.16502)|null|
+|**2024-03-25**|**Characterisation of the Intel RealSense D415 Stereo Depth Camera for Motion-Corrected CT Perfusion Imaging**|Mahdieh Dashtbani Moghari et.al.|[2403.16490](http://arxiv.org/abs/2403.16490)|null|
+|**2024-03-24**|**Low Rank Groupwise Deformations for Motion Tracking in Cardiac Cine MRI**|Sean Rendell et.al.|[2403.16240](http://arxiv.org/abs/2403.16240)|null|
+|**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/abs/2403.15981)|null|
+|**2024-03-23**|**Innovative Quantitative Analysis for Disease Progression Assessment in Familial Cerebral Cavernous Malformations**|Ruige Zong et.al.|[2403.15803](http://arxiv.org/abs/2403.15803)|null|
 |**2024-03-22**|**A Modular, End-to-End Next-Generation Network Testbed: Towards a Fully Automated Network Management Platform**|Ali Chouman et.al.|[2403.15376](http://arxiv.org/abs/2403.15376)|null|
 |**2024-03-21**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326](http://arxiv.org/abs/2403.14326)|null|
 |**2024-03-19**|**Multi-View Active Sensing for Human-Robot Interaction via Hierarchically Connected Tree**|Yuanjiong Ying et.al.|[2403.12538](http://arxiv.org/abs/2403.12538)|null|
@@ -582,6 +594,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Characterisation of the Intel RealSense D415 Stereo Depth Camera for Motion-Corrected CT Perfusion Imaging**|Mahdieh Dashtbani Moghari et.al.|[2403.16490](http://arxiv.org/abs/2403.16490)|null|
+|**2024-03-25**|**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**|Zicong Fan et.al.|[2403.16428](http://arxiv.org/abs/2403.16428)|null|
+|**2024-03-25**|**A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups**|Yixiao Ge et.al.|[2403.16411](http://arxiv.org/abs/2403.16411)|null|
+|**2024-03-25**|**ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation**|Hannah Schieber et.al.|[2403.16400](http://arxiv.org/abs/2403.16400)|null|
+|**2024-03-24**|**KITchen: A Real-World Benchmark and Dataset for 6D Object Pose Estimation in Kitchen Environments**|Abdelrahman Younes et.al.|[2403.16238](http://arxiv.org/abs/2403.16238)|null|
+|**2024-03-24**|**Diffusion Model is a Good Pose Estimator from 3D RF-Vision**|Junqiao Fan et.al.|[2403.16198](http://arxiv.org/abs/2403.16198)|null|
+|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|null|
+|**2024-03-22**|**InterFusion: Text-Driven Generation of 3D Human-Object Interaction**|Sisi Dai et.al.|[2403.15612](http://arxiv.org/abs/2403.15612)|null|
+|**2024-03-22**|**Augmented Reality Warnings in Roadway Work Zones: Evaluating the Effect of Modality on Worker Reaction Times**|Sepehr Sabeti et.al.|[2403.15571](http://arxiv.org/abs/2403.15571)|null|
 |**2024-03-22**|**Gesture-Controlled Aerial Robot Formation for Human-Swarm Interaction in Safety Monitoring Applications**|Vít Krátký et.al.|[2403.15333](http://arxiv.org/abs/2403.15333)|null|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272](http://arxiv.org/abs/2403.15272)|null|
 |**2024-03-22**|**DITTO: Demonstration Imitation by Trajectory Transformation**|Nick Heppert et.al.|[2403.15203](http://arxiv.org/abs/2403.15203)|null|
@@ -924,6 +945,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Spike-NeRF: Neural Radiance Field Based On Spike Camera**|Yijia Guo et.al.|[2403.16410](http://arxiv.org/abs/2403.16410)|null|
+|**2024-03-24**|**Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields**|Haoyuan Wang et.al.|[2403.16224](http://arxiv.org/abs/2403.16224)|null|
+|**2024-03-24**|**Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes**|Takashi Otonari et.al.|[2403.16141](http://arxiv.org/abs/2403.16141)|null|
+|**2024-03-24**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
+|**2024-03-24**|**Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**|Carl Lindström et.al.|[2403.16092](http://arxiv.org/abs/2403.16092)|null|
+|**2024-03-24**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080](http://arxiv.org/abs/2403.16080)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
+|**2024-03-24**|**Semantic Is Enough: Only Semantic Information For NeRF Reconstruction**|Ruibo Wang et.al.|[2403.16043](http://arxiv.org/abs/2403.16043)|null|
+|**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/abs/2403.15981)|null|
+|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/abs/2403.15791)|null|
+|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|null|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272](http://arxiv.org/abs/2403.15272)|null|
 |**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/abs/2403.14839)|null|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
