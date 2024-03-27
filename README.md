@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**|Dongjin Kim et.al.|[2403.17420](http://arxiv.org/abs/2403.17420)|**[link](https://github.com/visualaikhu/noprior_multissl)**|
 |**2024-03-25**|**Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras**|Gokul B. Nair et.al.|[2403.16425](http://arxiv.org/abs/2403.16425)|null|
 |**2024-03-24**|**Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval**|Yucheng Suo et.al.|[2403.16005](http://arxiv.org/abs/2403.16005)|null|
 |**2024-03-24**|**BIMCV-R: A Landmark Dataset for 3D CT Text-Image Retrieval**|Yinda Chen et.al.|[2403.15992](http://arxiv.org/abs/2403.15992)|null|
@@ -257,6 +258,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Staircase Localization for Autonomous Exploration in Urban Environments**|Jinrae Kim et.al.|[2403.17330](http://arxiv.org/abs/2403.17330)|null|
 |**2024-03-25**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627](http://arxiv.org/abs/2403.16627)|null|
 |**2024-03-25**|**Multi-attention Associate Prediction Network for Visual Tracking**|Xinglong Sun et.al.|[2403.16395](http://arxiv.org/abs/2403.16395)|null|
 |**2024-03-23**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Ruiqiang Xiao et.al.|[2403.15901](http://arxiv.org/abs/2403.15901)|**[link](https://github.com/keeplearning-again/matchseg)**|
@@ -352,6 +354,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Not All Similarities Are Created Equal: Leveraging Data-Driven Biases to Inform GenAI Copyright Disputes**|Uri Hacohen et.al.|[2403.17691](http://arxiv.org/abs/2403.17691)|null|
+|**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776](http://arxiv.org/abs/2403.16776)|null|
+|**2024-03-26**|**As Good As A Coin Toss: Human detection of AI-generated images, videos, audio, and audiovisual stimuli**|Di Cooke et.al.|[2403.16760](http://arxiv.org/abs/2403.16760)|null|
 |**2024-03-25**|**ModeTv2: GPU-accelerated Motion Decomposition Transformer for Pairwise Optimization in Medical Image Registration**|Haiqiao Wang et.al.|[2403.16526](http://arxiv.org/abs/2403.16526)|**[link](https://github.com/zax130/modetv2)**|
 |**2024-03-25**|**Medical Image Registration and Its Application in Retinal Images: A Review**|Qiushi Nie et.al.|[2403.16502](http://arxiv.org/abs/2403.16502)|null|
 |**2024-03-25**|**Characterisation of the Intel RealSense D415 Stereo Depth Camera for Motion-Corrected CT Perfusion Imaging**|Mahdieh Dashtbani Moghari et.al.|[2403.16490](http://arxiv.org/abs/2403.16490)|null|
@@ -594,6 +599,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**A Survey on 3D Egocentric Human Pose Estimation**|Md Mushfiqur Azam et.al.|[2403.17893](http://arxiv.org/abs/2403.17893)|null|
+|**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837](http://arxiv.org/abs/2403.17837)|null|
+|**2024-03-26**|**DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions**|Sammy Christen et.al.|[2403.17827](http://arxiv.org/abs/2403.17827)|null|
+|**2024-03-26**|**System Calibration of a Field Phenotyping Robot with Multiple High-Precision Profile Laser Scanners**|Felix Esser et.al.|[2403.17788](http://arxiv.org/abs/2403.17788)|null|
+|**2024-03-25**|**Animal Avatars: Reconstructing Animatable 3D Animals from Casual Videos**|Remy Sabathier et.al.|[2403.17103](http://arxiv.org/abs/2403.17103)|null|
 |**2024-03-25**|**Characterisation of the Intel RealSense D415 Stereo Depth Camera for Motion-Corrected CT Perfusion Imaging**|Mahdieh Dashtbani Moghari et.al.|[2403.16490](http://arxiv.org/abs/2403.16490)|null|
 |**2024-03-25**|**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**|Zicong Fan et.al.|[2403.16428](http://arxiv.org/abs/2403.16428)|null|
 |**2024-03-25**|**A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups**|Yixiao Ge et.al.|[2403.16411](http://arxiv.org/abs/2403.16411)|null|
@@ -945,6 +955,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898](http://arxiv.org/abs/2403.17898)|null|
+|**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537](http://arxiv.org/abs/2403.17537)|null|
+|**2024-03-25**|**VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**|Yang Chen et.al.|[2403.17001](http://arxiv.org/abs/2403.17001)|null|
+|**2024-03-25**|**CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs**|Yingji Zhong et.al.|[2403.16885](http://arxiv.org/abs/2403.16885)|null|
 |**2024-03-25**|**Spike-NeRF: Neural Radiance Field Based On Spike Camera**|Yijia Guo et.al.|[2403.16410](http://arxiv.org/abs/2403.16410)|null|
 |**2024-03-24**|**Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields**|Haoyuan Wang et.al.|[2403.16224](http://arxiv.org/abs/2403.16224)|null|
 |**2024-03-24**|**Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes**|Takashi Otonari et.al.|[2403.16141](http://arxiv.org/abs/2403.16141)|null|
