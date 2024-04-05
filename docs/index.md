@@ -272,6 +272,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**AGL-NET: Aerial-Ground Cross-Modal Global Localization with Varying Scales**|Tianrui Guan et.al.|[2404.03187](http://arxiv.org/abs/2404.03187)|null|
 |**2024-04-01**|**FPGA-Accelerated Correspondence-free Point Cloud Registration with PointNet Features**|Keisuke Sugiura et.al.|[2404.01237](http://arxiv.org/abs/2404.01237)|null|
 |**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992](http://arxiv.org/abs/2404.00992)|null|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/abs/2404.00891)|null|
@@ -374,6 +375,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**GMMCalib: Extrinsic Calibration of LiDAR Sensors using GMM-based Joint Registration**|Ilir Tahiraj et.al.|[2404.03427](http://arxiv.org/abs/2404.03427)|null|
+|**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
 |**2024-04-02**|**Neural Ordinary Differential Equation based Sequential Image Registration for Dynamic Characterization**|Yifan Wu et.al.|[2404.02106](http://arxiv.org/abs/2404.02106)|null|
 |**2024-04-01**|**FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration**|Rohit Jena et.al.|[2404.01249](http://arxiv.org/abs/2404.01249)|null|
 |**2024-04-01**|**FPGA-Accelerated Correspondence-free Point Cloud Registration with PointNet Features**|Keisuke Sugiura et.al.|[2404.01237](http://arxiv.org/abs/2404.01237)|null|
@@ -627,6 +630,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation**|Sichen Chen et.al.|[2404.03518](http://arxiv.org/abs/2404.03518)|**[link](https://github.com/martyrpenink/sdpose)**|
+|**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256](http://arxiv.org/abs/2404.03256)|null|
+|**2024-04-04**|**HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud**|Wencan Cheng et.al.|[2404.03159](http://arxiv.org/abs/2404.03159)|**[link](https://github.com/cwc1260/handdiff)**|
 |**2024-04-03**|**Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones**|Luca Crupi et.al.|[2404.02567](http://arxiv.org/abs/2404.02567)|null|
 |**2024-04-03**|**Semi-Supervised Unconstrained Head Pose Estimation in the Wild**|Huayi Zhou et.al.|[2404.02544](http://arxiv.org/abs/2404.02544)|**[link](https://github.com/hnuzhy/semiuhpe)**|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
@@ -998,6 +1004,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
+|**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/abs/2404.02742)|**[link](https://github.com/ispc-lab/lidar4d)**|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/abs/2404.02617)|null|
