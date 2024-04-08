@@ -26,6 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587](http://arxiv.org/abs/2404.01587)|**[link](https://github.com/nubot-nudt/tscm)**|
 |**2024-04-01**|**On Train-Test Class Overlap and Detection for Image Retrieval**|Chull Hwan Song et.al.|[2404.01524](http://arxiv.org/abs/2404.01524)|**[link](https://github.com/dealicious-inc/rgldv2-clean)**|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/abs/2404.01400)|null|
@@ -375,6 +376,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**DiffOp-net: A Differential Operator-based Fully Convolutional Network for Unsupervised Deformable Image Registration**|Jiong Wu et.al.|[2404.04244](http://arxiv.org/abs/2404.04244)|null|
 |**2024-04-04**|**GMMCalib: Extrinsic Calibration of LiDAR Sensors using GMM-based Joint Registration**|Ilir Tahiraj et.al.|[2404.03427](http://arxiv.org/abs/2404.03427)|**[link](https://github.com/tumftm/gmmcalib)**|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
 |**2024-04-02**|**Neural Ordinary Differential Equation based Sequential Image Registration for Dynamic Characterization**|Yifan Wu et.al.|[2404.02106](http://arxiv.org/abs/2404.02106)|null|
@@ -630,6 +632,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**ToolEENet: Tool Affordance 6D Pose Estimation**|Yunlong Wang et.al.|[2404.04193](http://arxiv.org/abs/2404.04193)|null|
 |**2024-04-04**|**SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation**|Sichen Chen et.al.|[2404.03518](http://arxiv.org/abs/2404.03518)|**[link](https://github.com/martyrpenink/sdpose)**|
 |**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256](http://arxiv.org/abs/2404.03256)|null|
 |**2024-04-04**|**HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud**|Wencan Cheng et.al.|[2404.03159](http://arxiv.org/abs/2404.03159)|**[link](https://github.com/cwc1260/handdiff)**|
@@ -1004,6 +1007,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211](http://arxiv.org/abs/2404.04211)|null|
+|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736](http://arxiv.org/abs/2404.03736)|null|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
