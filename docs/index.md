@@ -26,6 +26,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**DepthMOT: Depth Cues Lead to a Strong Multi-Object Tracker**|Jiapeng Wu et.al.|[2404.05518](http://arxiv.org/abs/2404.05518)|**[link](https://github.com/jackwoo0831/depthmot)**|
+|**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998](http://arxiv.org/abs/2404.04998)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
+|**2024-04-06**|**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**|Juncheng Yang et.al.|[2404.04538](http://arxiv.org/abs/2404.04538)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587](http://arxiv.org/abs/2404.01587)|**[link](https://github.com/nubot-nudt/tscm)**|
 |**2024-04-01**|**On Train-Test Class Overlap and Detection for Image Retrieval**|Chull Hwan Song et.al.|[2404.01524](http://arxiv.org/abs/2404.01524)|**[link](https://github.com/dealicious-inc/rgldv2-clean)**|
@@ -376,8 +379,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Learning Topology Uniformed Face Mesh by Volume Rendering for Multi-view Reconstruction**|Yating Wang et.al.|[2404.05606](http://arxiv.org/abs/2404.05606)|null|
+|**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164](http://arxiv.org/abs/2404.05164)|null|
+|**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|null|
+|**2024-04-06**|**Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes**|Zhiyuan Yu et.al.|[2404.04557](http://arxiv.org/abs/2404.04557)|**[link](https://github.com/zhiyuanyu134/miretr)**|
+|**2024-04-06**|**A self-attention model for robust rigid slice-to-volume registration of functional MRI**|Samah Khawaled et.al.|[2404.04546](http://arxiv.org/abs/2404.04546)|null|
+|**2024-04-05**|**A comprehensive liver CT landmark pair dataset for evaluating deformable image registration algorithms**|Zhendong Zhang et.al.|[2404.04427](http://arxiv.org/abs/2404.04427)|null|
+|**2024-04-05**|**A Ground Mobile Robot for Autonomous Terrestrial Laser Scanning-Based Field Phenotyping**|Javier Rodriguez-Sanchez et.al.|[2404.04404](http://arxiv.org/abs/2404.04404)|null|
 |**2024-04-05**|**DiffOp-net: A Differential Operator-based Fully Convolutional Network for Unsupervised Deformable Image Registration**|Jiong Wu et.al.|[2404.04244](http://arxiv.org/abs/2404.04244)|null|
-|**2024-04-04**|**GMMCalib: Extrinsic Calibration of LiDAR Sensors using GMM-based Joint Registration**|Ilir Tahiraj et.al.|[2404.03427](http://arxiv.org/abs/2404.03427)|**[link](https://github.com/tumftm/gmmcalib)**|
+|**2024-04-08**|**GMMCalib: Extrinsic Calibration of LiDAR Sensors using GMM-based Joint Registration**|Ilir Tahiraj et.al.|[2404.03427](http://arxiv.org/abs/2404.03427)|**[link](https://github.com/tumftm/gmmcalib)**|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
 |**2024-04-02**|**Neural Ordinary Differential Equation based Sequential Image Registration for Dynamic Characterization**|Yifan Wu et.al.|[2404.02106](http://arxiv.org/abs/2404.02106)|null|
 |**2024-04-01**|**FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration**|Rohit Jena et.al.|[2404.01249](http://arxiv.org/abs/2404.01249)|null|
@@ -632,6 +642,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Learning 3D-Aware GANs from Unposed Images with Template Feature Field**|Xinya Chen et.al.|[2404.05705](http://arxiv.org/abs/2404.05705)|null|
+|**2024-04-08**|**Learning a Category-level Object Pose Estimator without Pose Annotations**|Fengrui Tian et.al.|[2404.05626](http://arxiv.org/abs/2404.05626)|null|
+|**2024-04-08**|**DepthMOT: Depth Cues Lead to a Strong Multi-Object Tracker**|Jiapeng Wu et.al.|[2404.05518](http://arxiv.org/abs/2404.05518)|**[link](https://github.com/jackwoo0831/depthmot)**|
+|**2024-04-08**|**Two Hands Are Better Than One: Resolving Hand to Hand Intersections via Occupancy Networks**|Maksym Ivashechkin et.al.|[2404.05414](http://arxiv.org/abs/2404.05414)|null|
+|**2024-04-08**|**STITCH: Augmented Dexterity for Suture Throws Including Thread Coordination and Handoffs**|Kush Hari et.al.|[2404.05151](http://arxiv.org/abs/2404.05151)|null|
 |**2024-04-05**|**ToolEENet: Tool Affordance 6D Pose Estimation**|Yunlong Wang et.al.|[2404.04193](http://arxiv.org/abs/2404.04193)|null|
 |**2024-04-04**|**SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation**|Sichen Chen et.al.|[2404.03518](http://arxiv.org/abs/2404.03518)|**[link](https://github.com/martyrpenink/sdpose)**|
 |**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256](http://arxiv.org/abs/2404.03256)|null|
@@ -1007,9 +1022,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236](http://arxiv.org/abs/2404.05236)|null|
+|**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220](http://arxiv.org/abs/2404.05220)|null|
+|**2024-04-08**|**Semantic Flow: Learning Semantic Field of Dynamic Scenes from Monocular Videos**|Fengrui Tian et.al.|[2404.05163](http://arxiv.org/abs/2404.05163)|null|
+|**2024-04-07**|**CodecNeRF: Toward Fast Encoding and Decoding, Compact, and High-quality Novel-view Synthesis**|Gyeongjin Kang et.al.|[2404.04913](http://arxiv.org/abs/2404.04913)|null|
+|**2024-04-07**|**GauU-Scene V2: Expanse Lidar Image Dataset Shows Unreliable Geometric Reconstruction Using Gaussian Splatting and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/abs/2404.04880)|null|
+|**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/abs/2404.04875)|null|
+|**2024-04-06**|**DATENeRF: Depth-Aware Text-based Editing of NeRFs**|Sara Rojas et.al.|[2404.04526](http://arxiv.org/abs/2404.04526)|null|
 |**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211](http://arxiv.org/abs/2404.04211)|null|
 |**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736](http://arxiv.org/abs/2404.03736)|null|
-|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
+|**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
