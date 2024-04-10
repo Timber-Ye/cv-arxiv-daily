@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277](http://arxiv.org/abs/2404.06277)|null|
 |**2024-04-08**|**DepthMOT: Depth Cues Lead to a Strong Multi-Object Tracker**|Jiapeng Wu et.al.|[2404.05518](http://arxiv.org/abs/2404.05518)|**[link](https://github.com/jackwoo0831/depthmot)**|
 |**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998](http://arxiv.org/abs/2404.04998)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
 |**2024-04-06**|**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**|Juncheng Yang et.al.|[2404.04538](http://arxiv.org/abs/2404.04538)|null|
@@ -276,6 +277,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337](http://arxiv.org/abs/2404.06337)|null|
+|**2024-04-09**|**Spatial-Temporal Multi-level Association for Video Object Segmentation**|Deshui Miao et.al.|[2404.06265](http://arxiv.org/abs/2404.06265)|null|
 |**2024-04-04**|**AGL-NET: Aerial-Ground Cross-Modal Global Localization with Varying Scales**|Tianrui Guan et.al.|[2404.03187](http://arxiv.org/abs/2404.03187)|null|
 |**2024-04-01**|**FPGA-Accelerated Correspondence-free Point Cloud Registration with PointNet Features**|Keisuke Sugiura et.al.|[2404.01237](http://arxiv.org/abs/2404.01237)|null|
 |**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992](http://arxiv.org/abs/2404.00992)|null|
@@ -381,6 +384,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search**|Tianyu Huang et.al.|[2404.06155](http://arxiv.org/abs/2404.06155)|**[link](https://github.com/tyhuang98/here-release)**|
+|**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012](http://arxiv.org/abs/2404.06012)|null|
 |**2024-04-08**|**Learning Topology Uniformed Face Mesh by Volume Rendering for Multi-view Reconstruction**|Yating Wang et.al.|[2404.05606](http://arxiv.org/abs/2404.05606)|null|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164](http://arxiv.org/abs/2404.05164)|null|
 |**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|null|
@@ -646,6 +651,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337](http://arxiv.org/abs/2404.06337)|null|
+|**2024-04-09**|**Incremental Joint Learning of Depth, Pose and Implicit Scene Representation on Monocular Camera in Large-scale Scenes**|Tianchen Deng et.al.|[2404.06050](http://arxiv.org/abs/2404.06050)|null|
 |**2024-04-08**|**Learning 3D-Aware GANs from Unposed Images with Template Feature Field**|Xinya Chen et.al.|[2404.05705](http://arxiv.org/abs/2404.05705)|null|
 |**2024-04-08**|**Learning a Category-level Object Pose Estimator without Pose Annotations**|Fengrui Tian et.al.|[2404.05626](http://arxiv.org/abs/2404.05626)|null|
 |**2024-04-08**|**DepthMOT: Depth Cues Lead to a Strong Multi-Object Tracker**|Jiapeng Wu et.al.|[2404.05518](http://arxiv.org/abs/2404.05518)|**[link](https://github.com/jackwoo0831/depthmot)**|
@@ -1028,6 +1035,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
+|**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270](http://arxiv.org/abs/2404.06270)|null|
+|**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246](http://arxiv.org/abs/2404.06246)|null|
+|**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152](http://arxiv.org/abs/2404.06152)|null|
 |**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236](http://arxiv.org/abs/2404.05236)|null|
 |**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220](http://arxiv.org/abs/2404.05220)|null|
 |**2024-04-08**|**Semantic Flow: Learning Semantic Field of Dynamic Scenes from Monocular Videos**|Fengrui Tian et.al.|[2404.05163](http://arxiv.org/abs/2404.05163)|null|
