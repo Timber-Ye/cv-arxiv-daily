@@ -56,7 +56,7 @@ layout: default
 |**2024-03-21**|**Enhancing Historical Image Retrieval with Compositional Cues**|Tingyu Lin et.al.|[2403.14287](http://arxiv.org/abs/2403.14287)|**[link](https://github.com/linty5/ccbir)**|
 |**2024-03-20**|**Leveraging High-Resolution Features for Improved Deep Hashing-based Image Retrieval**|Aymene Berriche et.al.|[2403.13747](http://arxiv.org/abs/2403.13747)|null|
 |**2024-03-20**|**Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval**|Haoyu Liu et.al.|[2403.13317](http://arxiv.org/abs/2403.13317)|null|
-|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|null|
+|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|**[link](https://github.com/openxrlab/xrfeitoria)**|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800](http://arxiv.org/abs/2403.12800)|null|
 |**2024-03-19**|**Quantixar: High-performance Vector Data Management System**|Gulshan Yadav et.al.|[2403.12583](http://arxiv.org/abs/2403.12583)|null|
 |**2024-03-20**|**Human Mesh Recovery from Arbitrary Multi-view Images**|Xiaoben Li et.al.|[2403.12434](http://arxiv.org/abs/2403.12434)|null|
@@ -721,7 +721,7 @@ layout: default
 |**2024-03-20**|**ManiPose: A Comprehensive Benchmark for Pose-aware Object Manipulation in Robotics**|Qiaojun Yu et.al.|[2403.13365](http://arxiv.org/abs/2403.13365)|null|
 |**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348](http://arxiv.org/abs/2403.13348)|null|
 |**2024-03-19**|**FaceXFormer: A Unified Transformer for Facial Analysis**|Kartik Narayan et.al.|[2403.12960](http://arxiv.org/abs/2403.12960)|**[link](https://github.com/Kartik-3004/facexformer)**|
-|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|null|
+|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|**[link](https://github.com/openxrlab/xrfeitoria)**|
 |**2024-03-19**|**Diffusion-Driven Self-Supervised Learning for Shape Reconstruction and Pose Estimation**|Jingtao Sun et.al.|[2403.12728](http://arxiv.org/abs/2403.12728)|**[link](https://github.com/s-jingtao/self-srpe)**|
 |**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682](http://arxiv.org/abs/2403.12682)|null|
 |**2024-03-19**|**In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing**|Mingrui Yu et.al.|[2403.12676](http://arxiv.org/abs/2403.12676)|null|
@@ -833,7 +833,7 @@ layout: default
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-30**|**Navigating the Unknown: Uncertainty-Aware Compute-in-Memory Autonomy of Edge Robotics**|Nastaran Darabi et.al.|[2401.17481](http://arxiv.org/abs/2401.17481)|null|
 |**2024-01-30**|**MESA: Matching Everything by Segmenting Anything**|Yesheng Zhang et.al.|[2401.16741](http://arxiv.org/abs/2401.16741)|null|
-|**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
+|**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|**[link](https://github.com/wujinhuan/3d-human-pose)**|
 |**2024-01-29**|**Leveraging Positional Encoding for Robust Multi-Reference-Based Object 6D Pose Estimation**|Jaewoo Park et.al.|[2401.16284](http://arxiv.org/abs/2401.16284)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
@@ -865,7 +865,7 @@ layout: default
 |**2024-01-04**|**Survey of 3D Human Body Pose and Shape Estimation Methods for Contemporary Dance Applications**|Darshan Venkatrayappa et.al.|[2401.02383](http://arxiv.org/abs/2401.02383)|null|
 |**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357](http://arxiv.org/abs/2401.02357)|null|
 |**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281](http://arxiv.org/abs/2401.02281)|null|
-|**2024-01-03**|**Real-Time Human Fall Detection using a Lightweight Pose Estimation Technique**|Ekram Alam et.al.|[2401.01587](http://arxiv.org/abs/2401.01587)|null|
+|**2024-01-03**|**Real-Time Human Fall Detection using a Lightweight Pose Estimation Technique**|Ekram Alam et.al.|[2401.01587](http://arxiv.org/abs/2401.01587)|**[link](https://github.com/ekramalam/rthfd)**|
 |**2024-01-05**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081](http://arxiv.org/abs/2401.01081)|**[link](https://github.com/hjmgarmin/ple-slam)**|
 |**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889](http://arxiv.org/abs/2401.00889)|null|
 |**2024-01-01**|**Geometry Depth Consistency in RGBD Relative Pose Estimation**|Sourav Kumar et.al.|[2401.00639](http://arxiv.org/abs/2401.00639)|null|
@@ -1084,7 +1084,7 @@ layout: default
 |**2024-04-02**|**StructLDM: Structured Latent Diffusion for 3D Human Generation**|Tao Hu et.al.|[2404.01241](http://arxiv.org/abs/2404.01241)|null|
 |**2024-04-01**|**Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting**|Jiarui Meng et.al.|[2404.01168](http://arxiv.org/abs/2404.01168)|null|
 |**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992](http://arxiv.org/abs/2404.00992)|null|
-|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987](http://arxiv.org/abs/2404.00987)|null|
+|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987](http://arxiv.org/abs/2404.00987)|**[link](https://github.com/zhaorw02/FlexiDreamer)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/abs/2404.00891)|null|
 |**2024-03-29**|**HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes**|Ke Wu et.al.|[2403.20159](http://arxiv.org/abs/2403.20159)|null|
 |**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153](http://arxiv.org/abs/2403.20153)|null|
@@ -1201,7 +1201,7 @@ layout: default
 |**2024-02-22**|**Mip-Grid: Anti-aliased Grid Representations for Neural Radiance Fields**|Seungtae Nam et.al.|[2402.14196](http://arxiv.org/abs/2402.14196)|null|
 |**2024-02-21**|**Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting**|Joongho Jo et.al.|[2402.13827](http://arxiv.org/abs/2402.13827)|null|
 |**2024-02-21**|**SealD-NeRF: Interactive Pixel-Level Editing for Dynamic Scenes by Neural Radiance Fields**|Zhentao Huang et.al.|[2402.13510](http://arxiv.org/abs/2402.13510)|null|
-|**2024-02-20**|**How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**|Fabio Tosi et.al.|[2402.13255](http://arxiv.org/abs/2402.13255)|null|
+|**2024-02-20**|**How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**|Fabio Tosi et.al.|[2402.13255](http://arxiv.org/abs/2402.13255)|**[link](https://github.com/doongli/awesome-implicit-nerf-slam)**|
 |**2024-02-20**|**Improving Robustness for Joint Optimization of Camera Poses and Decomposed Low-Rank Tensorial Radiance Fields**|Bo-Yu Cheng et.al.|[2402.13252](http://arxiv.org/abs/2402.13252)|**[link](https://github.com/nemo1999/joint-tensorf)**|
 |**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226](http://arxiv.org/abs/2402.13226)|null|
 |**2024-02-20**|**OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow**|Simon Boeder et.al.|[2402.12792](http://arxiv.org/abs/2402.12792)|null|
