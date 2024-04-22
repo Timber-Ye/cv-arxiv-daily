@@ -84,7 +84,7 @@ layout: default
 |**2024-03-11**|**How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?**|Subhadeep Koley et.al.|[2403.07203](http://arxiv.org/abs/2403.07203)|null|
 |**2024-03-11**|**EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**|Gabriele Berton et.al.|[2403.06758](http://arxiv.org/abs/2403.06758)|**[link](https://github.com/gmberton/earthloc)**|
 |**2024-03-11**|**BEV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues**|Fudong Ge et.al.|[2403.06600](http://arxiv.org/abs/2403.06600)|null|
-|**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567](http://arxiv.org/abs/2403.06567)|null|
+|**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567](http://arxiv.org/abs/2403.06567)|**[link](https://github.com/mic-dkfz/foundation-models-for-cbmir)**|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341](http://arxiv.org/abs/2403.06341)|null|
 |**2024-03-10**|**Texture image retrieval using a classification and contourlet-based features**|Asal Rouhafzay et.al.|[2403.06048](http://arxiv.org/abs/2403.06048)|null|
 |**2024-03-11**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002](http://arxiv.org/abs/2403.05002)|**[link](https://github.com/irmvlab/lhmap-loc)**|
@@ -392,7 +392,7 @@ layout: default
 |**2023-10-10**|**Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models**|Wen-Hsuan Chu et.al.|[2310.06992](http://arxiv.org/abs/2310.06992)|null|
 |**2023-10-10**|**Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face**|Hao Zhang et.al.|[2310.05056](http://arxiv.org/abs/2310.05056)|null|
 |**2023-10-07**|**UFD-PRiME: Unsupervised Joint Learning of Optical Flow and Stereo Depth through Pixel-Level Rigid Motion Estimation**|Shuai Yuan et.al.|[2310.04712](http://arxiv.org/abs/2310.04712)|null|
-|**2023-10-05**|**Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation**|Kashu Yamazaki et.al.|[2310.03923](http://arxiv.org/abs/2310.03923)|null|
+|**2023-10-05**|**Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation**|Kashu Yamazaki et.al.|[2310.03923](http://arxiv.org/abs/2310.03923)|**[link](https://github.com/UARK-AICV/OpenFusion)**|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420](http://arxiv.org/abs/2310.03420)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
 
 ## Registration
@@ -423,7 +423,7 @@ layout: default
 |**2024-04-08**|**GMMCalib: Extrinsic Calibration of LiDAR Sensors using GMM-based Joint Registration**|Ilir Tahiraj et.al.|[2404.03427](http://arxiv.org/abs/2404.03427)|**[link](https://github.com/tumftm/gmmcalib)**|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
 |**2024-04-02**|**Neural Ordinary Differential Equation based Sequential Image Registration for Dynamic Characterization**|Yifan Wu et.al.|[2404.02106](http://arxiv.org/abs/2404.02106)|null|
-|**2024-04-01**|**FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration**|Rohit Jena et.al.|[2404.01249](http://arxiv.org/abs/2404.01249)|null|
+|**2024-04-01**|**FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration**|Rohit Jena et.al.|[2404.01249](http://arxiv.org/abs/2404.01249)|**[link](https://github.com/rohitrango/fireants)**|
 |**2024-04-01**|**FPGA-Accelerated Correspondence-free Point Cloud Registration with PointNet Features**|Keisuke Sugiura et.al.|[2404.01237](http://arxiv.org/abs/2404.01237)|null|
 |**2024-04-01**|**Scalable 3D Registration via Truncated Entry-wise Absolute Residuals**|Tianyu Huang et.al.|[2404.00915](http://arxiv.org/abs/2404.00915)|**[link](https://github.com/tyhuang98/tear-release)**|
 |**2024-03-30**|**Multiway Point Cloud Mosaicking with Diffusion and Global Optimization**|Shengze Jin et.al.|[2404.00429](http://arxiv.org/abs/2404.00429)|null|
@@ -708,7 +708,7 @@ layout: default
 |**2024-04-03**|**Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones**|Luca Crupi et.al.|[2404.02567](http://arxiv.org/abs/2404.02567)|null|
 |**2024-04-03**|**Semi-Supervised Unconstrained Head Pose Estimation in the Wild**|Huayi Zhou et.al.|[2404.02544](http://arxiv.org/abs/2404.02544)|**[link](https://github.com/hnuzhy/semiuhpe)**|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
-|**2024-04-02**|**SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation**|Vinkle Srivastav et.al.|[2404.02041](http://arxiv.org/abs/2404.02041)|null|
+|**2024-04-02**|**SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation**|Vinkle Srivastav et.al.|[2404.02041](http://arxiv.org/abs/2404.02041)|**[link](https://github.com/camma-public/selfpose3d)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/abs/2404.00891)|null|
 |**2024-03-31**|**Graph-Based vs. Error State Kalman Filter-Based Fusion Of 5G And Inertial Data For MAV Indoor Pose Estimation**|Meisam Kabiri et.al.|[2404.00691](http://arxiv.org/abs/2404.00691)|null|
 |**2024-03-31**|**OmniLocalRF: Omnidirectional Local Radiance Fields from Dynamic Videos**|Dongyoung Choi et.al.|[2404.00676](http://arxiv.org/abs/2404.00676)|null|
@@ -722,7 +722,7 @@ layout: default
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
 |**2024-03-26**|**Mathematical Foundation and Corrections for Full Range Head Pose Estimation**|Huei-Chung Hu et.al.|[2403.18104](http://arxiv.org/abs/2403.18104)|null|
 |**2024-03-26**|**EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation**|Chenhongyi Yang et.al.|[2403.18080](http://arxiv.org/abs/2403.18080)|null|
-|**2024-03-26**|**A Survey on 3D Egocentric Human Pose Estimation**|Md Mushfiqur Azam et.al.|[2403.17893](http://arxiv.org/abs/2403.17893)|null|
+|**2024-03-26**|**A Survey on 3D Egocentric Human Pose Estimation**|Md Mushfiqur Azam et.al.|[2403.17893](http://arxiv.org/abs/2403.17893)|**[link](https://github.com/facebookresearch/xR-EgoPose)**|
 |**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837](http://arxiv.org/abs/2403.17837)|**[link](https://github.com/hrishavbakulbarua/gta-hdr)**|
 |**2024-03-26**|**DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions**|Sammy Christen et.al.|[2403.17827](http://arxiv.org/abs/2403.17827)|null|
 |**2024-03-26**|**System Calibration of a Field Phenotyping Robot with Multiple High-Precision Profile Laser Scanners**|Felix Esser et.al.|[2403.17788](http://arxiv.org/abs/2403.17788)|null|
@@ -1132,7 +1132,7 @@ layout: default
 |**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987](http://arxiv.org/abs/2404.00987)|**[link](https://github.com/zhaorw02/FlexiDreamer)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/abs/2404.00891)|null|
 |**2024-03-29**|**HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes**|Ke Wu et.al.|[2403.20159](http://arxiv.org/abs/2403.20159)|null|
-|**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153](http://arxiv.org/abs/2403.20153)|null|
+|**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153](http://arxiv.org/abs/2403.20153)|**[link](https://github.com/KU-CVLAB/Talk3D)**|
 |**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079](http://arxiv.org/abs/2403.20079)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018](http://arxiv.org/abs/2403.20018)|**[link](https://github.com/wu-cvgl/scinerf)**|
@@ -1379,7 +1379,7 @@ layout: default
 |**2023-12-10**|**IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment**|Letian Zhang et.al.|[2312.05748](http://arxiv.org/abs/2312.05748)|null|
 |**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664](http://arxiv.org/abs/2312.05664)|null|
 |**2023-12-09**|**R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning**|Zhiling Ye et.al.|[2312.05572](http://arxiv.org/abs/2312.05572)|null|
-|**2023-12-08**|**Multi-view Inversion for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2312.05330](http://arxiv.org/abs/2312.05330)|null|
+|**2023-12-08**|**Multi-view Inversion for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2312.05330](http://arxiv.org/abs/2312.05330)|**[link](https://github.com/Florian-Barthel/3d-multiview-inversion)**|
 |**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161](http://arxiv.org/abs/2312.05161)|null|
 |**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
 |**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784](http://arxiv.org/abs/2312.04784)|null|
