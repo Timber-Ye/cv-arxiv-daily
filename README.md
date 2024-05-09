@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**GISR: Geometric Initialization and Silhouette-based Refinement for Single-View Robot Pose and Configuration Estimation**|Ivan Bilić et.al.|[2405.04890](http://arxiv.org/abs/2405.04890)|null|
 |**2024-05-07**|**Breast Histopathology Image Retrieval by Attention-based Adversarially Regularized Variational Graph Autoencoder with Contrastive Learning-Based Feature Extraction**|Nematollah Saeidi et.al.|[2405.04211](http://arxiv.org/abs/2405.04211)|null|
 |**2024-05-06**|**A New Robust Partial $p$ -Wasserstein-Based Metric for Comparing Distributions**|Sharath Raghvendra et.al.|[2405.03664](http://arxiv.org/abs/2405.03664)|null|
 |**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
@@ -259,6 +260,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
+|**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi et.al.|[2405.04650](http://arxiv.org/abs/2405.04650)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625](http://arxiv.org/abs/2404.12625)|null|
@@ -437,6 +440,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**G-Loc: Tightly-coupled Graph Localization with Prior Topo-metric Information**|Lorenzo Montano-Oliván et.al.|[2405.05059](http://arxiv.org/abs/2405.05059)|null|
+|**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
+|**2024-05-07**|**ResNCT: A Deep Learning Model for the Synthesis of Nephrographic Phase Images in CT Urography**|Syed Jamal Safdar Gardezi et.al.|[2405.04629](http://arxiv.org/abs/2405.04629)|null|
 |**2024-05-07**|**Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform**|Zhijian Qiao et.al.|[2405.03969](http://arxiv.org/abs/2405.03969)|null|
 |**2024-05-06**|**Diffeomorphic Template Registration for Atmospheric Turbulence Mitigation**|Dong Lao et.al.|[2405.03662](http://arxiv.org/abs/2405.03662)|null|
 |**2024-05-06**|**A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose**|Kaiwen Jiang et.al.|[2405.03659](http://arxiv.org/abs/2405.03659)|null|
@@ -753,6 +759,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
+|**2024-05-08**|**ProbRadarM3F: mmWave Radar based Human Skeletal Pose Estimation with Probability Map Guided Multi-Format Feature Fusion**|Bing Zhu et.al.|[2405.05164](http://arxiv.org/abs/2405.05164)|null|
+|**2024-05-08**|**GISR: Geometric Initialization and Silhouette-based Refinement for Single-View Robot Pose and Configuration Estimation**|Ivan Bilić et.al.|[2405.04890](http://arxiv.org/abs/2405.04890)|null|
+|**2024-05-07**|**Learning Distributional Demonstration Spaces for Task-Specific Cross-Pose Estimation**|Jenny Wang et.al.|[2405.04609](http://arxiv.org/abs/2405.04609)|null|
 |**2024-05-07**|**Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform**|Zhijian Qiao et.al.|[2405.03969](http://arxiv.org/abs/2405.03969)|null|
 |**2024-05-07**|**Joint Estimation of Identity Verification and Relative Pose for Partial Fingerprints**|Xiongjun Guan et.al.|[2405.03959](http://arxiv.org/abs/2405.03959)|null|
 |**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689](http://arxiv.org/abs/2405.03689)|null|
@@ -1198,7 +1208,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416](http://arxiv.org/abs/2405.04416)|null|
+|**2024-05-08**|**${M^2D}$ NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields**|Ning Wang et.al.|[2405.05010](http://arxiv.org/abs/2405.05010)|null|
+|**2024-05-08**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416](http://arxiv.org/abs/2405.04416)|null|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/abs/2405.04345)|null|
 |**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880](http://arxiv.org/abs/2405.02880)|null|
 |**2024-05-05**|**MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**|Honghua Chen et.al.|[2405.02859](http://arxiv.org/abs/2405.02859)|null|
