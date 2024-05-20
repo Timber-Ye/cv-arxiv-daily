@@ -26,6 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
 |**2024-05-17**|**Toon3D: Seeing Cartoons from a New Perspective**|Ethan Weber et.al.|[2405.10320](http://arxiv.org/abs/2405.10320)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
 |**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334](http://arxiv.org/abs/2405.09334)|null|
@@ -460,6 +461,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**One registration is worth two segmentations**|Shiqi Huang et.al.|[2405.10879](http://arxiv.org/abs/2405.10879)|null|
+|**2024-05-17**|**Automatic segmentation of Organs at Risk in Head and Neck cancer patients from CT and MRI scans**|Sébastien Quetin et.al.|[2405.10833](http://arxiv.org/abs/2405.10833)|null|
+|**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723](http://arxiv.org/abs/2405.10723)|null|
 |**2024-05-16**|**Introducing Learning Rate Adaptation CMA-ES into Rigid 2D/3D Registration for Robotic Navigation in Spine Surgery**|Zhirun Zhang et.al.|[2405.10186](http://arxiv.org/abs/2405.10186)|null|
 |**2024-05-16**|**MrRegNet: Multi-resolution Mask Guided Convolutional Neural Network for Medical Image Registration with Large Deformations**|Ruizhe Li et.al.|[2405.10068](http://arxiv.org/abs/2405.10068)|null|
 |**2024-05-16**|**NTIRE 2024 Restore Any Image Model (RAIM) in the Wild Challenge**|Jie Liang et.al.|[2405.09923](http://arxiv.org/abs/2405.09923)|null|
@@ -792,6 +796,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Resolving Symmetry Ambiguity in Correspondence-based Methods for Instance-level Object Pose Estimation**|Yongliang Lin et.al.|[2405.10557](http://arxiv.org/abs/2405.10557)|null|
+|**2024-05-16**|**Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder**|Mohamed Ilyes Lakhal et.al.|[2405.10423](http://arxiv.org/abs/2405.10423)|null|
 |**2024-05-17**|**Toon3D: Seeing Cartoons from a New Perspective**|Ethan Weber et.al.|[2405.10320](http://arxiv.org/abs/2405.10320)|null|
 |**2024-05-15**|**Task-adaptive Q-Face**|Haomiao Sun et.al.|[2405.09059](http://arxiv.org/abs/2405.09059)|null|
 |**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483](http://arxiv.org/abs/2405.08483)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
