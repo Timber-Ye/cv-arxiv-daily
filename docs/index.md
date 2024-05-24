@@ -333,6 +333,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Ghost-Stereo: GhostNet-based Cost Volume Enhancement and Aggregation for Stereo Matching Networks**|Xingguang Jiang et.al.|[2405.14520](http://arxiv.org/abs/2405.14520)|null|
+|**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
+|**2024-05-22**|**Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition**|Xinyi Gao et.al.|[2405.13707](http://arxiv.org/abs/2405.13707)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|null|
 |**2024-05-20**|**Learning Spatial Similarity Distribution for Few-shot Object Counting**|Yuanwu Xu et.al.|[2405.11770](http://arxiv.org/abs/2405.11770)|**[link](https://github.com/CBalance/SSD)**|
 |**2024-05-18**|**Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**|Hyungtae Lim et.al.|[2405.11176](http://arxiv.org/abs/2405.11176)|null|
@@ -467,6 +470,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**A New Method in Facial Registration in Clinics Based on Structure Light Images**|Pengfei Li et.al.|[2405.14292](http://arxiv.org/abs/2405.14292)|null|
+|**2024-05-22**|**BrainMorph: A Foundational Keypoint Model for Robust and Flexible Brain MRI Registration**|Alan Q. Wang et.al.|[2405.14019](http://arxiv.org/abs/2405.14019)|null|
+|**2024-05-22**|**Kinematics of Abdominal Aortic Aneurysms**|Mostafa Jamshidian et.al.|[2405.13377](http://arxiv.org/abs/2405.13377)|null|
+|**2024-05-22**|**Single color virtual H&E staining with In-and-Out Net**|Mengkun Chen et.al.|[2405.13278](http://arxiv.org/abs/2405.13278)|null|
+|**2024-05-19**|**SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations**|Fanfan Wang et.al.|[2405.13049](http://arxiv.org/abs/2405.13049)|**[link](https://github.com/nustm/semeval-2024_ecac)**|
 |**2024-05-21**|**On Image Registration and Subpixel Estimation**|Serap A. Savari et.al.|[2405.12927](http://arxiv.org/abs/2405.12927)|null|
 |**2024-05-21**|**Weakly supervised alignment and registration of MR-CT for cervical cancer radiotherapy**|Jjahao Zhang et.al.|[2405.12850](http://arxiv.org/abs/2405.12850)|null|
 |**2024-05-21**|**Adaptive local boundary conditions to improve Deformable Image Registration**|Eloïse Inacio et.al.|[2405.12791](http://arxiv.org/abs/2405.12791)|null|
@@ -808,6 +816,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**CoPeD-Advancing Multi-Robot Collaborative Perception: A Comprehensive Dataset in Real-World Environments**|Yang Zhou et.al.|[2405.14731](http://arxiv.org/abs/2405.14731)|null|
+|**2024-05-23**|**Segformer++: Efficient Token-Merging Strategies for High-Resolution Semantic Segmentation**|Daniel Kienzle et.al.|[2405.14467](http://arxiv.org/abs/2405.14467)|null|
+|**2024-05-21**|**Geometric Transformation Uncertainty for Improving 3D Fetal Brain Pose Prediction from Freehand 2D Ultrasound Videos**|Jayroop Ramesh et.al.|[2405.13235](http://arxiv.org/abs/2405.13235)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
 |**2024-05-21**|**PoseGravity: Pose Estimation from Points and Lines with Axis Prior**|Akshay Chandrasekhar et.al.|[2405.12646](http://arxiv.org/abs/2405.12646)|null|
 |**2024-05-19**|**Focus on Low-Resolution Information: Multi-Granular Information-Lossless Model for Low-Resolution Human Pose Estimation**|Zejun Gu et.al.|[2405.12247](http://arxiv.org/abs/2405.12247)|null|
@@ -1280,6 +1291,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871](http://arxiv.org/abs/2405.14871)|null|
+|**2024-05-23**|**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**|Liwen Wu et.al.|[2405.14847](http://arxiv.org/abs/2405.14847)|null|
+|**2024-05-23**|**Camera Relocalization in Shadow-free Neural Radiance Fields**|Shiyao Xu et.al.|[2405.14824](http://arxiv.org/abs/2405.14824)|null|
+|**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580](http://arxiv.org/abs/2405.14580)|null|
+|**2024-05-23**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452](http://arxiv.org/abs/2405.14452)|null|
+|**2024-05-22**|**DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus**|Yu Chen et.al.|[2405.13943](http://arxiv.org/abs/2405.13943)|null|
+|**2024-05-22**|**Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances**|Licheng Shen et.al.|[2405.13694](http://arxiv.org/abs/2405.13694)|null|
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/abs/2405.12806)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|null|
