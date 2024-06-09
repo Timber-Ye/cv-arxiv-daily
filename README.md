@@ -500,7 +500,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-06**|**From Tissue Plane to Organ World: A Benchmark Dataset for Multimodal Biomedical Image Registration using Deep Co-Attention Networks**|Yifeng Wang et.al.|[2406.04105](http://arxiv.org/abs/2406.04105)|**[link](https://github.com/haizailache999/image-registration)**|
-|**2024-06-06**|**Class-Aware Cartilage Segmentation for Autonomous US-CT Registration in Robotic Intercostal Ultrasound Imaging**|Zhongliang Jiang et.al.|[2406.04100](http://arxiv.org/abs/2406.04100)|null|
+|**2024-06-06**|**Class-Aware Cartilage Segmentation for Autonomous US-CT Registration in Robotic Intercostal Ultrasound Imaging**|Zhongliang Jiang et.al.|[2406.04100](http://arxiv.org/abs/2406.04100)|**[link](https://github.com/ge79puv/US_Cartilage_Segmentation)**|
 |**2024-06-05**|**Gaussian Representation for Deformable Image Registration**|Jihe Li et.al.|[2406.03394](http://arxiv.org/abs/2406.03394)|null|
 |**2024-06-05**|**L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration**|Yibo Liu et.al.|[2406.03298](http://arxiv.org/abs/2406.03298)|**[link](https://github.com/yorklyb/LiDAR-SFM)**|
 |**2024-06-04**|**DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering**|Zhongpai Gao et.al.|[2406.02518](http://arxiv.org/abs/2406.02518)|null|
