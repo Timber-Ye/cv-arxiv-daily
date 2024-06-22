@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -379,7 +379,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|null|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
 |**2024-06-07**|**ProMotion: Prototypes As Motion Learners**|Yawen Lu et.al.|[2406.04999](http://arxiv.org/abs/2406.04999)|null|
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
@@ -521,13 +521,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-20**|**Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**|Long Lei et.al.|[2406.14534](http://arxiv.org/abs/2406.14534)|null|
+|**2024-06-20**|**Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**|Long Lei et.al.|[2406.14534](http://arxiv.org/abs/2406.14534)|**[link](https://github.com/LLEIHIT/CU-Reg)**|
 |**2024-06-19**|**Simultaneous Map and Object Reconstruction**|Nathaniel Chodosh et.al.|[2406.13896](http://arxiv.org/abs/2406.13896)|null|
 |**2024-06-19**|**Groupwise Deformable Registration of Diffusion Tensor Cardiovascular Magnetic Resonance: Disentangling Diffusion Contrast, Respiratory and Cardiac Motions**|Fanwen Wang et.al.|[2406.13788](http://arxiv.org/abs/2406.13788)|null|
 |**2024-06-19**|**Low-rank based motion correction followed by automatic frame selection in DT-CMR**|Fanwen Wang et.al.|[2406.13708](http://arxiv.org/abs/2406.13708)|null|
 |**2024-06-19**|**Recurrent Inference Machine for Medical Image Registration**|Yi Zhang et.al.|[2406.13413](http://arxiv.org/abs/2406.13413)|null|
 |**2024-06-18**|**PCA-Relax: Deep-learning-based groupwise registration for motion correction of cardiac $T_1$ mapping**|Yi Zhang et.al.|[2406.12456](http://arxiv.org/abs/2406.12456)|null|
-|**2024-06-18**|**Encoding Matching Criteria for Cross-domain Deformable Image Registration**|Zhuoyuan Wang et.al.|[2406.12350](http://arxiv.org/abs/2406.12350)|null|
+|**2024-06-18**|**Encoding Matching Criteria for Cross-domain Deformable Image Registration**|Zhuoyuan Wang et.al.|[2406.12350](http://arxiv.org/abs/2406.12350)|**[link](https://github.com/juliuswang-7/encoderreg)**|
 |**2024-06-18**|**CodeNav: Beyond tool-use to using real-world codebases with LLM agents**|Tanmay Gupta et.al.|[2406.12276](http://arxiv.org/abs/2406.12276)|null|
 |**2024-06-17**|**Correspondence Free Multivector Cloud Registration using Conformal Geometric Algebra**|Francisco Xavier Vasconcelos et.al.|[2406.11732](http://arxiv.org/abs/2406.11732)|**[link](https://github.com/numerical-geometric-algebra/registrationga)**|
 |**2024-06-17**|**Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**|Maximilian E. Tschuchnig et.al.|[2406.11650](http://arxiv.org/abs/2406.11650)|null|
