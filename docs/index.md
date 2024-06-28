@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,10 +29,10 @@ layout: default
 |**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
-|**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
+|**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|**[link](https://github.com/weitong8591/vop)**|
 |**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515](http://arxiv.org/abs/2406.13515)|null|
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|null|
-|**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|null|
+|**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|**[link](https://github.com/cluel01/clip-branches)**|
 |**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766](http://arxiv.org/abs/2406.11766)|null|
 |**2024-06-22**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551](http://arxiv.org/abs/2406.11551)|**[link](https://github.com/exponentiai/effnet)**|
 |**2024-06-17**|**They're All Doctors: Synthesizing Diverse Counterfactuals to Mitigate Associative Bias**|Salma Abdel Magid et.al.|[2406.11331](http://arxiv.org/abs/2406.11331)|null|
@@ -321,7 +321,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|null|
+|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|**[link](https://github.com/gbarbarani/MorseDet)**|
 |**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085](http://arxiv.org/abs/2405.16085)|null|
@@ -528,10 +528,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-26**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414](http://arxiv.org/abs/2406.18414)|null|
+|**2024-06-26**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414](http://arxiv.org/abs/2406.18414)|**[link](https://github.com/kemo-huang/bitrack)**|
 |**2024-06-25**|**Toward Universal Medical Image Registration via Sharpness-Aware Meta-Continual Learning**|Bomin Wang et.al.|[2406.17575](http://arxiv.org/abs/2406.17575)|**[link](https://github.com/xzluo97/continual-reg)**|
 |**2024-06-25**|**Point Tree Transformer for Point Cloud Registration**|Meiling Wang et.al.|[2406.17530](http://arxiv.org/abs/2406.17530)|null|
-|**2024-06-25**|**A benchmark for 2D foetal brain ultrasound analysis**|Mariano Cabezas et.al.|[2406.17250](http://arxiv.org/abs/2406.17250)|null|
+|**2024-06-25**|**A benchmark for 2D foetal brain ultrasound analysis**|Mariano Cabezas et.al.|[2406.17250](http://arxiv.org/abs/2406.17250)|**[link](https://github.com/marianocabezas/fetal-brain)**|
 |**2024-06-24**|**High-resolution open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2406.16384](http://arxiv.org/abs/2406.16384)|null|
 |**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129](http://arxiv.org/abs/2406.16129)|null|
 |**2024-06-22**|**Privacy Requirements and Realities of Digital Public Goods**|Geetika Gopi et.al.|[2406.15842](http://arxiv.org/abs/2406.15842)|null|
@@ -931,7 +931,7 @@ layout: default
 |**2024-06-26**|**Towards Human-Level 3D Relative Pose Estimation: Generalizable, Training-Free, with Single Reference**|Yuan Gao et.al.|[2406.18453](http://arxiv.org/abs/2406.18453)|**[link](https://github.com/ethanygao/training-free_generalizable_relative_pose)**|
 |**2024-06-25**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382](http://arxiv.org/abs/2406.17382)|null|
 |**2024-06-24**|**High-resolution open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2406.16384](http://arxiv.org/abs/2406.16384)|null|
-|**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
+|**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|**[link](https://github.com/weitong8591/vop)**|
 |**2024-06-21**|**Efficient Human Pose Estimation: Leveraging Advanced Techniques with MediaPipe**|Sandeep Singh Sengar et.al.|[2406.15649](http://arxiv.org/abs/2406.15649)|**[link](https://github.com/avhixd/human_pose_estimation)**|
 |**2024-06-24**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111](http://arxiv.org/abs/2406.15111)|null|
 |**2024-06-20**|**Benchmarking Monocular 3D Dog Pose Estimation Using In-The-Wild Motion Capture Data**|Moira Shooter et.al.|[2406.14412](http://arxiv.org/abs/2406.14412)|null|
@@ -1457,7 +1457,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|null|
+|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|**[link](https://github.com/qimaqi/Implicit-Zoo)**|
 |**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345](http://arxiv.org/abs/2406.17345)|null|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-06-24**|**Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis**|Jianning Deng et.al.|[2406.16623](http://arxiv.org/abs/2406.16623)|null|
