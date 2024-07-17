@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1028,7 +1028,7 @@ layout: default
 |**2024-07-15**|**Learning to Estimate the Pose of a Peer Robot in a Camera Image by Predicting the States of its LEDs**|Nicholas Carlotti et.al.|[2407.10661](http://arxiv.org/abs/2407.10661)|null|
 |**2024-07-15**|**Deep-Learning-Based Markerless Pose Estimation Systems in Gait Analysis: DeepLabCut Custom Training and the Refinement Function**|Giulia Panconi et.al.|[2407.10590](http://arxiv.org/abs/2407.10590)|null|
 |**2024-07-14**|**3D Foundation Models Enable Simultaneous Geometry and Pose Estimation of Grasped Objects**|Weiming Zhi et.al.|[2407.10331](http://arxiv.org/abs/2407.10331)|null|
-|**2024-07-14**|**psifx -- Psychological and Social Interactions Feature Extraction Package**|Guillaume Rochette et.al.|[2407.10266](http://arxiv.org/abs/2407.10266)|null|
+|**2024-07-16**|**psifx -- Psychological and Social Interactions Feature Extraction Package**|Guillaume Rochette et.al.|[2407.10266](http://arxiv.org/abs/2407.10266)|null|
 |**2024-07-14**|**PAFUSE: Part-based Diffusion for 3D Whole-Body Pose Estimation**|Nermin Samet et.al.|[2407.10220](http://arxiv.org/abs/2407.10220)|null|
 |**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102](http://arxiv.org/abs/2407.10102)|null|
 |**2024-07-12**|**iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning**|Tom Fischer et.al.|[2407.09271](http://arxiv.org/abs/2407.09271)|null|
