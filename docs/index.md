@@ -26,6 +26,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
+|**2024-07-22**|**Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM**|Mathieu Labbe et.al.|[2407.15305](http://arxiv.org/abs/2407.15305)|null|
+|**2024-07-22**|**Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation**|Mathieu Labbé et.al.|[2407.15304](http://arxiv.org/abs/2407.15304)|null|
+|**2024-07-19**|**Double-Layer Soft Data Fusion for Indoor Robot WiFi-Visual Localization**|Yuehua Ding et.al.|[2407.14643](http://arxiv.org/abs/2407.14643)|null|
 |**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|**[link](https://github.com/visual-haystacks/vhs_benchmark)**|
 |**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408](http://arxiv.org/abs/2407.12408)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
@@ -351,6 +355,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|**[link](https://github.com/Mercerai/PFGS)**|
 |**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|**[link](https://github.com/tsuiky/3drn)**|
@@ -419,6 +424,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-19**|**Temporal Correlation Meets Embedding: Towards a 2nd Generation of JDE-based Real-Time Multi-Object Tracking**|Yunfei Zhang et.al.|[2407.14086](http://arxiv.org/abs/2407.14086)|null|
 |**2024-07-18**|**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**|Yujia Liang et.al.|[2407.13483](http://arxiv.org/abs/2407.13483)|**[link](https://github.com/tiny-smart/SCAPE)**|
 |**2024-07-18**|**Semantic-aware Representation Learning for Homography Estimation**|Yuhan Liu et.al.|[2407.13284](http://arxiv.org/abs/2407.13284)|null|
@@ -585,6 +591,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Subthalamic Nucleus segmentation in high-field Magnetic Resonance data. Is space normalization by template co-registration necessary?**|Tomás Lima et.al.|[2407.15485](http://arxiv.org/abs/2407.15485)|null|
 |**2024-07-19**|**PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training**|Suyi Chen et.al.|[2407.14054](http://arxiv.org/abs/2407.14054)|**[link](https://github.com/chen-suyi/pointreggpt)**|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|null|
 |**2024-07-18**|**WiNet: Wavelet-based Incremental Learning for Efficient Medical Image Registration**|Xinxing Cheng et.al.|[2407.13426](http://arxiv.org/abs/2407.13426)|**[link](https://github.com/x-xc/WiNet)**|
@@ -593,7 +600,7 @@ layout: default
 |**2024-07-17**|**Across Platforms and Languages: Dutch Influencers and Legal Disclosures on Instagram, YouTube and TikTok**|Haoyang Gui et.al.|[2407.12451](http://arxiv.org/abs/2407.12451)|null|
 |**2024-07-17**|**On the E-DeltaE low pressure pentane filled detection module of DGFRS-2 setup**|D. Ibadullayev et.al.|[2407.12418](http://arxiv.org/abs/2407.12418)|null|
 |**2024-07-16**|**L2AI: lightweight three-factor authentication and authorization in IOMT blockchain-based environment**|Laleh Khajehzadeh et.al.|[2407.12187](http://arxiv.org/abs/2407.12187)|null|
-|**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705](http://arxiv.org/abs/2407.11705)|null|
+|**2024-07-22**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705](http://arxiv.org/abs/2407.11705)|null|
 |**2024-07-16**|**FR-SLAM: A SLAM Improvement Method Based on Floor Plan Registration**|Jiantao Feng et.al.|[2407.11299](http://arxiv.org/abs/2407.11299)|null|
 |**2024-07-17**|**DD_RoTIR: Dual-Domain Image Registration via Image Translation and Hierarchical Feature-matching**|Ruixiong Wang et.al.|[2407.11223](http://arxiv.org/abs/2407.11223)|null|
 |**2024-07-15**|**TLRN: Temporal Latent Residual Networks For Large Deformation Image Registration**|Nian Wu et.al.|[2407.11219](http://arxiv.org/abs/2407.11219)|**[link](https://github.com/nellie689/tlrn)**|
@@ -1046,6 +1053,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
+|**2024-07-22**|**Local Occupancy-Enhanced Object Grasping with Multiple Triplanar Projection**|Kangqi Ma et.al.|[2407.15771](http://arxiv.org/abs/2407.15771)|null|
+|**2024-07-22**|**6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model**|Matteo Bortolon et.al.|[2407.15484](http://arxiv.org/abs/2407.15484)|null|
+|**2024-07-22**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|null|
+|**2024-07-22**|**avaTTAR: Table Tennis Stroke Training with On-body and Detached Visualization in Augmented Reality**|Dizhi Ma et.al.|[2407.15373](http://arxiv.org/abs/2407.15373)|null|
+|**2024-07-20**|**From Underground Mines to Offices: A Versatile and Robust Framework for Range-Inertial SLAM**|Lorenzo Montano-Oliván et.al.|[2407.14797](http://arxiv.org/abs/2407.14797)|null|
+|**2024-07-19**|**ESCAPE: Energy-based Selective Adaptive Correction for Out-of-distribution 3D Human Pose Estimation**|Luke Bidulka et.al.|[2407.14605](http://arxiv.org/abs/2407.14605)|null|
 |**2024-07-19**|**6DoF Head Pose Estimation through Explicit Bidirectional Interaction with Face Geometry**|Sungho Chun et.al.|[2407.14136](http://arxiv.org/abs/2407.14136)|**[link](https://github.com/asw91666/trg-release)**|
 |**2024-07-18**|**RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark**|Yuan-Hao Ho et.al.|[2407.13930](http://arxiv.org/abs/2407.13930)|null|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|null|
@@ -1628,6 +1642,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848](http://arxiv.org/abs/2407.15848)|null|
+|**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
 |**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419](http://arxiv.org/abs/2407.14419)|null|
 |**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053](http://arxiv.org/abs/2407.14053)|null|
 |**2024-07-19**|**Semantic Communications for 3D Human Face Transmission with Neural Radiance Fields**|Guanlin Wu et.al.|[2407.13992](http://arxiv.org/abs/2407.13992)|null|
