@@ -22,6 +22,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation**|Yongqi Li et.al.|[2407.17274](http://arxiv.org/abs/2407.17274)|null|
+|**2024-07-24**|**Active Loop Closure for OSM-guided Robotic Mapping in Large-Scale Urban Environments**|Wei Gao et.al.|[2407.17078](http://arxiv.org/abs/2407.17078)|null|
+|**2024-07-24**|**DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction**|Xiaobiao Du et.al.|[2407.16988](http://arxiv.org/abs/2407.16988)|null|
+|**2024-07-24**|**Pose Estimation from Camera Images for Underwater Inspection**|Luyuan Peng et.al.|[2407.16961](http://arxiv.org/abs/2407.16961)|null|
 |**2024-07-23**|**Optimal camera-robot pose estimation in linear time from points and lines**|Guangyang Zeng et.al.|[2407.16151](http://arxiv.org/abs/2407.16151)|null|
 |**2024-07-22**|**Memory Management for Real-Time Appearance-Based Loop Closure Detection**|Mathieu Labbé et.al.|[2407.15890](http://arxiv.org/abs/2407.15890)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
@@ -595,6 +599,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Asymmetry Analysis of Bilateral Shapes**|Kanti V. Mardia et.al.|[2407.17225](http://arxiv.org/abs/2407.17225)|null|
+|**2024-07-24**|**Robust Point Cloud Registration in Robotic Inspection with Locally Consistent Gaussian Mixture Model**|Lingjie Su et.al.|[2407.17183](http://arxiv.org/abs/2407.17183)|null|
+|**2024-07-24**|**Exploring Covid-19 Spatiotemporal Dynamics: Non-Euclidean Spatially Aware Functional Registration**|Luke A. Barratt et.al.|[2407.17132](http://arxiv.org/abs/2407.17132)|null|
+|**2024-07-24**|**A Self-Supervised Image Registration Approach for Measuring Local Response Patterns in Metastatic Ovarian Cancer**|Inês P. Machado et.al.|[2407.17114](http://arxiv.org/abs/2407.17114)|null|
+|**2024-07-23**|**SE3ET: SE(3)-Equivariant Transformer for Low-Overlap Point Cloud Registration**|Chien Erh Lin et.al.|[2407.16823](http://arxiv.org/abs/2407.16823)|null|
 |**2024-07-22**|**Subthalamic Nucleus segmentation in high-field Magnetic Resonance data. Is space normalization by template co-registration necessary?**|Tomás Lima et.al.|[2407.15485](http://arxiv.org/abs/2407.15485)|null|
 |**2024-07-19**|**PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training**|Suyi Chen et.al.|[2407.14054](http://arxiv.org/abs/2407.14054)|**[link](https://github.com/chen-suyi/pointreggpt)**|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|null|
@@ -1059,6 +1068,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
+|**2024-07-24**|**Active Loop Closure for OSM-guided Robotic Mapping in Large-Scale Urban Environments**|Wei Gao et.al.|[2407.17078](http://arxiv.org/abs/2407.17078)|null|
+|**2024-07-24**|**DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction**|Xiaobiao Du et.al.|[2407.16988](http://arxiv.org/abs/2407.16988)|null|
+|**2024-07-24**|**Pose Estimation from Camera Images for Underwater Inspection**|Luyuan Peng et.al.|[2407.16961](http://arxiv.org/abs/2407.16961)|null|
 |**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|null|
 |**2024-07-23**|**Probabilistic Parameter Estimators and Calibration Metrics for Pose Estimation from Image Features**|Romeo Valentin et.al.|[2407.16223](http://arxiv.org/abs/2407.16223)|null|
 |**2024-07-23**|**Optimal camera-robot pose estimation in linear time from points and lines**|Guangyang Zeng et.al.|[2407.16151](http://arxiv.org/abs/2407.16151)|null|
@@ -1655,6 +1668,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
 |**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260](http://arxiv.org/abs/2407.16260)|null|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848](http://arxiv.org/abs/2407.15848)|null|
