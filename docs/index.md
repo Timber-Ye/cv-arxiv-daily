@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -619,7 +619,7 @@ layout: default
 |**2024-08-01**|**Centimeter-sized Objects at Micrometer Resolution: Extending Field-of-View in Wavefront Marker X-ray Phase-Contrast Tomography**|Dominik John et.al.|[2408.00482](http://arxiv.org/abs/2408.00482)|null|
 |**2024-08-01**|**multiGradICON: A Foundation Model for Multimodal Medical Image Registration**|Basar Demir et.al.|[2408.00221](http://arxiv.org/abs/2408.00221)|null|
 |**2024-07-30**|**Understanding Public Safety Trends in Calgary through data mining**|Zack Dewis et.al.|[2407.21163](http://arxiv.org/abs/2407.21163)|null|
-|**2024-07-29**|**Alignment Scores: Robust Metrics for Multiview Pose Accuracy Evaluation**|Seong Hun Lee et.al.|[2407.20391](http://arxiv.org/abs/2407.20391)|null|
+|**2024-08-02**|**Alignment Scores: Robust Metrics for Multiview Pose Accuracy Evaluation**|Seong Hun Lee et.al.|[2407.20391](http://arxiv.org/abs/2407.20391)|null|
 |**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223](http://arxiv.org/abs/2407.20223)|null|
 |**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
 |**2024-07-27**|**Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration**|Bailiang Jian et.al.|[2407.19274](http://arxiv.org/abs/2407.19274)|**[link](https://github.com/bailiangj/rethink-reg)**|
