@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -449,7 +449,7 @@ layout: default
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
-|**2024-07-19**|**Temporal Correlation Meets Embedding: Towards a 2nd Generation of JDE-based Real-Time Multi-Object Tracking**|Yunfei Zhang et.al.|[2407.14086](http://arxiv.org/abs/2407.14086)|null|
+|**2024-08-06**|**Temporal Correlation Meets Embedding: Towards a 2nd Generation of JDE-based Real-Time Multi-Object Tracking**|Yunfei Zhang et.al.|[2407.14086](http://arxiv.org/abs/2407.14086)|null|
 |**2024-07-18**|**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**|Yujia Liang et.al.|[2407.13483](http://arxiv.org/abs/2407.13483)|**[link](https://github.com/tiny-smart/SCAPE)**|
 |**2024-08-05**|**Semantic-aware Representation Learning for Homography Estimation**|Yuhan Liu et.al.|[2407.13284](http://arxiv.org/abs/2407.13284)|null|
 |**2024-07-17**|**Efficient Depth-Guided Urban View Synthesis**|Sheng Miao et.al.|[2407.12395](http://arxiv.org/abs/2407.12395)|null|
