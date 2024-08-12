@@ -159,7 +159,7 @@ layout: default
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
 |**2024-04-20**|**Collaborative Visual Place Recognition through Federated Learning**|Mattia Dutto et.al.|[2404.13324](http://arxiv.org/abs/2404.13324)|null|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
-|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|null|
+|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|**[link](https://github.com/BUAADreamer/SPN4CIR)**|
 |**2024-04-17**|**Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**|Sanggeon Yun et.al.|[2404.11025](http://arxiv.org/abs/2404.11025)|null|
 |**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748](http://arxiv.org/abs/2404.09748)|null|
@@ -633,7 +633,7 @@ layout: default
 |**2024-08-01**|**Centimeter-sized Objects at Micrometer Resolution: Extending Field-of-View in Wavefront Marker X-ray Phase-Contrast Tomography**|Dominik John et.al.|[2408.00482](http://arxiv.org/abs/2408.00482)|null|
 |**2024-08-01**|**multiGradICON: A Foundation Model for Multimodal Medical Image Registration**|Basar Demir et.al.|[2408.00221](http://arxiv.org/abs/2408.00221)|null|
 |**2024-07-30**|**Understanding Public Safety Trends in Calgary through data mining**|Zack Dewis et.al.|[2407.21163](http://arxiv.org/abs/2407.21163)|null|
-|**2024-08-02**|**Alignment Scores: Robust Metrics for Multiview Pose Accuracy Evaluation**|Seong Hun Lee et.al.|[2407.20391](http://arxiv.org/abs/2407.20391)|null|
+|**2024-08-02**|**Alignment Scores: Robust Metrics for Multiview Pose Accuracy Evaluation**|Seong Hun Lee et.al.|[2407.20391](http://arxiv.org/abs/2407.20391)|**[link](https://github.com/sunghoon031/AlignmentScores)**|
 |**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223](http://arxiv.org/abs/2407.20223)|null|
 |**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
 |**2024-07-27**|**Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration**|Bailiang Jian et.al.|[2407.19274](http://arxiv.org/abs/2407.19274)|**[link](https://github.com/bailiangj/rethink-reg)**|
@@ -1340,7 +1340,7 @@ layout: default
 |**2024-04-16**|**GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling**|Huantao Ren et.al.|[2404.10213](http://arxiv.org/abs/2404.10213)|null|
 |**2024-04-16**|**LWIRPOSE: A novel LWIR Thermal Image Dataset and Benchmark**|Avinash Upadhyay et.al.|[2404.10212](http://arxiv.org/abs/2404.10212)|**[link](https://github.com/avinres/lwirpose)**|
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748](http://arxiv.org/abs/2404.09748)|null|
-|**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308](http://arxiv.org/abs/2404.09308)|null|
+|**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308](http://arxiv.org/abs/2404.09308)|**[link](https://github.com/wiktormucha/effhandegonet)**|
 |**2024-04-13**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928](http://arxiv.org/abs/2404.08928)|**[link](https://github.com/parskatt/dedode)**|
 |**2024-04-16**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504](http://arxiv.org/abs/2404.08504)|null|
 |**2024-04-11**|**Separated Attention: An Improved Cycle GAN Based Under Water Image Enhancement Method**|Tashmoy Ghosh et.al.|[2404.07649](http://arxiv.org/abs/2404.07649)|null|
@@ -1384,7 +1384,7 @@ layout: default
 |**2024-03-25**|**Characterisation of the Intel RealSense D415 Stereo Depth Camera for Motion-Corrected CT Perfusion Imaging**|Mahdieh Dashtbani Moghari et.al.|[2403.16490](http://arxiv.org/abs/2403.16490)|null|
 |**2024-03-25**|**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**|Zicong Fan et.al.|[2403.16428](http://arxiv.org/abs/2403.16428)|**[link](https://github.com/facebookresearch/assemblyhands-toolkit)**|
 |**2024-03-25**|**A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups**|Yixiao Ge et.al.|[2403.16411](http://arxiv.org/abs/2403.16411)|null|
-|**2024-03-25**|**ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation**|Hannah Schieber et.al.|[2403.16400](http://arxiv.org/abs/2403.16400)|null|
+|**2024-03-25**|**ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation**|Hannah Schieber et.al.|[2403.16400](http://arxiv.org/abs/2403.16400)|**[link](https://github.com/roth-hex-lab/asdf)**|
 |**2024-03-24**|**KITchen: A Real-World Benchmark and Dataset for 6D Object Pose Estimation in Kitchen Environments**|Abdelrahman Younes et.al.|[2403.16238](http://arxiv.org/abs/2403.16238)|null|
 |**2024-03-24**|**Diffusion Model is a Good Pose Estimator from 3D RF-Vision**|Junqiao Fan et.al.|[2403.16198](http://arxiv.org/abs/2403.16198)|null|
 |**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|null|
