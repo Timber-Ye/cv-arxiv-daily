@@ -22,13 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
+|**2024-08-10**|**Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**|Junyan Ye et.al.|[2408.05475](http://arxiv.org/abs/2408.05475)|**[link](https://github.com/yejy53/ep-bev)**|
+|**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
 |**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
-|**2024-08-09**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|null|
+|**2024-08-09**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|**[link](https://github.com/zjuluolun/bevplace)**|
 |**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](http://arxiv.org/abs/2408.01840)|null|
 |**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
-|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|null|
+|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|**[link](https://github.com/luohongk/supervins)**|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|null|
 |**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590](http://arxiv.org/abs/2407.18590)|null|
@@ -448,9 +451,9 @@
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
 |**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|null|
-|**2024-08-01**|**DMESA: Densely Matching Everything by Segmenting Anything**|Yesheng Zhang et.al.|[2408.00279](http://arxiv.org/abs/2408.00279)|null|
+|**2024-08-01**|**DMESA: Densely Matching Everything by Segmenting Anything**|Yesheng Zhang et.al.|[2408.00279](http://arxiv.org/abs/2408.00279)|**[link](https://github.com/Easonyesheng/A2PM-MESA)**|
 |**2024-07-31**|**Analyzing the impact of semantic LoD3 building models on image-based vehicle localization**|Antonia Bieringer et.al.|[2407.21432](http://arxiv.org/abs/2407.21432)|null|
-|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|null|
+|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|**[link](https://github.com/luohongk/supervins)**|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
@@ -622,9 +625,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-09**|**Capsule Vision 2024 Challenge: Multi-Class Abnormality Classification for Video Capsule Endoscopy**|Palak Handa et.al.|[2408.04940](http://arxiv.org/abs/2408.04940)|null|
+|**2024-08-11**|**Deep Learning in Medical Image Registration: Magic or Mirage?**|Rohit Jena et.al.|[2408.05839](http://arxiv.org/abs/2408.05839)|null|
+|**2024-08-11**|**Deformable Image Registration with Multi-scale Feature Fusion from Shared Encoder, Auxiliary and Pyramid Decoders**|Hongchao Zhou et.al.|[2408.05717](http://arxiv.org/abs/2408.05717)|null|
+|**2024-08-10**|**GEM: Context-Aware Gaze EstiMation with Visual Search Behavior Matching for Chest Radiograph**|Shaonan Liu et.al.|[2408.05502](http://arxiv.org/abs/2408.05502)|null|
+|**2024-08-03**|**CAR: Contrast-Agnostic Deformable Medical Image Registration with Contrast-Invariant Latent Regularization**|Yinsong Wang et.al.|[2408.05341](http://arxiv.org/abs/2408.05341)|null|
+|**2024-08-09**|**Capsule Vision 2024 Challenge: Multi-Class Abnormality Classification for Video Capsule Endoscopy**|Palak Handa et.al.|[2408.04940](http://arxiv.org/abs/2408.04940)|**[link](https://github.com/misahub2023/capsule-vision-2024-challenge)**|
 |**2024-08-08**|**Respiratory Subtraction for Pulmonary Microwave Ablation Evaluation**|Wan Li et.al.|[2408.04299](http://arxiv.org/abs/2408.04299)|null|
-|**2024-08-07**|**Distillation Learning Guided by Image Reconstruction for One-Shot Medical Image Segmentation**|Feng Zhou et.al.|[2408.03616](http://arxiv.org/abs/2408.03616)|null|
+|**2024-08-07**|**Distillation Learning Guided by Image Reconstruction for One-Shot Medical Image Segmentation**|Feng Zhou et.al.|[2408.03616](http://arxiv.org/abs/2408.03616)|**[link](https://github.com/novicefodder/os-medseg)**|
 |**2024-08-06**|**Post-Mortem Human Iris Segmentation Analysis with Deep Learning**|Afzal Hossain et.al.|[2408.03448](http://arxiv.org/abs/2408.03448)|null|
 |**2024-08-02**|**Siril: An Advanced Tool for Astronomical Image Processing**|Cyril Richard et.al.|[2408.03346](http://arxiv.org/abs/2408.03346)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
@@ -1116,6 +1123,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural Phenotyping with Pose Estimation Techniques**|Navid Ghassemi et.al.|[2408.06336](http://arxiv.org/abs/2408.06336)|null|
+|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981](http://arxiv.org/abs/2408.05981)|null|
+|**2024-08-12**|**PAFormer: Part Aware Transformer for Person Re-identification**|Hyeono Jung et.al.|[2408.05918](http://arxiv.org/abs/2408.05918)|null|
+|**2024-08-11**|**SABER-6D: Shape Representation Based Implicit Object Pose Estimation**|Shishir Reddy Vutukur et.al.|[2408.05867](http://arxiv.org/abs/2408.05867)|null|
+|**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
+|**2024-08-10**|**Anticipation through Head Pose Estimation: a preliminary study**|Federico Figari Tomenotti et.al.|[2408.05516](http://arxiv.org/abs/2408.05516)|null|
 |**2024-08-09**|**Mesh-based Object Tracking for Dynamic Semantic 3D Scene Graphs via Ray Tracing**|Lennart Niecksch et.al.|[2408.04979](http://arxiv.org/abs/2408.04979)|null|
 |**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540](http://arxiv.org/abs/2408.03540)|null|
 |**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225](http://arxiv.org/abs/2408.03225)|**[link](https://github.com/zibin6/lopet)**|
@@ -1740,9 +1753,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286](http://arxiv.org/abs/2408.06286)|null|
+|**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
+|**2024-08-10**|**Radiance Field Learners As UAV First-Person Viewers**|Liqi Yan et.al.|[2408.05533](http://arxiv.org/abs/2408.05533)|null|
 |**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008](http://arxiv.org/abs/2408.05008)|null|
 |**2024-08-09**|**FewShotNeRF: Meta-Learning-based Novel View Synthesis for Rapid Scene-Specific Adaptation**|Piraveen Sivakumar et.al.|[2408.04803](http://arxiv.org/abs/2408.04803)|null|
-|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|null|
+|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|**[link](https://github.com/joaxkal/lumigauss)**|
 |**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
 |**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268](http://arxiv.org/abs/2408.04268)|null|
 |**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646](http://arxiv.org/abs/2408.03646)|null|
