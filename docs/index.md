@@ -95,7 +95,7 @@ layout: default
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|**[link](https://github.com/weitong8591/vop)**|
 |**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515](http://arxiv.org/abs/2406.13515)|null|
-|**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|null|
+|**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|**[link](https://github.com/rogerferrod/rsicrc)**|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|**[link](https://github.com/cluel01/clip-branches)**|
 |**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766](http://arxiv.org/abs/2406.11766)|null|
 |**2024-06-22**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551](http://arxiv.org/abs/2406.11551)|**[link](https://github.com/exponentiai/effnet)**|
@@ -688,7 +688,7 @@ layout: default
 |**2024-07-23**|**SE3ET: SE(3)-Equivariant Transformer for Low-Overlap Point Cloud Registration**|Chien Erh Lin et.al.|[2407.16823](http://arxiv.org/abs/2407.16823)|**[link](https://github.com/UMich-CURLY/SE3ET)**|
 |**2024-07-22**|**Subthalamic Nucleus segmentation in high-field Magnetic Resonance data. Is space normalization by template co-registration necessary?**|Tomás Lima et.al.|[2407.15485](http://arxiv.org/abs/2407.15485)|null|
 |**2024-07-19**|**PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training**|Suyi Chen et.al.|[2407.14054](http://arxiv.org/abs/2407.14054)|**[link](https://github.com/chen-suyi/pointreggpt)**|
-|**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|null|
+|**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|**[link](https://github.com/wu-cvgl/GlobalPointer)**|
 |**2024-07-18**|**WiNet: Wavelet-based Incremental Learning for Efficient Medical Image Registration**|Xinxing Cheng et.al.|[2407.13426](http://arxiv.org/abs/2407.13426)|**[link](https://github.com/x-xc/WiNet)**|
 |**2024-07-18**|**General Vision Encoder Features as Guidance in Medical Image Registration**|Fryderyk Kögl et.al.|[2407.13311](http://arxiv.org/abs/2407.13311)|null|
 |**2024-07-18**|**STS MICCAI 2023 Challenge: Grand challenge on 2D and 3D semi-supervised tooth segmentation**|Yaqi Wang et.al.|[2407.13246](http://arxiv.org/abs/2407.13246)|null|
@@ -1045,7 +1045,7 @@ layout: default
 |**2023-12-19**|**Finger Biometric Recognition With Feature Selection**|Asish Bera et.al.|[2312.10447](http://arxiv.org/abs/2312.10447)|null|
 |**2023-12-15**|**Effect of stellar wind on the efficiency of plasma radio emission from exoplanet HD189733b**|V. V. Zaitsev et.al.|[2312.10121](http://arxiv.org/abs/2312.10121)|null|
 |**2023-12-14**|**High-Resolution Maps of Left Atrial Displacements and Strains Estimated with 3D CINE MRI and Unsupervised Neural Networks**|Christoforos Galazis et.al.|[2312.09387](http://arxiv.org/abs/2312.09387)|**[link](https://github.com/cgalaz01/aladdin_cmr_la)**|
-|**2023-12-14**|**Living Scenes: Multi-object Relocalization and Reconstruction in Changing 3D Environments**|Liyuan Zhu et.al.|[2312.09138](http://arxiv.org/abs/2312.09138)|null|
+|**2023-12-14**|**Living Scenes: Multi-object Relocalization and Reconstruction in Changing 3D Environments**|Liyuan Zhu et.al.|[2312.09138](http://arxiv.org/abs/2312.09138)|**[link](https://github.com/GradientSpaces/LivingScenes)**|
 |**2023-12-14**|**Color Agnostic Cross-Spectral Disparity Estimation**|Frank Sippel et.al.|[2312.08946](http://arxiv.org/abs/2312.08946)|null|
 |**2023-12-14**|**SPEAL: Skeletal Prior Embedded Attention Learning for Cross-Source Point Cloud Registration**|Kezheng Xiong et.al.|[2312.08664](http://arxiv.org/abs/2312.08664)|null|
 |**2023-12-13**|**Neutrinos from pre-supernova in the framework of TQRPA method**|A. A. Dzhioev et.al.|[2312.07988](http://arxiv.org/abs/2312.07988)|null|
@@ -1217,7 +1217,7 @@ layout: default
 |**2024-07-19**|**ESCAPE: Energy-based Selective Adaptive Correction for Out-of-distribution 3D Human Pose Estimation**|Luke Bidulka et.al.|[2407.14605](http://arxiv.org/abs/2407.14605)|null|
 |**2024-07-19**|**6DoF Head Pose Estimation through Explicit Bidirectional Interaction with Face Geometry**|Sungho Chun et.al.|[2407.14136](http://arxiv.org/abs/2407.14136)|**[link](https://github.com/asw91666/trg-release)**|
 |**2024-07-18**|**RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark**|Yuan-Hao Ho et.al.|[2407.13930](http://arxiv.org/abs/2407.13930)|null|
-|**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|null|
+|**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|**[link](https://github.com/wu-cvgl/GlobalPointer)**|
 |**2024-07-18**|**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**|Yujia Liang et.al.|[2407.13483](http://arxiv.org/abs/2407.13483)|**[link](https://github.com/tiny-smart/SCAPE)**|
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667](http://arxiv.org/abs/2407.12667)|**[link](https://github.com/iris-cyy/sg-nerf)**|
 |**2024-07-17**|**Invertible Neural Warp for NeRF**|Shin-Fang Chng et.al.|[2407.12354](http://arxiv.org/abs/2407.12354)|null|
@@ -1545,7 +1545,7 @@ layout: default
 |**2024-02-24**|**CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge**|Xiao Lin et.al.|[2402.15726](http://arxiv.org/abs/2402.15726)|null|
 |**2024-02-23**|**Optimized Deployment of Deep Neural Networks for Visual Pose Estimation on Nano-drones**|Matteo Risso et.al.|[2402.15273](http://arxiv.org/abs/2402.15273)|null|
 |**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817](http://arxiv.org/abs/2402.14817)|null|
-|**2024-02-22**|**S^2Former-OR: Single-Stage Bimodal Transformer for Scene Graph Generation in OR**|Jialun Pei et.al.|[2402.14461](http://arxiv.org/abs/2402.14461)|null|
+|**2024-02-22**|**S^2Former-OR: Single-Stage Bimodal Transformer for Scene Graph Generation in OR**|Jialun Pei et.al.|[2402.14461](http://arxiv.org/abs/2402.14461)|**[link](https://github.com/pjlallen/s2former-or)**|
 |**2024-02-22**|**VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning**|Jingyao Li et.al.|[2402.14456](http://arxiv.org/abs/2402.14456)|null|
 |**2024-02-22**|**Modeling 3D Infant Kinetics Using Adaptive Graph Convolutional Networks**|Daniel Holmberg et.al.|[2402.14400](http://arxiv.org/abs/2402.14400)|**[link](https://github.com/deinal/infant-aagcn)**|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280](http://arxiv.org/abs/2402.14280)|null|
