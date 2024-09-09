@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -666,7 +666,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
-|**2024-09-05**|**Digital Ecosystem for FAIR Time Series Data Management in Environmental System Science**|J. Bumberger et.al.|[2409.03351](http://arxiv.org/abs/2409.03351)|null|
+|**2024-09-06**|**Digital Ecosystem for FAIR Time Series Data Management in Environmental System Science**|J. Bumberger et.al.|[2409.03351](http://arxiv.org/abs/2409.03351)|null|
 |**2024-08-31**|**Mastoidectomy Multi-View Synthesis from a Single Microscopy Image**|Yike Zhang et.al.|[2409.03190](http://arxiv.org/abs/2409.03190)|null|
 |**2024-09-04**|**SurgTrack: CAD-Free 3D Tracking of Real-world Surgical Instruments**|Wenwu Guo et.al.|[2409.02598](http://arxiv.org/abs/2409.02598)|**[link](https://github.com/wenwucode/surgtrack)**|
 |**2024-09-04**|**Image Registration with Averaging Network and Edge-Based Loss for Low-SNR Cardiac MRI**|Xuan Lei et.al.|[2409.02348](http://arxiv.org/abs/2409.02348)|null|
