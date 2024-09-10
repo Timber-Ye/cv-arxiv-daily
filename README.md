@@ -22,6 +22,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|null|
+|**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
+|**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
+|**2024-09-06**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
 |**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178](http://arxiv.org/abs/2409.04178)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
 |**2024-09-04**|**Design and Evaluation of Camera-Centric Mobile Crowdsourcing Applications**|Abby Stylianou et.al.|[2409.03012](http://arxiv.org/abs/2409.03012)|null|
@@ -670,6 +674,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**SX-Stitch: An Efficient VMS-UNet Based Framework for Intraoperative Scoliosis X-Ray Image Stitching**|Yi Li et.al.|[2409.05681](http://arxiv.org/abs/2409.05681)|null|
+|**2024-09-09**|**Cherenkov Imaged Bio-morphological Features Verify Patient Positioning with Deformable Tissue Translocation in Breast Radiotherapy**|Yao Chen et.al.|[2409.05680](http://arxiv.org/abs/2409.05680)|null|
+|**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
+|**2024-09-09**|**Prim2Room: Layout-Controllable Room Mesh Generation from Primitives**|Chengzeng Feng et.al.|[2409.05380](http://arxiv.org/abs/2409.05380)|null|
+|**2024-09-09**|**Adaptive Visual Servoing for On-Orbit Servicing**|Farhad Aghili et.al.|[2409.05295](http://arxiv.org/abs/2409.05295)|null|
+|**2024-09-08**|**Sight View Constraint for Robust Point Cloud Registration**|Yaojie Zhang et.al.|[2409.05065](http://arxiv.org/abs/2409.05065)|null|
+|**2024-09-08**|**Unsupervised Multimodal 3D Medical Image Registration with Multilevel Correlation Balanced Optimization**|Jiazheng Wang et.al.|[2409.05040](http://arxiv.org/abs/2409.05040)|null|
+|**2024-09-07**|**Strong Privacy-Preserving Universally Composable AKA Protocol with Seamless Handover Support for Mobile Virtual Network Operator**|Rabiah Alnashwan et.al.|[2409.04877](http://arxiv.org/abs/2409.04877)|null|
+|**2024-09-06**|**Influence of Early through Late Fusion on Pancreas Segmentation from Imperfectly Registered Multimodal MRI**|Lucas W. Remedios et.al.|[2409.04563](http://arxiv.org/abs/2409.04563)|**[link](https://github.com/masilab/influence_of_fusion_on_pancreas_segmentation)**|
 |**2024-09-05**|**Recon-all-clinical: Cortical surface reconstruction and analysis of heterogeneous clinical brain MRI**|Karthik Gopinath et.al.|[2409.03889](http://arxiv.org/abs/2409.03889)|null|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-06**|**Digital Ecosystem for FAIR Time Series Data Management in Environmental System Science**|J. Bumberger et.al.|[2409.03351](http://arxiv.org/abs/2409.03351)|null|
@@ -1199,11 +1212,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
+|**2024-09-08**|**HelmetPoser: A Helmet-Mounted IMU Dataset for Data-Driven Estimation of Human Head Motion in Diverse Conditions**|Jianping Li et.al.|[2409.05006](http://arxiv.org/abs/2409.05006)|null|
 |**2024-09-06**|**Casper DPM: Cascaded Perceptual Dynamic Projection Mapping onto Hands**|Yotam Erel et.al.|[2409.04397](http://arxiv.org/abs/2409.04397)|null|
 |**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](http://arxiv.org/abs/2409.04196)|null|
 |**2024-09-06**|**Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics**|Woojin Cho et.al.|[2409.04033](http://arxiv.org/abs/2409.04033)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
-|**2024-09-05**|**The Influence of Faulty Labels in Data Sets on Human Pose Estimation**|Arnold Schwarz et.al.|[2409.03887](http://arxiv.org/abs/2409.03887)|null|
+|**2024-09-09**|**The Influence of Faulty Labels in Data Sets on Human Pose Estimation**|Arnold Schwarz et.al.|[2409.03887](http://arxiv.org/abs/2409.03887)|null|
 |**2024-09-05**|**MaskVal: Simple but Effective Uncertainty Quantification for 6D Pose Estimation**|Philipp Quentin et.al.|[2409.03556](http://arxiv.org/abs/2409.03556)|null|
 |**2024-09-05**|**UAV (Unmanned Aerial Vehicles): Diverse Applications of UAV Datasets in Segmentation, Classification, Detection, and Tracking**|Md. Mahfuzur Rahman et.al.|[2409.03245](http://arxiv.org/abs/2409.03245)|null|
 |**2024-09-01**|**Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach**|Wenjun Huang et.al.|[2409.02715](http://arxiv.org/abs/2409.02715)|null|
@@ -1882,6 +1897,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
+|**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
+|**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
+|**2024-09-09**|**Lagrangian Hashing for Compressed Neural Field Representations**|Shrisudhan Govindarajan et.al.|[2409.05334](http://arxiv.org/abs/2409.05334)|null|
+|**2024-09-09**|**Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**|Jianheng Liu et.al.|[2409.05310](http://arxiv.org/abs/2409.05310)|null|
+|**2024-09-06**|**SCARF: Scalable Continual Learning Framework for Memory-efficient Multiple Neural Radiance Fields**|Yuze Wang et.al.|[2409.04482](http://arxiv.org/abs/2409.04482)|null|
 |**2024-09-05**|**Weight Conditioning for Smooth Optimization of Neural Networks**|Hemanth Saratchandran et.al.|[2409.03424](http://arxiv.org/abs/2409.03424)|null|
 |**2024-09-05**|**Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction**|Shen Chen et.al.|[2409.03213](http://arxiv.org/abs/2409.03213)|null|
 |**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917](http://arxiv.org/abs/2409.02917)|**[link](https://github.com/wrld/uc-nerf)**|
