@@ -367,7 +367,7 @@
 |**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237](http://arxiv.org/abs/2311.18237)|null|
 |**2023-11-29**|**Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce**|Chang Liu et.al.|[2311.17954](http://arxiv.org/abs/2311.17954)|null|
 |**2023-11-28**|**Scene Summarization: Clustering Scene Videos into Spatially Diverse Frames**|Chao Chen et.al.|[2311.17940](http://arxiv.org/abs/2311.17940)|null|
-|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|null|
+|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|**[link](https://github.com/HuajianUP/360Loc)**|
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254](http://arxiv.org/abs/2311.16254)|**[link](https://github.com/aimagelab/safe-clip)**|
 |**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937](http://arxiv.org/abs/2311.15937)|**[link](https://github.com/serizba/salad)**|
 |**2023-11-25**|**X-Ray to CT Rigid Registration Using Scene Coordinate Regression**|Pragyan Shrestha et.al.|[2311.15087](http://arxiv.org/abs/2311.15087)|**[link](https://github.com/pragyanstha/scr-registration)**|
@@ -663,7 +663,7 @@
 |**2023-11-30**|**DSeg: Direct Line Segments Detection**|Berger Cyrille et.al.|[2311.18344](http://arxiv.org/abs/2311.18344)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
 |**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571](http://arxiv.org/abs/2311.17571)|**[link](https://github.com/zwh0527/lgfctr)**|
-|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|null|
+|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|**[link](https://github.com/HuajianUP/360Loc)**|
 |**2023-11-28**|**ControlRec: Bridging the Semantic Gap between Language Model and Personalized Recommendation**|Junyan Qiu et.al.|[2311.16441](http://arxiv.org/abs/2311.16441)|null|
 |**2023-11-21**|**Novel OCT mosaicking pipeline with Feature- and Pixel-based registration**|Jiacheng Wang et.al.|[2311.13052](http://arxiv.org/abs/2311.13052)|**[link](https://github.com/medicl-vu/oct-mosaicking)**|
 |**2023-11-21**|**Similar Document Template Matching Algorithm**|Harshitha Yenigalla et.al.|[2311.12663](http://arxiv.org/abs/2311.12663)|null|
@@ -702,8 +702,8 @@
 |**2024-09-16**|**Partial Distribution Matching via Partial Wasserstein Adversarial Networks**|Zi-Ming Wang et.al.|[2409.10499](http://arxiv.org/abs/2409.10499)|null|
 |**2024-09-16**|**Learning Semi-Supervised Medical Image Segmentation from Spatial Registration**|Qianying Liu et.al.|[2409.10422](http://arxiv.org/abs/2409.10422)|null|
 |**2024-09-16**|**SOLVR: Submap Oriented LiDAR-Visual Re-Localisation**|Joshua Knights et.al.|[2409.10247](http://arxiv.org/abs/2409.10247)|null|
-|**2024-09-16**|**LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph**|Yixin Fang et.al.|[2409.10172](http://arxiv.org/abs/2409.10172)|null|
-|**2024-09-15**|**A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency**|Lingjie Su et.al.|[2409.09682](http://arxiv.org/abs/2409.09682)|null|
+|**2024-09-16**|**LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph**|Yixin Fang et.al.|[2409.10172](http://arxiv.org/abs/2409.10172)|**[link](https://github.com/yixin-f/liloc)**|
+|**2024-09-15**|**A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency**|Lingjie Su et.al.|[2409.09682](http://arxiv.org/abs/2409.09682)|**[link](https://github.com/sulingjie/jprlc_registration)**|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
 |**2024-09-14**|**Registration between Point Cloud Streams and Sequential Bounding Boxes via Gradient Descent**|Xuesong Li et.al.|[2409.09312](http://arxiv.org/abs/2409.09312)|null|
 |**2024-09-12**|**Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photorealistic Appearance from Multi-View Video**|Boxiang Rong et.al.|[2409.08189](http://arxiv.org/abs/2409.08189)|null|
@@ -1272,7 +1272,7 @@
 |**2024-09-14**|**Distributed Invariant Kalman Filter for Object-level Multi-robot Pose SLAM**|Haoying Li et.al.|[2409.09410](http://arxiv.org/abs/2409.09410)|null|
 |**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769](http://arxiv.org/abs/2409.08769)|**[link](https://github.com/ybkurt/vift)**|
 |**2024-09-13**|**WheelPoser: Sparse-IMU Based Body Pose Estimation for Wheelchair Users**|Yunzhi Li et.al.|[2409.08494](http://arxiv.org/abs/2409.08494)|null|
-|**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351](http://arxiv.org/abs/2409.08351)|null|
+|**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351](http://arxiv.org/abs/2409.08351)|**[link](https://github.com/oarriaga/bayesian-inverse-graphics)**|
 |**2024-09-12**|**Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation**|Samanta Rodriguez et.al.|[2409.08269](http://arxiv.org/abs/2409.08269)|null|
 |**2024-09-12**|**Covariance Intersection-based Invariant Kalman Filtering(DInCIKF) for Distributed Pose Estimation**|Haoying Li et.al.|[2409.07933](http://arxiv.org/abs/2409.07933)|null|
 |**2024-09-12**|**GateAttentionPose: Enhancing Pose Estimation with Agent Attention and Improved Gated Convolutions**|Liang Feng et.al.|[2409.07798](http://arxiv.org/abs/2409.07798)|null|
@@ -1382,7 +1382,7 @@
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-22**|**Local Occupancy-Enhanced Object Grasping with Multiple Triplanar Projection**|Kangqi Ma et.al.|[2407.15771](http://arxiv.org/abs/2407.15771)|null|
 |**2024-07-22**|**6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model**|Matteo Bortolon et.al.|[2407.15484](http://arxiv.org/abs/2407.15484)|null|
-|**2024-07-23**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|null|
+|**2024-07-23**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|**[link](https://github.com/ayh015-dev/da-llpose)**|
 |**2024-07-22**|**avaTTAR: Table Tennis Stroke Training with On-body and Detached Visualization in Augmented Reality**|Dizhi Ma et.al.|[2407.15373](http://arxiv.org/abs/2407.15373)|null|
 |**2024-07-20**|**From Underground Mines to Offices: A Versatile and Robust Framework for Range-Inertial SLAM**|Lorenzo Montano-Oliván et.al.|[2407.14797](http://arxiv.org/abs/2407.14797)|null|
 |**2024-07-19**|**ESCAPE: Energy-based Selective Adaptive Correction for Out-of-distribution 3D Human Pose Estimation**|Luke Bidulka et.al.|[2407.14605](http://arxiv.org/abs/2407.14605)|null|
@@ -2132,7 +2132,7 @@
 |**2024-06-15**|**NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows**|Zhenggang Tang et.al.|[2406.10543](http://arxiv.org/abs/2406.10543)|**[link](https://github.com/nerfdeformer/nerfdeformer)**|
 |**2024-06-15**|**Federated Neural Radiance Field for Distributed Intelligence**|Yintian Zhang et.al.|[2406.10474](http://arxiv.org/abs/2406.10474)|null|
 |**2024-06-14**|**Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections**|Jiacong Xu et.al.|[2406.10373](http://arxiv.org/abs/2406.10373)|null|
-|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|**[link](https://github.com/j-alex-hanson/gaussian-splatting-pup)**|
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
 |**2024-06-14**|**OrientDream: Streamlining Text-to-3D Generation with Explicit Orientation Control**|Yuzhong Huang et.al.|[2406.10000](http://arxiv.org/abs/2406.10000)|null|
 |**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939](http://arxiv.org/abs/2406.09939)|null|
