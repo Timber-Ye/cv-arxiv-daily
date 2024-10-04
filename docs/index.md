@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang et.al.|[2410.01544](http://arxiv.org/abs/2410.01544)|null|
-|**2024-10-02**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|null|
+|**2024-10-03**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|null|
 |**2024-10-02**|**CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**|Safouane El Ghazouali et.al.|[2410.01411](http://arxiv.org/abs/2410.01411)|null|
 |**2024-09-30**|**Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**|Aleyna Kütük et.al.|[2410.00266](http://arxiv.org/abs/2410.00266)|null|
 |**2024-09-30**|**PuzzleBoard: A New Camera Calibration Pattern with Position Encoding**|Peer Stelldinger et.al.|[2409.20127](http://arxiv.org/abs/2409.20127)|**[link](https://github.com/PStelldinger/PuzzleBoard)**|
@@ -719,7 +719,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-02**|**Application of convolutional neural networks for extensive air shower separation in the SPHERE-3 experiment**|E. L. Entina et.al.|[2410.01781](http://arxiv.org/abs/2410.01781)|null|
+|**2024-10-03**|**Application of convolutional neural networks for extensive air shower separation in the SPHERE-3 experiment**|E. L. Entina et.al.|[2410.01781](http://arxiv.org/abs/2410.01781)|null|
 |**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325](http://arxiv.org/abs/2410.01325)|null|
 |**2024-10-01**|**BioFace3D: A fully automatic pipeline for facial biomarkers extraction of 3D face reconstructions segmented from MRI**|Álvaro Heredia-Lidón et.al.|[2410.00711](http://arxiv.org/abs/2410.00711)|null|
 |**2024-10-01**|**GERA: Geometric Embedding for Efficient Point Registration Analysis**|Geng Li et.al.|[2410.00589](http://arxiv.org/abs/2410.00589)|null|
