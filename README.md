@@ -742,8 +742,8 @@
 |---|---|---|---|---|
 |**2024-10-10**|**RayEmb: Arbitrary Landmark Detection in X-Ray Images Using Ray Embedding Subspace**|Pragyan Shrestha et.al.|[2410.08152](http://arxiv.org/abs/2410.08152)|**[link](https://github.com/pragyanstha/rayemb)**|
 |**2024-10-10**|**LiPO: LiDAR Inertial Odometry for ICP Comparison**|Darwin Mick et.al.|[2410.08097](http://arxiv.org/abs/2410.08097)|null|
-|**2024-10-08**|**Automated quality assessment using appearance-based simulations and hippocampus segmentation on low-field paediatric brain MR images**|Vaanathi Sundaresan et.al.|[2410.06161](http://arxiv.org/abs/2410.06161)|null|
-|**2024-10-08**|**Probabilistic programming methods for reconstruction of multichannel imaging detector events: ELVES and TRACK**|S. A. Sharakin et.al.|[2410.05978](http://arxiv.org/abs/2410.05978)|null|
+|**2024-10-08**|**Automated quality assessment using appearance-based simulations and hippocampus segmentation on low-field paediatric brain MR images**|Vaanathi Sundaresan et.al.|[2410.06161](http://arxiv.org/abs/2410.06161)|**[link](https://github.com/v-sundaresan/lisa2024_qa)**|
+|**2024-10-08**|**Probabilistic programming methods for reconstruction of multichannel imaging detector events: ELVES and TRACK**|S. A. Sharakin et.al.|[2410.05978](http://arxiv.org/abs/2410.05978)|**[link](https://github.com/saraevrom/RecoV2)**|
 |**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729](http://arxiv.org/abs/2410.05729)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
 |**2024-10-07**|**2FAST-2LAMAA: A Lidar-Inertial Localisation and Mapping Framework for Non-Static Environments**|Cedric Le Gentil et.al.|[2410.05433](http://arxiv.org/abs/2410.05433)|**[link](https://github.com/uts-ri/2fast2lamaa)**|
 |**2024-10-07**|**Block MedCare: Advancing healthcare through blockchain integration**|Oliver Simonoski et.al.|[2410.05251](http://arxiv.org/abs/2410.05251)|null|
