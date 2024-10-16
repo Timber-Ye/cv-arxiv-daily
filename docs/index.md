@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -540,7 +540,7 @@ layout: default
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
 |**2024-10-11**|**EasyHeC++: Fully Automatic Hand-Eye Calibration with Pretrained Image Models**|Zhengdong Hong et.al.|[2410.09293](http://arxiv.org/abs/2410.09293)|null|
 |**2024-10-11**|**Bio-inspired reconfigurable stereo vision for robotics using omnidirectional cameras**|Suchang Chen et.al.|[2410.08691](http://arxiv.org/abs/2410.08691)|null|
-|**2024-10-10**|**Mechanistic Permutability: Match Features Across Layers**|Nikita Balagansky et.al.|[2410.07656](http://arxiv.org/abs/2410.07656)|null|
+|**2024-10-15**|**Mechanistic Permutability: Match Features Across Layers**|Nikita Balagansky et.al.|[2410.07656](http://arxiv.org/abs/2410.07656)|null|
 |**2024-10-07**|**Rethinking Weak-to-Strong Augmentation in Source-Free Domain Adaptive Object Detection**|Jiuzheng Yang et.al.|[2410.05557](http://arxiv.org/abs/2410.05557)|null|
 |**2024-10-07**|**Enhanced Multi-Robot SLAM System with Cross-Validation Matching and Exponential Threshold Keyframe Selection**|Ang He et.al.|[2410.05017](http://arxiv.org/abs/2410.05017)|null|
 |**2024-10-06**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao et.al.|[2410.04419](http://arxiv.org/abs/2410.04419)|null|
