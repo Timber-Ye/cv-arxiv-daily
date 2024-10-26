@@ -772,7 +772,7 @@
 |---|---|---|---|---|
 |**2024-10-24**|**Mosqlimate: a platform to providing automatable access to data and forecasting models for arbovirus disease**|Fabiana Ganem et.al.|[2410.18945](http://arxiv.org/abs/2410.18945)|null|
 |**2024-10-24**|**Python workflow for segmenting multiphase flow in porous rocks**|Catherine Spurin et.al.|[2410.18937](http://arxiv.org/abs/2410.18937)|null|
-|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834](http://arxiv.org/abs/2410.18834)|null|
+|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834](http://arxiv.org/abs/2410.18834)|**[link](https://github.com/lab-midas/LAPANet)**|
 |**2024-10-24**|**Learning Geodesics of Geometric Shape Deformations From Images**|Nian Wu et.al.|[2410.18797](http://arxiv.org/abs/2410.18797)|null|
 |**2024-10-24**|**Rigid Single-Slice-in-Volume registration via rotation-equivariant 2D/3D feature matching**|Stefan Brandstätter et.al.|[2410.18683](http://arxiv.org/abs/2410.18683)|null|
 |**2024-10-24**|**A Cranial-Feature-Based Registration Scheme for Robotic Micromanipulation Using a Microscopic Stereo Camera System**|Xiaofeng Lin et.al.|[2410.18630](http://arxiv.org/abs/2410.18630)|null|
