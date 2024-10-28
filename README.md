@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
 |**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
 |**2024-10-25**|**On Model-Free Re-ranking for Visual Place Recognition with Deep Learned Local Features**|Tomáš Pivoňka et.al.|[2410.18573](http://arxiv.org/abs/2410.18573)|null|
 |**2024-10-23**|**Robust Two-View Geometry Estimation with Implicit Differentiation**|Vladislav Pyatov et.al.|[2410.17983](http://arxiv.org/abs/2410.17983)|**[link](https://github.com/vladpyatov/ihls)**|
@@ -770,6 +771,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**A Counterexample in Cross-Correlation Template Matching**|Serap A. Savari et.al.|[2410.19085](http://arxiv.org/abs/2410.19085)|null|
 |**2024-10-24**|**Mosqlimate: a platform to providing automatable access to data and forecasting models for arbovirus disease**|Fabiana Ganem et.al.|[2410.18945](http://arxiv.org/abs/2410.18945)|null|
 |**2024-10-24**|**Python workflow for segmenting multiphase flow in porous rocks**|Catherine Spurin et.al.|[2410.18937](http://arxiv.org/abs/2410.18937)|null|
 |**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834](http://arxiv.org/abs/2410.18834)|**[link](https://github.com/lab-midas/LAPANet)**|
@@ -1404,6 +1406,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**DECADE: Towards Designing Efficient-yet-Accurate Distance Estimation Modules for Collision Avoidance in Mobile Advanced Driver Assistance Systems**|Muhammad Zaeem Shahzad et.al.|[2410.19336](http://arxiv.org/abs/2410.19336)|null|
 |**2024-10-24**|**Where Am I and What Will I See: An Auto-Regressive Model for Spatial Localization and View Prediction**|Junyi Chen et.al.|[2410.18962](http://arxiv.org/abs/2410.18962)|null|
 |**2024-10-24**|**VoxelKeypointFusion: Generalizable Multi-View Multi-Person Pose Estimation**|Daniel Bermuth et.al.|[2410.18723](http://arxiv.org/abs/2410.18723)|null|
 |**2024-10-23**|**Robust Two-View Geometry Estimation with Implicit Differentiation**|Vladislav Pyatov et.al.|[2410.17983](http://arxiv.org/abs/2410.17983)|**[link](https://github.com/vladpyatov/ihls)**|
@@ -2204,6 +2207,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**|Weihang Liu et.al.|[2410.19483](http://arxiv.org/abs/2410.19483)|**[link](https://github.com/weihangliu2024/content_aware_nerf)**|
+|**2024-10-25**|**Evaluation of strategies for efficient rate-distortion NeRF streaming**|Pedro Martin et.al.|[2410.19459](http://arxiv.org/abs/2410.19459)|null|
 |**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822](http://arxiv.org/abs/2410.18822)|null|
 |**2024-10-24**|**Real-time 3D-aware Portrait Video Relighting**|Ziqi Cai et.al.|[2410.18355](http://arxiv.org/abs/2410.18355)|**[link](https://github.com/GhostCai/PortraitRelighting)**|
 |**2024-10-22**|**Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**|Shrey Vishen et.al.|[2410.18137](http://arxiv.org/abs/2410.18137)|**[link](https://github.com/shreyvish5678/advancing-super-resolution-in-neural-radiance-fields-via-variational-diffusion-strategies)**|
