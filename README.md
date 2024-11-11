@@ -571,7 +571,7 @@
 |**2024-11-06**|**These Maps Are Made by Propagation: Adapting Deep Stereo Networks to Road Scenarios with Decisive Disparity Diffusion**|Chuang-Wei Liu et.al.|[2411.03717](http://arxiv.org/abs/2411.03717)|null|
 |**2024-11-06**|**Adaptive Stereo Depth Estimation with Multi-Spectral Images Across All Lighting Conditions**|Zihan Qin et.al.|[2411.03638](http://arxiv.org/abs/2411.03638)|null|
 |**2024-11-04**|**Semantic-Aligned Adversarial Evolution Triangle for High-Transferability Vision-Language Attack**|Xiaojun Jia et.al.|[2411.02669](http://arxiv.org/abs/2411.02669)|**[link](https://github.com/jiaxiaojunqaq/sa-aet)**|
-|**2024-11-04**|**Adaptive Sparse Allocation with Mutual Choice & Feature Choice Sparse Autoencoders**|Kola Ayonrinde et.al.|[2411.02124](http://arxiv.org/abs/2411.02124)|null|
+|**2024-11-07**|**Adaptive Sparse Allocation with Mutual Choice & Feature Choice Sparse Autoencoders**|Kola Ayonrinde et.al.|[2411.02124](http://arxiv.org/abs/2411.02124)|null|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
@@ -801,6 +801,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Alignment of 3D woodblock geometrical models and 2D orthographic projection image**|Minh DUc Nguyen et.al.|[2411.05524](http://arxiv.org/abs/2411.05524)|null|
 |**2024-11-07**|**Quantum Neural Network Classifier for Cancer Registry System Testing: A Feasibility Study**|Xinyi Wang et.al.|[2411.04740](http://arxiv.org/abs/2411.04740)|null|
 |**2024-11-07**|**Efficient single image non-uniformity correction algorithm**|Yohann Tendero et.al.|[2411.04457](http://arxiv.org/abs/2411.04457)|null|
 |**2024-11-06**|**ADMIRE: a locally adaptive single-image, non-uniformity correction and denoising algorithm: application to uncooled IR camera**|Yohann Tendero et.al.|[2411.03615](http://arxiv.org/abs/2411.03615)|null|
@@ -1461,10 +1462,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734](http://arxiv.org/abs/2411.05734)|null|
+|**2024-11-08**|**DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions**|Rafael Berral-Soler et.al.|[2411.05552](http://arxiv.org/abs/2411.05552)|**[link](https://github.com/avauco/deeparuco)**|
+|**2024-11-08**|**Tightly-Coupled, Speed-aided Monocular Visual-Inertial Localization in Topological Map**|Chanuk Yang et.al.|[2411.05497](http://arxiv.org/abs/2411.05497)|null|
+|**2024-11-08**|**Relative Pose Estimation for Nonholonomic Robot Formation with UWB-IO Measurements**|Kunrui Ze et.al.|[2411.05481](http://arxiv.org/abs/2411.05481)|null|
 |**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598](http://arxiv.org/abs/2411.04598)|**[link](https://github.com/l-scofano/seeme)**|
 |**2024-11-07**|**Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory**|Ali K. AlShami et.al.|[2411.04501](http://arxiv.org/abs/2411.04501)|null|
 |**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
-|**2024-11-07**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
+|**2024-11-08**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
 |**2024-11-06**|**Estimation of Psychosocial Work Environment Exposures Through Video Object Detection. Proof of Concept Using CCTV Footage**|Claus D. Hansen et.al.|[2411.03724](http://arxiv.org/abs/2411.03724)|null|
 |**2024-11-05**|**Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data**|Seunggeun Chi et.al.|[2411.03561](http://arxiv.org/abs/2411.03561)|null|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086](http://arxiv.org/abs/2411.03086)|null|
@@ -2285,6 +2290,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
+|**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322](http://arxiv.org/abs/2411.05322)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810](http://arxiv.org/abs/2411.04810)|null|
 |**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
