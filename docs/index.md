@@ -573,6 +573,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665](http://arxiv.org/abs/2411.08665)|null|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-11**|**Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching**|Arnav Kumar Jain et.al.|[2411.07007](http://arxiv.org/abs/2411.07007)|**[link](https://github.com/arnavkj1995/sfm)**|
@@ -809,6 +810,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**DG-PPU: Dynamical Graphs based Post-processing of Point Clouds extracted from Knee Ultrasounds**|Injune Hwang et.al.|[2411.08926](http://arxiv.org/abs/2411.08926)|null|
 |**2024-11-13**|**A generalized software framework for consolidation of radiotherapy planning and delivery data from diverse data sources**|Yasin Abdulkadir et.al.|[2411.08876](http://arxiv.org/abs/2411.08876)|null|
 |**2024-11-13**|**LUDO: Low-Latency Understanding of Highly Deformable Objects using Point Cloud Occupancy Functions**|Pit Henrich et.al.|[2411.08777](http://arxiv.org/abs/2411.08777)|null|
 |**2024-11-12**|**3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration**|Liyuan Zhang et.al.|[2411.07740](http://arxiv.org/abs/2411.07740)|null|
@@ -1479,6 +1481,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening**|Hojun Jang et.al.|[2411.09435](http://arxiv.org/abs/2411.09435)|null|
 |**2024-11-13**|**Generalized Pose Space Embeddings for Training In-the-Wild using Anaylis-by-Synthesis**|Dominik Borer et.al.|[2411.08603](http://arxiv.org/abs/2411.08603)|null|
 |**2024-11-13**|**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**|Yueming Xu et.al.|[2411.08373](http://arxiv.org/abs/2411.08373)|null|
 |**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699](http://arxiv.org/abs/2411.07699)|null|
