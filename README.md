@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |---|---|---|---|---|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665](http://arxiv.org/abs/2411.08665)|null|
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
-|**2024-11-13**|**Saliency Map-based Image Retrieval using Invariant Krawtchouk Moments**|Ashkan Nejad et.al.|[2411.08567](http://arxiv.org/abs/2411.08567)|null|
+|**2024-11-13**|**Saliency Map-based Image Retrieval using Invariant Krawtchouk Moments**|Ashkan Nejad et.al.|[2411.08567](http://arxiv.org/abs/2411.08567)|**[link](https://github.com/arnejad/smikm)**|
 |**2024-11-13**|**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**|Yueming Xu et.al.|[2411.08373](http://arxiv.org/abs/2411.08373)|null|
 |**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279](http://arxiv.org/abs/2411.08279)|**[link](https://github.com/wu-cvgl/mba-slam)**|
 |**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
@@ -473,7 +473,7 @@
 |**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|**[link](https://github.com/yuleiqin/capro)**|
 |**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|**[link](https://github.com/ydwen/opensphere/blob/main/opensphere/module/head/simple.py)**|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -567,7 +567,7 @@
 |**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563](http://arxiv.org/abs/2309.09563)|null|
 |**2023-09-17**|**CryoAlign: feature-based method for global and local 3D alignment of EM density maps**|Bintao He et.al.|[2309.09217](http://arxiv.org/abs/2309.09217)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## Image Matching
 
@@ -806,7 +806,7 @@
 |**2023-10-05**|**Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation**|Kashu Yamazaki et.al.|[2310.03923](http://arxiv.org/abs/2310.03923)|**[link](https://github.com/UARK-AICV/OpenFusion)**|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420](http://arxiv.org/abs/2310.03420)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## Registration
 
@@ -1479,7 +1479,7 @@
 |**2023-10-17**|**NP-RDMA: Using Commodity RDMA without Pinning Memory**|Huijun Shen et.al.|[2310.11062](http://arxiv.org/abs/2310.11062)|null|
 |**2023-10-19**|**Co-Learning Semantic-aware Unsupervised Segmentation for Pathological Image Registration**|Yang Liu et.al.|[2310.11040](http://arxiv.org/abs/2310.11040)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## Pose Estimation
 
@@ -1488,7 +1488,7 @@
 |**2024-11-13**|**ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening**|Hojun Jang et.al.|[2411.09435](http://arxiv.org/abs/2411.09435)|null|
 |**2024-11-13**|**Generalized Pose Space Embeddings for Training In-the-Wild using Anaylis-by-Synthesis**|Dominik Borer et.al.|[2411.08603](http://arxiv.org/abs/2411.08603)|null|
 |**2024-11-13**|**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**|Yueming Xu et.al.|[2411.08373](http://arxiv.org/abs/2411.08373)|null|
-|**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699](http://arxiv.org/abs/2411.07699)|null|
+|**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699](http://arxiv.org/abs/2411.07699)|**[link](https://github.com/yangsc4063/rino)**|
 |**2024-11-12**|**Human Arm Pose Estimation with a Shoulder-worn Force-Myography Device for Human-Robot Interaction**|Rotem Atari et.al.|[2411.07644](http://arxiv.org/abs/2411.07644)|null|
 |**2024-11-12**|**Towards Seamless Integration of Magnetic Tracking into Fluoroscopy-guided Interventions**|Shuwei Xing et.al.|[2411.07495](http://arxiv.org/abs/2411.07495)|null|
 |**2024-11-08**|**Acoustic-based 3D Human Pose Estimation Robust to Human Position**|Yusuke Oumi et.al.|[2411.07165](http://arxiv.org/abs/2411.07165)|null|
@@ -2319,7 +2319,7 @@
 |**2023-10-17**|**Holistic Parking Slot Detection with Polygon-Shaped Representations**|Lihao Wang et.al.|[2310.11629](http://arxiv.org/abs/2310.11629)|null|
 |**2023-10-17**|**Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication**|Chelsey Edge et.al.|[2310.11536](http://arxiv.org/abs/2310.11536)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## NeRF
 
@@ -3150,7 +3150,7 @@
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
 |**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|**[link](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
