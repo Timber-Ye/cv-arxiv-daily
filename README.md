@@ -41,9 +41,9 @@
 |**2024-11-01**|**Identifying Implicit Social Biases in Vision-Language Models**|Kimia Hamidieh et.al.|[2411.00997](http://arxiv.org/abs/2411.00997)|null|
 |**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|**[link](https://github.com/multimodal-interpretability/nnn)**|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
-|**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|null|
+|**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|**[link](https://github.com/tawald/semantic_rsm)**|
 |**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
-|**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615](http://arxiv.org/abs/2410.21615)|null|
+|**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615](http://arxiv.org/abs/2410.21615)|**[link](https://github.com/ai4ce/NYC-Event-VPR)**|
 |**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
 |**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
 |**2024-10-25**|**On Model-Free Re-ranking for Visual Place Recognition with Deep Learned Local Features**|Tomáš Pivoňka et.al.|[2410.18573](http://arxiv.org/abs/2410.18573)|null|
@@ -778,7 +778,7 @@
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|null|
 |**2024-01-09**|**Adaptive FSS: A Novel Few-Shot Segmentation Framework via Prototype Enhancement**|Jing Wang et.al.|[2312.15731](http://arxiv.org/abs/2312.15731)|**[link](https://github.com/jingw193/adaptivefss)**|
 |**2023-12-24**|**Road-Aware Localization With Salient Feature Matching in Heterogeneous Networks**|Lele Cong et.al.|[2312.15443](http://arxiv.org/abs/2312.15443)|null|
-|**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|null|
+|**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|**[link](https://github.com/tavisshore/BEV-CV)**|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2023-12-20**|**Segment Anything Model Meets Image Harmonization**|Haoxing Chen et.al.|[2312.12729](http://arxiv.org/abs/2312.12729)|null|
 |**2023-12-19**|**EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**|Weipeng Guan et.al.|[2312.11911](http://arxiv.org/abs/2312.11911)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
@@ -1523,7 +1523,7 @@
 |**2024-11-12**|**Towards Seamless Integration of Magnetic Tracking into Fluoroscopy-guided Interventions**|Shuwei Xing et.al.|[2411.07495](http://arxiv.org/abs/2411.07495)|null|
 |**2024-11-08**|**Acoustic-based 3D Human Pose Estimation Robust to Human Position**|Yusuke Oumi et.al.|[2411.07165](http://arxiv.org/abs/2411.07165)|null|
 |**2024-11-11**|**CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal Large Language Models**|Junho Kim et.al.|[2411.06869](http://arxiv.org/abs/2411.06869)|null|
-|**2024-11-11**|**GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**|Daehan Lee et.al.|[2411.06766](http://arxiv.org/abs/2411.06766)|null|
+|**2024-11-11**|**GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**|Daehan Lee et.al.|[2411.06766](http://arxiv.org/abs/2411.06766)|**[link](https://github.com/cocel-postech/genz-icp)**|
 |**2024-11-11**|**GTA-Net: An IoT-Integrated 3D Human Pose Estimation System for Real-Time Adolescent Sports Posture Correction**|Shizhe Yuan et.al.|[2411.06725](http://arxiv.org/abs/2411.06725)|null|
 |**2024-11-10**|**Magnetic Field Aided Vehicle Localization with Acceleration Correction**|Mrunmayee Deshpande et.al.|[2411.06543](http://arxiv.org/abs/2411.06543)|null|
 |**2024-11-10**|**Visuotactile-Based Learning for Insertion with Compliant Hands**|Osher Azulay et.al.|[2411.06408](http://arxiv.org/abs/2411.06408)|**[link](https://github.com/osheraz/isaacgyminsertion)**|
@@ -1558,7 +1558,7 @@
 |**2024-10-24**|**Where Am I and What Will I See: An Auto-Regressive Model for Spatial Localization and View Prediction**|Junyi Chen et.al.|[2410.18962](http://arxiv.org/abs/2410.18962)|null|
 |**2024-10-24**|**VoxelKeypointFusion: Generalizable Multi-View Multi-Person Pose Estimation**|Daniel Bermuth et.al.|[2410.18723](http://arxiv.org/abs/2410.18723)|**[link](https://gitlab.com/Percipiote/VoxelKeypointFusion)**|
 |**2024-10-23**|**Robust Two-View Geometry Estimation with Implicit Differentiation**|Vladislav Pyatov et.al.|[2410.17983](http://arxiv.org/abs/2410.17983)|**[link](https://github.com/vladpyatov/ihls)**|
-|**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|null|
+|**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|**[link](https://github.com/ultralytics/ultralytics)**|
 |**2024-10-21**|**Assisted Physical Interaction: Autonomous Aerial Robots with Neural Network Detection, Navigation, and Safety Layers**|Andrea Berra et.al.|[2410.15802](http://arxiv.org/abs/2410.15802)|null|
 |**2024-10-21**|**ARTS: Semi-Analytical Regressor using Disentangled Skeletal Representations for Human Mesh Recovery from Videos**|Tao Tang et.al.|[2410.15582](http://arxiv.org/abs/2410.15582)|**[link](https://github.com/tangtao-pku/arts)**|
 |**2024-10-20**|**Neural Active Structure-from-Motion in Dark and Textureless Environment**|Kazuto Ichimaru et.al.|[2410.15378](http://arxiv.org/abs/2410.15378)|null|
@@ -1626,7 +1626,7 @@
 |**2024-09-25**|**FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation**|Jingyi Tang et.al.|[2409.16600](http://arxiv.org/abs/2409.16600)|null|
 |**2024-09-25**|**Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**|Masoud Dayani Najafabadi et.al.|[2409.16595](http://arxiv.org/abs/2409.16595)|**[link](https://github.com/m-dayani/robo-platform)**|
 |**2024-09-24**|**PseudoNeg-MAE: Self-Supervised Point Cloud Learning using Conditional Pseudo-Negative Embeddings**|Sutharsan Mahendren et.al.|[2409.15832](http://arxiv.org/abs/2409.15832)|null|
-|**2024-09-24**|**LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation**|Ruida Zhang et.al.|[2409.15727](http://arxiv.org/abs/2409.15727)|null|
+|**2024-09-24**|**LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation**|Ruida Zhang et.al.|[2409.15727](http://arxiv.org/abs/2409.15727)|**[link](https://github.com/lolrudy/lapose)**|
 |**2024-09-23**|**Framework for Robust Localization of UUVs and Mapping of Net Pens**|David Botta et.al.|[2409.15475](http://arxiv.org/abs/2409.15475)|null|
 |**2024-09-23**|**FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera**|Guoyang Zhao et.al.|[2409.15054](http://arxiv.org/abs/2409.15054)|**[link](https://github.com/guoyangzhao/fisheyedepth)**|
 |**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755](http://arxiv.org/abs/2409.14755)|**[link](https://github.com/stefp/whorl_pose_detector)**|
@@ -2571,7 +2571,7 @@
 |**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386](http://arxiv.org/abs/2407.09386)|null|
 |**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026](http://arxiv.org/abs/2407.09026)|null|
 |**2024-07-11**|**Feasibility of Neural Radiance Fields for Crime Scene Video Reconstruction**|Shariq Nadeem Malik et.al.|[2407.08795](http://arxiv.org/abs/2407.08795)|null|
-|**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447](http://arxiv.org/abs/2407.08447)|null|
+|**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447](http://arxiv.org/abs/2407.08447)|**[link](https://github.com/jkulhanek/wild-gaussians)**|
 |**2024-07-11**|**MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**|Yushuo Chen et.al.|[2407.08414](http://arxiv.org/abs/2407.08414)|**[link](https://github.com/shad0wta9/meshavatar)**|
 |**2024-07-11**|**Explicit_NeRF_QA: A Quality Assessment Database for Explicit NeRF Model Compression**|Yuke Xing et.al.|[2407.08165](http://arxiv.org/abs/2407.08165)|null|
 |**2024-07-11**|**Bayesian uncertainty analysis for underwater 3D reconstruction with neural radiance fields**|Haojie Lian et.al.|[2407.08154](http://arxiv.org/abs/2407.08154)|null|
