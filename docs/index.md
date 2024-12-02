@@ -26,6 +26,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845](http://arxiv.org/abs/2411.19845)|null|
+|**2024-11-28**|**Lost & Found: Updating Dynamic 3D Scene Graphs from Egocentric Observations**|Tjark Behrens et.al.|[2411.19162](http://arxiv.org/abs/2411.19162)|null|
+|**2024-11-27**|**Optimizing Image Retrieval with an Extended b-Metric Space**|Abdelkader Belhenniche et.al.|[2411.18800](http://arxiv.org/abs/2411.18800)|null|
+|**2024-11-27**|**AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers**|Sherwin Bahmani et.al.|[2411.18673](http://arxiv.org/abs/2411.18673)|null|
 |**2024-11-26**|**Learning Visual Hierarchies with Hyperbolic Embeddings**|Ziwei Wang et.al.|[2411.17490](http://arxiv.org/abs/2411.17490)|null|
 |**2024-11-24**|**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**|You Li et.al.|[2411.16752](http://arxiv.org/abs/2411.16752)|null|
 |**2024-11-24**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
@@ -587,6 +591,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation**|Jiajun Cui et.al.|[2411.18631](http://arxiv.org/abs/2411.18631)|null|
 |**2024-11-24**|**Symmetric Perception and Ordinal Regression for Detecting Scoliosis Natural Image**|Xiaojia Zhu et.al.|[2411.15799](http://arxiv.org/abs/2411.15799)|null|
 |**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|null|
 |**2024-11-20**|**DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mines**|Mizanur Rahman Jewel et.al.|[2411.13544](http://arxiv.org/abs/2411.13544)|null|
@@ -828,6 +833,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-28**|**Video Depth without Video Models**|Bingxin Ke et.al.|[2411.19189](http://arxiv.org/abs/2411.19189)|null|
 |**2024-11-27**|**Neural Image Unfolding: Flattening Sparse Anatomical Structures using Neural Fields**|Leonhard Rist et.al.|[2411.18415](http://arxiv.org/abs/2411.18415)|null|
 |**2024-11-27**|**XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration**|Denys Rozumnyi et.al.|[2411.18377](http://arxiv.org/abs/2411.18377)|null|
 |**2024-11-27**|**Leveraging Semantic Asymmetry for Precise Gross Tumor Volume Segmentation of Nasopharyngeal Carcinoma in Planning CT**|Zi Li et.al.|[2411.18290](http://arxiv.org/abs/2411.18290)|null|
@@ -1525,6 +1531,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling**|Qirui Wu et.al.|[2411.19492](http://arxiv.org/abs/2411.19492)|null|
+|**2024-11-29**|**Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning**|Yang You et.al.|[2411.19458](http://arxiv.org/abs/2411.19458)|null|
+|**2024-11-28**|**GMS-VINS:Multi-category Dynamic Objects Semantic Segmentation for Enhanced Visual-Inertial Odometry Using a Promptable Foundation Model**|Rui Zhou et.al.|[2411.19289](http://arxiv.org/abs/2411.19289)|null|
+|**2024-11-28**|**HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos**|Prithviraj Banerjee et.al.|[2411.19167](http://arxiv.org/abs/2411.19167)|null|
+|**2024-11-28**|**Lost & Found: Updating Dynamic 3D Scene Graphs from Egocentric Observations**|Tjark Behrens et.al.|[2411.19162](http://arxiv.org/abs/2411.19162)|null|
+|**2024-11-28**|**Distributed Dual Quaternion Extended Kalman Filtering for Spacecraft Pose Estimation**|Mathias Hudoba de Badyn et.al.|[2411.19033](http://arxiv.org/abs/2411.19033)|null|
+|**2024-11-28**|**Waterfall Transformer for Multi-person Pose Estimation**|Navin Ranjan et.al.|[2411.18944](http://arxiv.org/abs/2411.18944)|null|
+|**2024-11-27**|**AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers**|Sherwin Bahmani et.al.|[2411.18673](http://arxiv.org/abs/2411.18673)|null|
 |**2024-11-27**|**XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration**|Denys Rozumnyi et.al.|[2411.18377](http://arxiv.org/abs/2411.18377)|null|
 |**2024-11-26**|**Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Generative Latent Priors**|Ziang Xu et.al.|[2411.17790](http://arxiv.org/abs/2411.17790)|null|
 |**2024-11-26**|**Geometric Point Attention Transformer for 3D Shape Reassembly**|Jiahan Li et.al.|[2411.17788](http://arxiv.org/abs/2411.17788)|null|
@@ -2394,9 +2408,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**$C^{3}$ -NeRF: Modeling Multiple Scenes via Conditional-cum-Continual Neural Radiance Fields**|Prajwal Singh et.al.|[2411.19903](http://arxiv.org/abs/2411.19903)|null|
+|**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588](http://arxiv.org/abs/2411.19588)|null|
+|**2024-11-29**|**ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**|Chaojun Ni et.al.|[2411.19548](http://arxiv.org/abs/2411.19548)|null|
+|**2024-11-29**|**LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**|Tianqi Li et.al.|[2411.19525](http://arxiv.org/abs/2411.19525)|null|
+|**2024-11-28**|**SAMa: Material-aware 3D Selection and Segmentation**|Michael Fischer et.al.|[2411.19322](http://arxiv.org/abs/2411.19322)|null|
+|**2024-11-27**|**Surf-NeRF: Surface Regularised Neural Radiance Fields**|Jack Naylor et.al.|[2411.18652](http://arxiv.org/abs/2411.18652)|null|
 |**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|**[link](https://github.com/liulisixin/mli-nerf)**|
 |**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940](http://arxiv.org/abs/2411.16940)|null|
-|**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|
+|**2024-11-27**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|
 |**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392](http://arxiv.org/abs/2411.16392)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172](http://arxiv.org/abs/2411.16172)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
