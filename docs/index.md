@@ -373,7 +373,7 @@ layout: default
 |**2024-02-09**|**Large Language Models for Captioning and Retrieving Remote Sensing Images**|João Daniel Silva et.al.|[2402.06475](http://arxiv.org/abs/2402.06475)|null|
 |**2024-02-09**|**PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**|Xinggang Hu et.al.|[2402.06131](http://arxiv.org/abs/2402.06131)|null|
 |**2024-02-21**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762](http://arxiv.org/abs/2402.03762)|null|
-|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
+|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|**[link](https://github.com/shuhongll/sgs-slam)**|
 |**2024-02-05**|**Extreme Two-View Geometry From Object Poses with Diffusion Models**|Yujing Sun et.al.|[2402.02800](http://arxiv.org/abs/2402.02800)|**[link](https://github.com/scy639/extreme-two-view-geometry-from-object-poses-with-diffusion-models)**|
 |**2024-02-04**|**Region-Based Representations Revisited**|Michal Shlapentokh-Rothman et.al.|[2402.02352](http://arxiv.org/abs/2402.02352)|**[link](https://github.com/michalsr/regions)**|
 |**2024-02-03**|**Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**|Bo Yang et.al.|[2402.02141](http://arxiv.org/abs/2402.02141)|**[link](https://github.com/snowstormfly/cross-modal-retrieval-mlagt)**|
@@ -443,7 +443,7 @@ layout: default
 |**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500](http://arxiv.org/abs/2312.00500)|null|
 |**2023-11-30**|**Pose Estimation and Tracking for ASIST**|Ari Goodman et.al.|[2311.18665](http://arxiv.org/abs/2311.18665)|null|
 |**2023-11-30**|**HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**|Zhuohao Yin et.al.|[2311.18273](http://arxiv.org/abs/2311.18273)|**[link](https://github.com/thomas-yin/semeval-2023-task1)**|
-|**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237](http://arxiv.org/abs/2311.18237)|null|
+|**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237](http://arxiv.org/abs/2311.18237)|**[link](https://github.com/apple/ml-vfm-kt)**|
 |**2023-11-29**|**Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce**|Chang Liu et.al.|[2311.17954](http://arxiv.org/abs/2311.17954)|null|
 |**2023-11-28**|**Scene Summarization: Clustering Scene Videos into Spatially Diverse Frames**|Chao Chen et.al.|[2311.17940](http://arxiv.org/abs/2311.17940)|null|
 |**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|**[link](https://github.com/HuajianUP/360Loc)**|
@@ -1913,7 +1913,7 @@ layout: default
 |**2024-05-29**|**Real-Time Dynamic Robot-Assisted Hand-Object Interaction via Motion Primitives**|Mingqi Yuan et.al.|[2405.19531](http://arxiv.org/abs/2405.19531)|null|
 |**2024-05-29**|**Exploring AI-based Anonymization of Industrial Image and Video Data in the Context of Feature Preservation**|Sabrina Cynthia Triess et.al.|[2405.19173](http://arxiv.org/abs/2405.19173)|null|
 |**2024-05-28**|**World Models for General Surgical Grasping**|Hongbin Lin et.al.|[2405.17940](http://arxiv.org/abs/2405.17940)|null|
-|**2024-05-27**|**MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds**|Jiahui Lei et.al.|[2405.17421](http://arxiv.org/abs/2405.17421)|null|
+|**2024-05-27**|**MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds**|Jiahui Lei et.al.|[2405.17421](http://arxiv.org/abs/2405.17421)|**[link](https://github.com/jiahuilei/mosca)**|
 |**2024-05-27**|**Occlusion Handling in 3D Human Pose Estimation with Perturbed Positional Encoding**|Niloofar Azizi et.al.|[2405.17397](http://arxiv.org/abs/2405.17397)|null|
 |**2024-05-27**|**$\text{Di}^2\text{Pose}$ : Discrete Diffusion Model for Occluded 3D Human Pose Estimation**|Weiquan Wang et.al.|[2405.17016](http://arxiv.org/abs/2405.17016)|null|
 |**2024-05-27**|**Clustering-based Learning for UAV Tracking and Pose Estimation**|Jiaping Xiao et.al.|[2405.16867](http://arxiv.org/abs/2405.16867)|null|
@@ -2130,7 +2130,7 @@ layout: default
 |**2024-02-29**|**Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey**|Yang Liu et.al.|[2402.18844](http://arxiv.org/abs/2402.18844)|**[link](https://github.com/liuyangme/sota-3dhpe-hmr)**|
 |**2024-02-28**|**Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting**|Taeho Kang et.al.|[2402.18330](http://arxiv.org/abs/2402.18330)|**[link](https://github.com/tho-kn/egotap)**|
 |**2024-02-28**|**Location-guided Head Pose Estimation for Fisheye Image**|Bing Li et.al.|[2402.18320](http://arxiv.org/abs/2402.18320)|null|
-|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|null|
+|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|**[link](https://github.com/yu-jingrui/NToP)**|
 |**2024-02-28**|**Six-Point Method for Multi-Camera Systems with Reduced Solution Space**|Banglei Guan et.al.|[2402.18066](http://arxiv.org/abs/2402.18066)|**[link](https://github.com/jizhaox/relpose-6pt)**|
 |**2024-02-27**|**Real-Time Estimation of Relative Pose for UAVs Using a Dual-Channel Feature Association**|Zhaoying Wang et.al.|[2402.17504](http://arxiv.org/abs/2402.17504)|null|
 |**2024-02-26**|**HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields**|Haozhe Qi et.al.|[2402.17062](http://arxiv.org/abs/2402.17062)|**[link](https://github.com/amathislab/hoisdf)**|
@@ -2173,7 +2173,7 @@ layout: default
 |**2024-02-07**|**4-Dimensional deformation part model for pose estimation using Kalman filter constraints**|Enrique Martinez-Berti et.al.|[2402.04953](http://arxiv.org/abs/2402.04953)|null|
 |**2024-02-07**|**STAR: Shape-focused Texture Agnostic Representations for Improved Object Detection and 6D Pose Estimation**|Peter Hönig et.al.|[2402.04878](http://arxiv.org/abs/2402.04878)|**[link](https://github.com/hoenigpeter/randomized_texturing)**|
 |**2024-02-05**|**A Computer Vision Based Approach for Stalking Detection Using a CNN-LSTM-MLP Hybrid Fusion Model**|Murad Hasan et.al.|[2402.03417](http://arxiv.org/abs/2402.03417)|null|
-|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
+|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|**[link](https://github.com/shuhongll/sgs-slam)**|
 |**2024-02-05**|**Extreme Two-View Geometry From Object Poses with Diffusion Models**|Yujing Sun et.al.|[2402.02800](http://arxiv.org/abs/2402.02800)|**[link](https://github.com/scy639/extreme-two-view-geometry-from-object-poses-with-diffusion-models)**|
 |**2024-02-04**|**Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation**|Ti Wang et.al.|[2402.02339](http://arxiv.org/abs/2402.02339)|null|
 |**2024-02-01**|**mmID: High-Resolution mmWave Imaging for Human Identification**|Sakila S. Jayaweera et.al.|[2402.00996](http://arxiv.org/abs/2402.00996)|null|
@@ -2803,7 +2803,7 @@ layout: default
 |**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970](http://arxiv.org/abs/2404.12970)|null|
 |**2024-04-22**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385](http://arxiv.org/abs/2404.12385)|null|
-|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|null|
+|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|**[link](https://github.com/gjgjgjfff/AG-NeRF)**|
 |**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852](http://arxiv.org/abs/2404.11852)|null|
 |**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419](http://arxiv.org/abs/2404.11419)|null|
 |**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625](http://arxiv.org/abs/2404.10625)|null|
@@ -2954,7 +2954,7 @@ layout: default
 |**2024-03-02**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137](http://arxiv.org/abs/2403.01137)|null|
 |**2024-03-02**|**Neural Field Classifiers via Target Encoding and Classification Loss**|Xindi Yang et.al.|[2403.01058](http://arxiv.org/abs/2403.01058)|null|
 |**2024-03-01**|**DISORF: A Distributed Online NeRF Training and Rendering Framework for Mobile Robots**|Chunlin Li et.al.|[2403.00228](http://arxiv.org/abs/2403.00228)|**[link](https://github.com/Xiaorui-Huang/DISORF)**|
-|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|null|
+|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|**[link](https://github.com/yu-jingrui/NToP)**|
 |**2024-02-26**|**Neural Radiance Fields in Medical Imaging: Challenges and Next Steps**|Xin Wang et.al.|[2402.17797](http://arxiv.org/abs/2402.17797)|null|
 |**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
 |**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
