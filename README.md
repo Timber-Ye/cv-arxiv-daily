@@ -22,6 +22,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**On Motion Blur and Deblurring in Visual Place Recognition**|Timur Ismagilov et.al.|[2412.07751](http://arxiv.org/abs/2412.07751)|null|
+|**2024-12-10**|**Image Retrieval with Intra-Sweep Representation Learning for Neck Ultrasound Scanning Guidance**|Wanwen Chen et.al.|[2412.07741](http://arxiv.org/abs/2412.07741)|null|
+|**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974](http://arxiv.org/abs/2412.06974)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2024-12-09**|**A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition**|Connor Malone et.al.|[2412.06153](http://arxiv.org/abs/2412.06153)|null|
 |**2024-12-07**|**Compositional Image Retrieval via Instruction-Aware Contrastive Learning**|Wenliang Zhong et.al.|[2412.05756](http://arxiv.org/abs/2412.05756)|null|
@@ -862,6 +865,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513](http://arxiv.org/abs/2412.07513)|null|
 |**2024-12-08**|**AC-LIO: Towards Asymptotic and Consistent Convergence in LiDAR-Inertial Odometry**|Tianxiang Zhang et.al.|[2412.05873](http://arxiv.org/abs/2412.05873)|null|
 |**2024-12-07**|**AutoURDF: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration**|Jiong Lin et.al.|[2412.05507](http://arxiv.org/abs/2412.05507)|null|
 |**2024-12-06**|**How permanent are metadata for research data? Understanding changes in DataCite DOI metadata**|Dorothea Strecker et.al.|[2412.05128](http://arxiv.org/abs/2412.05128)|null|
@@ -1578,6 +1582,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation Models**|Ziqi Lu et.al.|[2412.07746](http://arxiv.org/abs/2412.07746)|null|
+|**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974](http://arxiv.org/abs/2412.06974)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2024-12-09**|**Attention-Enhanced Lightweight Hourglass Network for Human Pose Estimation**|Marsha Mariya Kappan et.al.|[2412.06227](http://arxiv.org/abs/2412.06227)|null|
 |**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821](http://arxiv.org/abs/2412.04821)|null|
@@ -2480,6 +2486,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
+|**2024-12-09**|**Diffusing Differentiable Representations**|Yash Savani et.al.|[2412.06981](http://arxiv.org/abs/2412.06981)|null|
 |**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
 |**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
