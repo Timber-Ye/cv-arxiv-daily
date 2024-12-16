@@ -132,7 +132,7 @@ layout: default
 |**2024-09-18**|**Towards Global Localization using Multi-Modal Object-Instance Re-Identification**|Aneesh Chavan et.al.|[2409.12002](http://arxiv.org/abs/2409.12002)|**[link](https://github.com/instance-based-loc/instance-based-loc)**|
 |**2024-09-17**|**Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching**|Kurran Singh et.al.|[2409.11555](http://arxiv.org/abs/2409.11555)|null|
 |**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani et.al.|[2409.11536](http://arxiv.org/abs/2409.11536)|null|
-|**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
+|**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|**[link](https://github.com/paulaonta/blind-valm)**|
 |**2024-09-21**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-16**|**SOLVR: Submap Oriented LiDAR-Visual Re-Localisation**|Joshua Knights et.al.|[2409.10247](http://arxiv.org/abs/2409.10247)|null|
 |**2024-09-16**|**Garment Attribute Manipulation with Multi-level Attention**|Vittorio Casula et.al.|[2409.10206](http://arxiv.org/abs/2409.10206)|null|
@@ -957,7 +957,7 @@ layout: default
 |**2024-10-29**|**Memory-Efficient Point Cloud Registration via Overlapping Region Sampling**|Tomoyasu Shimada et.al.|[2410.21753](http://arxiv.org/abs/2410.21753)|null|
 |**2024-10-25**|**Geometric Correction and Mosaic Generation of Geo High Resolution Camera Images**|Ankur Garg et.al.|[2410.21307](http://arxiv.org/abs/2410.21307)|null|
 |**2024-10-28**|**Fidelity-Imposed Displacement Editing for the Learn2Reg 2024 SHG-BF Challenge**|Jiacheng Wang et.al.|[2410.20812](http://arxiv.org/abs/2410.20812)|null|
-|**2024-10-28**|**Bidirectional Recurrence for Cardiac Motion Tracking with Gaussian Process Latent Coding**|Jiewen Yang et.al.|[2410.20752](http://arxiv.org/abs/2410.20752)|null|
+|**2024-10-28**|**Bidirectional Recurrence for Cardiac Motion Tracking with Gaussian Process Latent Coding**|Jiewen Yang et.al.|[2410.20752](http://arxiv.org/abs/2410.20752)|**[link](https://github.com/xmed-lab/gptrack)**|
 |**2024-10-27**|**UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration**|Runshi Zhang et.al.|[2410.20348](http://arxiv.org/abs/2410.20348)|**[link](https://github.com/runshi-zhang/utsrmorph)**|
 |**2024-10-26**|**Studying Morphological Variation: Exploring the Shape Space in Evolutionary Anthropology**|Shira Faigenbaum-Golovin et.al.|[2410.20040](http://arxiv.org/abs/2410.20040)|null|
 |**2024-10-24**|**A Counterexample in Cross-Correlation Template Matching**|Serap A. Savari et.al.|[2410.19085](http://arxiv.org/abs/2410.19085)|null|
@@ -1007,7 +1007,7 @@ layout: default
 |**2024-10-03**|**Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise**|Rose E. Wang et.al.|[2410.03017](http://arxiv.org/abs/2410.03017)|null|
 |**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961](http://arxiv.org/abs/2410.02961)|null|
 |**2024-10-03**|**Deep Regression 2D-3D Ultrasound Registration for Liver Motion Correction in Focal Tumor Thermal Ablation**|Shuwei Xing et.al.|[2410.02579](http://arxiv.org/abs/2410.02579)|**[link](https://github.com/xingorno/deepregs2v)**|
-|**2024-10-03**|**NestedMorph: Enhancing Deformable Medical Image Registration with Nested Attention Mechanisms**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02550](http://arxiv.org/abs/2410.02550)|null|
+|**2024-10-03**|**NestedMorph: Enhancing Deformable Medical Image Registration with Nested Attention Mechanisms**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02550](http://arxiv.org/abs/2410.02550)|**[link](https://github.com/as-lab/marthi-et-al-2024-nestedmorph-deformable-medical-image-registration)**|
 |**2024-10-03**|**LoGDesc: Local geometric features aggregation for robust point cloud registration**|Karim Slimani et.al.|[2410.02420](http://arxiv.org/abs/2410.02420)|**[link](https://github.com/karim416/LoGDesc)**|
 |**2024-10-03**|**CTARR: A fast and robust method for identifying anatomical regions on CT images via atlas registration**|Thomas Buddenkotte et.al.|[2410.02316](http://arxiv.org/abs/2410.02316)|**[link](https://github.com/thomasbudd/ctarr)**|
 |**2024-10-03**|**Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**|Chengkai Hou et.al.|[2410.02237](http://arxiv.org/abs/2410.02237)|null|
@@ -1182,7 +1182,7 @@ layout: default
 |**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292](http://arxiv.org/abs/2407.03292)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 |**2024-07-03**|**3D Multimodal Image Registration for Plant Phenotyping**|Eric Stumpe et.al.|[2407.02946](http://arxiv.org/abs/2407.02946)|**[link](https://github.com/eric-stumpe/plant3dimagereg)**|
 |**2024-07-02**|**Parametric Modeling and Estimation of Photon Registrations for 3D Imaging**|Weijian Zhang et.al.|[2407.02712](http://arxiv.org/abs/2407.02712)|null|
-|**2024-07-02**|**LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation**|Jiarui Xing et.al.|[2407.02229](http://arxiv.org/abs/2407.02229)|null|
+|**2024-07-02**|**LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation**|Jiarui Xing et.al.|[2407.02229](http://arxiv.org/abs/2407.02229)|**[link](https://github.com/jr-xing/lamod)**|
 |**2024-07-02**|**LiDAR-based HD Map Localization using Semantic Generalized ICP with Road Marking Detection**|Yansong Gong et.al.|[2407.02061](http://arxiv.org/abs/2407.02061)|null|
 |**2024-07-02**|**Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection**|Wenyi Lian et.al.|[2407.01869](http://arxiv.org/abs/2407.01869)|null|
 |**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761](http://arxiv.org/abs/2407.01761)|null|
@@ -2510,7 +2510,7 @@ layout: default
 |**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695](http://arxiv.org/abs/2412.05695)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
 |**2024-12-11**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955](http://arxiv.org/abs/2412.04955)|**[link](https://github.com/chenvoid/mga)**|
-|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
+|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|**[link](https://github.com/iis-esslingen/nerf-3dgs-benchmark)**|
 |**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845](http://arxiv.org/abs/2412.00845)|null|
 |**2024-12-01**|**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**|Jian Liu et.al.|[2412.00754](http://arxiv.org/abs/2412.00754)|null|
 |**2024-11-30**|**Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives**|Alex Hanson et.al.|[2412.00578](http://arxiv.org/abs/2412.00578)|null|
@@ -2540,7 +2540,7 @@ layout: default
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
 |**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504](http://arxiv.org/abs/2411.10504)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
-|**2024-11-22**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508](http://arxiv.org/abs/2411.08508)|null|
+|**2024-11-22**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508](http://arxiv.org/abs/2411.08508)|**[link](https://github.com/david-svitov/BBSplat)**|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
 |**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279](http://arxiv.org/abs/2411.08279)|**[link](https://github.com/wu-cvgl/mba-slam)**|
 |**2024-11-12**|**TomoGRAF: A Robust and Generalizable Reconstruction Network for Single-View Computed Tomography**|Di Xu et.al.|[2411.08158](http://arxiv.org/abs/2411.08158)|null|
@@ -2569,7 +2569,7 @@ layout: default
 |**2024-10-30**|**Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder**|Antoine Schnepf et.al.|[2410.22936](http://arxiv.org/abs/2410.22936)|null|
 |**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566](http://arxiv.org/abs/2410.21566)|**[link](https://github.com/pixie8888/mvsdet)**|
 |**2024-10-29**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981](http://arxiv.org/abs/2410.20981)|null|
-|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|null|
+|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|**[link](https://github.com/esw0116/odgs)**|
 |**2024-10-27**|**GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**|Yusuke Sekikawa et.al.|[2410.20306](http://arxiv.org/abs/2410.20306)|null|
 |**2024-10-25**|**Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**|Weihang Liu et.al.|[2410.19483](http://arxiv.org/abs/2410.19483)|**[link](https://github.com/weihangliu2024/content_aware_nerf)**|
 |**2024-10-25**|**Evaluation of strategies for efficient rate-distortion NeRF streaming**|Pedro Martin et.al.|[2410.19459](http://arxiv.org/abs/2410.19459)|null|
@@ -2994,7 +2994,7 @@ layout: default
 |**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/abs/2403.19920)|null|
 |**2024-03-28**|**Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**|Marco Cannici et.al.|[2403.19780](http://arxiv.org/abs/2403.19780)|**[link](https://github.com/uzh-rpg/evdeblurnerf)**|
 |**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607](http://arxiv.org/abs/2403.19607)|null|
-|**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
+|**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|**[link](https://github.com/avinashpaliwal/coherentgs)**|
 |**2024-03-28**|**Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation**|Yujin Chen et.al.|[2403.19319](http://arxiv.org/abs/2403.19319)|null|
 |**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243](http://arxiv.org/abs/2403.19243)|null|
 |**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|**[link](https://github.com/SkyworkAI/Gamba)**|
@@ -3042,7 +3042,7 @@ layout: default
 |**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/abs/2403.11131)|**[link](https://github.com/GATECH-EIC/Omni-Recon)**|
 |**2024-03-16**|**Fast Sparse View Guided NeRF Update for Object Reconfigurations**|Ziqi Lu et.al.|[2403.11024](http://arxiv.org/abs/2403.11024)|null|
 |**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906](http://arxiv.org/abs/2403.10906)|null|
-|**2024-03-16**|**MSI-NeRF: Linking Omni-Depth with View Synthesis through Multi-Sphere Image aided Generalizable Neural Radiance Field**|Dongyu Yan et.al.|[2403.10840](http://arxiv.org/abs/2403.10840)|null|
+|**2024-03-16**|**MSI-NeRF: Linking Omni-Depth with View Synthesis through Multi-Sphere Image aided Generalizable Neural Radiance Field**|Dongyu Yan et.al.|[2403.10840](http://arxiv.org/abs/2403.10840)|**[link](https://github.com/HITSZ-NRSL/MSI-NeRF)**|
 |**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516](http://arxiv.org/abs/2403.10516)|**[link](https://github.com/mhamilton723/FeatUp)**|
 |**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340](http://arxiv.org/abs/2403.10340)|**[link](https://github.com/cerf-volant425/thermal-nerf)**|
 |**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
