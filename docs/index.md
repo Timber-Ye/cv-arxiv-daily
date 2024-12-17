@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -880,7 +880,7 @@ layout: default
 |**2024-12-12**|**Point-set registration in bounded domains via the Fokker-Planck equation**|Angelo Iollo et.al.|[2412.09156](http://arxiv.org/abs/2412.09156)|null|
 |**2024-12-12**|**BA-ORABE: Blockchain-Based Auditable Registered Attribute-Based Encryption With Reliable Outsourced Decryption**|Dongliang Cai et.al.|[2412.08957](http://arxiv.org/abs/2412.08957)|null|
 |**2024-12-11**|**Modeling EEG Spectral Features through Warped Functional Mixed Membership Models**|Emma Landry et.al.|[2412.08762](http://arxiv.org/abs/2412.08762)|null|
-|**2024-12-11**|**A Novel Multiscale Spatial Phase Estimate with the Structure Multivector**|Brian Knight et.al.|[2412.08070](http://arxiv.org/abs/2412.08070)|null|
+|**2024-12-11**|**A Novel Multiscale Spatial Phase Estimate with the Structure Multivector**|Brian Knight et.al.|[2412.08070](http://arxiv.org/abs/2412.08070)|**[link](https://gitlab.com/briancknight/ssvm2025)**|
 |**2024-12-10**|**Data-Driven Assessment of Vehicle-to-Grid Capabilities in Supporting Grid During Emergencies: Case Study of Travis County, TX**|Kelsey Nelson et.al.|[2412.07982](http://arxiv.org/abs/2412.07982)|null|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513](http://arxiv.org/abs/2412.07513)|null|
 |**2024-12-08**|**AC-LIO: Towards Asymptotic and Consistent Convergence in LiDAR-Inertial Odometry**|Tianxiang Zhang et.al.|[2412.05873](http://arxiv.org/abs/2412.05873)|null|
