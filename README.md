@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-15**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
 |**2024-12-13**|**RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting**|Lizhi Bai et.al.|[2412.09868](http://arxiv.org/abs/2412.09868)|null|
@@ -881,7 +882,7 @@
 |**2024-12-12**|**Structurally Consistent MRI Colorization using Cross-modal Fusion Learning**|Mayuri Mathur et.al.|[2412.10452](http://arxiv.org/abs/2412.10452)|null|
 |**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308](http://arxiv.org/abs/2412.10308)|null|
 |**2024-12-12**|**On Round-Off Errors and Gaussian Blur in Superresolution and in Image Registration**|Serap A. Savari et.al.|[2412.09741](http://arxiv.org/abs/2412.09741)|null|
-|**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401](http://arxiv.org/abs/2412.09401)|null|
+|**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401](http://arxiv.org/abs/2412.09401)|**[link](https://github.com/pku-vcl-3dv/slam3r)**|
 |**2024-12-12**|**Point-set registration in bounded domains via the Fokker-Planck equation**|Angelo Iollo et.al.|[2412.09156](http://arxiv.org/abs/2412.09156)|null|
 |**2024-12-16**|**BA-ORABE: Blockchain-Based Auditable Registered Attribute-Based Encryption With Reliable Outsourced Decryption**|Dongliang Cai et.al.|[2412.08957](http://arxiv.org/abs/2412.08957)|null|
 |**2024-12-11**|**Modeling EEG Spectral Features through Warped Functional Mixed Membership Models**|Emma Landry et.al.|[2412.08762](http://arxiv.org/abs/2412.08762)|null|
@@ -1604,6 +1605,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**CondiMen: Conditional Multi-Person Mesh Recovery**|Brégier Romain et.al.|[2412.13058](http://arxiv.org/abs/2412.13058)|null|
+|**2024-12-17**|**ShotVL: Human-Centric Highlight Frame Retrieval via Language Queries**|Wangyu Xue et.al.|[2412.12675](http://arxiv.org/abs/2412.12675)|null|
 |**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420](http://arxiv.org/abs/2412.11420)|null|
 |**2024-12-13**|**ExeChecker: Where Did I Go Wrong?**|Yiwen Gu et.al.|[2412.10573](http://arxiv.org/abs/2412.10573)|null|
 |**2024-12-11**|**CUPS: Improving Human Pose-Shape Estimators with Conformalized Deep Uncertainty**|Harry Zhang et.al.|[2412.10431](http://arxiv.org/abs/2412.10431)|null|
@@ -2517,6 +2520,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
+|**2024-12-17**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
+|**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766](http://arxiv.org/abs/2412.12766)|null|
 |**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762](http://arxiv.org/abs/2412.11762)|null|
 |**2024-12-16**|**Sequence Matters: Harnessing Video Models in Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
 |**2024-12-16**|**VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression**|Qiang Hu et.al.|[2412.11362](http://arxiv.org/abs/2412.11362)|null|
