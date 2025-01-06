@@ -26,6 +26,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**A Minimal Subset Approach for Efficient and Scalable Loop Closure**|Nikolaos Stathoulopoulos et.al.|[2501.01791](http://arxiv.org/abs/2501.01791)|null|
+|**2025-01-03**|**iCBIR-Sli: Interpretable Content-Based Image Retrieval with 2D Slice Embeddings**|Shuhei Tomoshige et.al.|[2501.01642](http://arxiv.org/abs/2501.01642)|null|
 |**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421](http://arxiv.org/abs/2501.01421)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377](http://arxiv.org/abs/2501.01377)|null|
@@ -911,6 +913,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-31**|**Estimation of 3T MR images from 1.5T images regularized with Physics based Constraint**|Prabhjot Kaur et.al.|[2501.01464](http://arxiv.org/abs/2501.01464)|null|
 |**2025-01-02**|**Model Reduction for Transport-Dominated Problems via Cross-Correlation Based Snapshot Registration**|Harshith Gowrachari et.al.|[2501.01299](http://arxiv.org/abs/2501.01299)|null|
 |**2024-12-30**|**Fine-Tuning TransMorph with Gradient Correlation for Anatomical Alignment**|Lukas Förner et.al.|[2412.20822](http://arxiv.org/abs/2412.20822)|null|
 |**2024-12-29**|**Towards Explaining Uncertainty Estimates in Point Cloud Registration**|Ziyuan Qin et.al.|[2412.20612](http://arxiv.org/abs/2412.20612)|null|
@@ -1657,6 +1660,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**TCPFormer: Learning Temporal Correlation with Implicit Pose Proxy for 3D Human Pose Estimation**|Jiajie Liu et.al.|[2501.01770](http://arxiv.org/abs/2501.01770)|null|
+|**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752](http://arxiv.org/abs/2501.01752)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
 |**2025-01-02**|**L3D-Pose: Lifting Pose for 3D Avatars from a Single Camera in the Wild**|Soumyaratna Debnath et.al.|[2501.01174](http://arxiv.org/abs/2501.01174)|null|
 |**2024-12-31**|**Relative Pose Observability Analysis Using Dual Quaternions**|Nicholas B. Andrews et.al.|[2501.00657](http://arxiv.org/abs/2501.00657)|null|
