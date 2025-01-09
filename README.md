@@ -1671,6 +1671,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**KN-LIO: Geometric Kinematics and Neural Field Coupled LiDAR-Inertial Odometry**|Zhong Wang et.al.|[2501.04263](http://arxiv.org/abs/2501.04263)|null|
 |**2025-01-07**|**MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer**|Junsheng Luan et.al.|[2501.03630](http://arxiv.org/abs/2501.03630)|null|
 |**2025-01-07**|**TexHOI: Reconstructing Textures of 3D Unknown Objects in Monocular Hand-Object Interaction Scenes**|Alakh Aggarwal et.al.|[2501.03525](http://arxiv.org/abs/2501.03525)|**[link](https://github.com/alakhag/texhoi)**|
 |**2025-01-06**|**Mobile Augmented Reality Framework with Fusional Localization and Pose Estimation**|Songlin Hou et.al.|[2501.03336](http://arxiv.org/abs/2501.03336)|null|
@@ -2624,6 +2625,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
 |**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|null|
