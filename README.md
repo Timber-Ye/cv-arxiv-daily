@@ -127,7 +127,7 @@
 |**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|**[link](https://github.com/HoinJung/Unified-Debiaisng-VLM-SFID)**|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
-|**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614](http://arxiv.org/abs/2410.06614)|null|
+|**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614](http://arxiv.org/abs/2410.06614)|**[link](https://github.com/csiro-robotics/Pair-VPR)**|
 |**2024-10-09**|**MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging**|Noel C. F. Codella et.al.|[2410.06542](http://arxiv.org/abs/2410.06542)|null|
 |**2024-10-08**|**Temporal Image Caption Retrieval Competition -- Description and Results**|Jakub Pokrywka et.al.|[2410.06314](http://arxiv.org/abs/2410.06314)|null|
 |**2024-10-08**|**Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**|Gongxin Yao et.al.|[2410.06285](http://arxiv.org/abs/2410.06285)|null|
@@ -1068,7 +1068,7 @@
 |**2024-10-12**|**FiRework: Field Refinement Framework for Efficient Enhancement of Deformable Registration**|Haiqiao Wang et.al.|[2410.09595](http://arxiv.org/abs/2410.09595)|**[link](https://github.com/zax130/firework)**|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|**[link](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**|
 |**2024-10-11**|**Hierarchical uncertainty estimation for learning-based registration in neuroimaging**|Xiaoling Hu et.al.|[2410.09299](http://arxiv.org/abs/2410.09299)|**[link](https://github.com/huxiaoling/regre4regis)**|
-|**2024-10-10**|**ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**|Mason B. Peterson et.al.|[2410.08262](http://arxiv.org/abs/2410.08262)|null|
+|**2024-10-10**|**ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**|Mason B. Peterson et.al.|[2410.08262](http://arxiv.org/abs/2410.08262)|**[link](https://github.com/mit-acl/ROMAN)**|
 |**2024-10-10**|**RayEmb: Arbitrary Landmark Detection in X-Ray Images Using Ray Embedding Subspace**|Pragyan Shrestha et.al.|[2410.08152](http://arxiv.org/abs/2410.08152)|**[link](https://github.com/pragyanstha/rayemb)**|
 |**2024-10-10**|**LiPO: LiDAR Inertial Odometry for ICP Comparison**|Darwin Mick et.al.|[2410.08097](http://arxiv.org/abs/2410.08097)|null|
 |**2024-10-08**|**Automated quality assessment using appearance-based simulations and hippocampus segmentation on low-field paediatric brain MR images**|Vaanathi Sundaresan et.al.|[2410.06161](http://arxiv.org/abs/2410.06161)|**[link](https://github.com/v-sundaresan/lisa2024_qa)**|
@@ -1686,7 +1686,7 @@
 |**2025-01-06**|**Universal Features Guided Zero-Shot Category-Level Object Pose Estimation**|Wentian Qu et.al.|[2501.02831](http://arxiv.org/abs/2501.02831)|null|
 |**2025-01-06**|**Unsupervised Domain Adaptation for Occlusion Resilient Human Pose Estimation**|Arindam Dutta et.al.|[2501.02773](http://arxiv.org/abs/2501.02773)|null|
 |**2025-01-06**|**WorldPose: A World Cup Dataset for Global 3D Human Pose Estimation**|Tianjian Jiang et.al.|[2501.02771](http://arxiv.org/abs/2501.02771)|null|
-|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580](http://arxiv.org/abs/2501.02580)|null|
+|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580](http://arxiv.org/abs/2501.02580)|**[link](https://github.com/xuqingyuan2000/lp-icp)**|
 |**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166](http://arxiv.org/abs/2501.02166)|**[link](https://github.com/sdwyc/rolo)**|
 |**2025-01-03**|**TCPFormer: Learning Temporal Correlation with Implicit Pose Proxy for 3D Human Pose Estimation**|Jiajie Liu et.al.|[2501.01770](http://arxiv.org/abs/2501.01770)|null|
 |**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752](http://arxiv.org/abs/2501.01752)|null|
@@ -1698,7 +1698,7 @@
 |**2024-12-30**|**ReFlow6D: Refraction-Guided Transparent Object 6D Pose Estimation via Intermediate Representation Learning**|Hrishikesh Gupta et.al.|[2412.20830](http://arxiv.org/abs/2412.20830)|**[link](https://github.com/stoicgilgamesh/matting_rendering)**|
 |**2024-12-30**|**Frequency-aware Event Cloud Network**|Hongwei Ren et.al.|[2412.20803](http://arxiv.org/abs/2412.20803)|null|
 |**2024-12-30**|**KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences**|Keng-Wei Chang et.al.|[2412.20767](http://arxiv.org/abs/2412.20767)|null|
-|**2024-12-30**|**Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study**|Boris Bačić et.al.|[2412.20733](http://arxiv.org/abs/2412.20733)|null|
+|**2024-12-30**|**Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study**|Boris Bačić et.al.|[2412.20733](http://arxiv.org/abs/2412.20733)|**[link](https://github.com/claudiunz/tnwahi-appakrcs)**|
 |**2024-12-29**|**Exploiting Aggregation and Segregation of Representations for Domain Adaptive Human Pose Estimation**|Qucheng Peng et.al.|[2412.20538](http://arxiv.org/abs/2412.20538)|**[link](https://github.com/davidpengucf/epic)**|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082](http://arxiv.org/abs/2412.20082)|null|
 |**2024-12-28**|**GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting**|Atticus J. Zeller et.al.|[2412.20056](http://arxiv.org/abs/2412.20056)|**[link](https://github.com/atticuszeller/gsplatloc)**|
