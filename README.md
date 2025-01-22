@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063](http://arxiv.org/abs/2501.11063)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
+|**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
 |**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|null|
 |**2025-01-12**|**SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval**|Bhavin Jawade et.al.|[2501.08347](http://arxiv.org/abs/2501.08347)|null|
@@ -554,6 +556,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Keypoint Detection Empowered Near-Field User Localization and Channel Reconstruction**|Mengyuan Li et.al.|[2501.11844](http://arxiv.org/abs/2501.11844)|null|
+|**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
+|**2025-01-19**|**Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation**|Shibang Liu et.al.|[2501.11069](http://arxiv.org/abs/2501.11069)|null|
 |**2025-01-13**|**Empirical Comparison of Four Stereoscopic Depth Sensing Cameras for Robotics Applications**|Lukas Rustler et.al.|[2501.07421](http://arxiv.org/abs/2501.07421)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
@@ -661,6 +666,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Optimally-Weighted Maximum Mean Discrepancy Framework for Continual Learning**|KaiHui Huang et.al.|[2501.12121](http://arxiv.org/abs/2501.12121)|null|
+|**2025-01-21**|**Self-Calibrated Epipolar Reconstruction for Assessment of Aneurysms in the Internal Carotid Artery Using In-Silico Biplane Angiograms**|Kyle A. Williams et.al.|[2501.11793](http://arxiv.org/abs/2501.11793)|null|
+|**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method**|Wenping Jin et.al.|[2501.07496](http://arxiv.org/abs/2501.07496)|**[link](https://github.com/xjpp2016/mavd)**|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
@@ -928,7 +936,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-17**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283](http://arxiv.org/abs/2501.10283)|null|
+|**2025-01-21**|**Diffeomorphic ICP Registration for Single and Multiple Point Sets**|Adrien Wohrer et.al.|[2501.11986](http://arxiv.org/abs/2501.11986)|null|
+|**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
+|**2025-01-19**|**Multi-LiCa: A Motion and Targetless Multi LiDAR-to-LiDAR Calibration Framework**|Dominik Kulmer et.al.|[2501.11088](http://arxiv.org/abs/2501.11088)|null|
+|**2025-01-18**|**CS-Net:Contribution-based Sampling Network for Point Cloud Simplification**|Tian Guo et.al.|[2501.10789](http://arxiv.org/abs/2501.10789)|null|
+|**2025-01-18**|**Infrared and Visible Image Fusion: From Data Compatibility to Task Adaption**|Jinyuan Liu et.al.|[2501.10761](http://arxiv.org/abs/2501.10761)|**[link](https://github.com/rollingplain/ivif_zoo)**|
+|**2025-01-18**|**Deformable Image Registration of Dark-Field Chest Radiographs for Local Lung Signal Change Assessment**|Fabian Drexel et.al.|[2501.10757](http://arxiv.org/abs/2501.10757)|null|
+|**2025-01-20**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283](http://arxiv.org/abs/2501.10283)|null|
 |**2025-01-17**|**Robust Change Captioning in Remote Sensing: SECOND-CC Dataset and MModalCC Framework**|Ali Can Karaca et.al.|[2501.10075](http://arxiv.org/abs/2501.10075)|null|
 |**2025-01-16**|**SE-BSFV: Online Subspace Learning based Shadow Enhancement and Background Suppression for ViSAR under Complex Background**|Shangqu Yan et.al.|[2501.09341](http://arxiv.org/abs/2501.09341)|null|
 |**2025-01-15**|**A Vessel Bifurcation Landmark Pair Dataset for Abdominal CT Deformable Image Registration (DIR) Validation**|Edward R Criscuolo et.al.|[2501.09162](http://arxiv.org/abs/2501.09162)|**[link](https://github.com/deshanyang/abdominal-dir-qa)**|
@@ -1700,9 +1714,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation**|Tamás Karácsony et.al.|[2501.12318](http://arxiv.org/abs/2501.12318)|null|
+|**2025-01-19**|**Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation**|Shibang Liu et.al.|[2501.11069](http://arxiv.org/abs/2501.11069)|null|
 |**2025-01-17**|**landmarker: a Toolkit for Anatomical Landmark Localization in 2D/3D Images**|Jef Jonkers et.al.|[2501.10098](http://arxiv.org/abs/2501.10098)|**[link](https://github.com/predict-idlab/landmarker)**|
 |**2025-01-16**|**A New Teacher-Reviewer-Student Framework for Semi-supervised 2D Human Pose Estimation**|Wulian Yun et.al.|[2501.09565](http://arxiv.org/abs/2501.09565)|null|
-|**2025-01-16**|**Towards Robust and Realistic Human Pose Estimation via WiFi Signals**|Yang Chen et.al.|[2501.09411](http://arxiv.org/abs/2501.09411)|**[link](https://github.com/cseeyangchen/dt-pose)**|
+|**2025-01-21**|**Towards Robust and Realistic Human Pose Estimation via WiFi Signals**|Yang Chen et.al.|[2501.09411](http://arxiv.org/abs/2501.09411)|**[link](https://github.com/cseeyangchen/dt-pose)**|
 |**2025-01-16**|**RoboReflect: Robotic Reflective Reasoning for Grasping Ambiguous-Condition Objects**|Zhen Luo et.al.|[2501.09307](http://arxiv.org/abs/2501.09307)|null|
 |**2025-01-16**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659](http://arxiv.org/abs/2501.08659)|null|
 |**2025-01-14**|**Poseidon: A ViT-based Architecture for Multi-Frame Pose Estimation with Adaptive Frame Weighting and Multi-Scale Feature Fusion**|Cesare Davide Pace et.al.|[2501.08446](http://arxiv.org/abs/2501.08446)|**[link](https://github.com/CesareDavidePace/poseidon)**|
@@ -2673,6 +2689,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
+|**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884](http://arxiv.org/abs/2501.11884)|null|
+|**2025-01-16**|**Poxel: Voxel Reconstruction for 3D Printing**|Ruixiang Cao et.al.|[2501.10474](http://arxiv.org/abs/2501.10474)|null|
 |**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947](http://arxiv.org/abs/2501.09947)|**[link](https://github.com/zhengxyun/surface-sos)**|
 |**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460](http://arxiv.org/abs/2501.09460)|**[link](https://github.com/sjj118/normal-nerf)**|
 |**2025-01-15**|**SLC $^2$ -SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880](http://arxiv.org/abs/2501.08880)|null|
