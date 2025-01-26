@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -936,7 +936,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746](http://arxiv.org/abs/2501.13746)|null|
-|**2025-01-23**|**Variational U-Net with Local Alignment for Joint Tumor Extraction and Registration (VALOR-Net) of Breast MRI Data Acquired at Two Different Field Strengths**|Muhammad Shahkar Khan et.al.|[2501.13690](http://arxiv.org/abs/2501.13690)|**[link](https://github.com/wadudwali/joint-segmentation-and-registration)**|
+|**2025-01-23**|**Variational U-Net with Local Alignment for Joint Tumor Extraction and Registration (VALOR-Net) of Breast MRI Data Acquired at Two Different Field Strengths**|Muhammad Shahkar Khan et.al.|[2501.13690](http://arxiv.org/abs/2501.13690)|null|
 |**2025-01-23**|**Scalable dataset acquisition for data-driven lensless imaging**|Clara S. Hung et.al.|[2501.13334](http://arxiv.org/abs/2501.13334)|null|
 |**2025-01-22**|**Learning accurate rigid registration for longitudinal brain MRI from synthetic data**|Jingru Fu et.al.|[2501.13010](http://arxiv.org/abs/2501.13010)|null|
 |**2025-01-21**|**Diffeomorphic ICP Registration for Single and Multiple Point Sets**|Adrien Wohrer et.al.|[2501.11986](http://arxiv.org/abs/2501.11986)|null|
