@@ -961,7 +961,7 @@
 |**2025-01-23**|**Variational U-Net with Local Alignment for Joint Tumor Extraction and Registration (VALOR-Net) of Breast MRI Data Acquired at Two Different Field Strengths**|Muhammad Shahkar Khan et.al.|[2501.13690](http://arxiv.org/abs/2501.13690)|null|
 |**2025-01-23**|**Scalable dataset acquisition for data-driven lensless imaging**|Clara S. Hung et.al.|[2501.13334](http://arxiv.org/abs/2501.13334)|null|
 |**2025-01-22**|**Learning accurate rigid registration for longitudinal brain MRI from synthetic data**|Jingru Fu et.al.|[2501.13010](http://arxiv.org/abs/2501.13010)|null|
-|**2025-01-21**|**Diffeomorphic ICP Registration for Single and Multiple Point Sets**|Adrien Wohrer et.al.|[2501.11986](http://arxiv.org/abs/2501.11986)|null|
+|**2025-01-21**|**Diffeomorphic ICP Registration for Single and Multiple Point Sets**|Adrien Wohrer et.al.|[2501.11986](http://arxiv.org/abs/2501.11986)|**[link](https://github.com/adrienwohrer/diff-icp)**|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-19**|**Multi-LiCa: A Motion and Targetless Multi LiDAR-to-LiDAR Calibration Framework**|Dominik Kulmer et.al.|[2501.11088](http://arxiv.org/abs/2501.11088)|**[link](https://github.com/tumftm/multi_lica)**|
 |**2025-01-18**|**CS-Net:Contribution-based Sampling Network for Point Cloud Simplification**|Tian Guo et.al.|[2501.10789](http://arxiv.org/abs/2501.10789)|null|
@@ -1148,7 +1148,7 @@
 |**2024-10-07**|**Improved detection of discarded fish species through BoxAL active learning**|Maria Sokolova et.al.|[2410.04880](http://arxiv.org/abs/2410.04880)|**[link](https://github.com/pieterblok/boxal)**|
 |**2024-10-04**|**Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery**|Tiancheng Li et.al.|[2410.03078](http://arxiv.org/abs/2410.03078)|null|
 |**2024-10-04**|**DiffKillR: Killing and Recreating Diffeomorphisms for Cell Annotation in Dense Microscopy Images**|Chen Liu et.al.|[2410.03058](http://arxiv.org/abs/2410.03058)|**[link](https://github.com/KrishnaswamyLab/DiffKillR)**|
-|**2024-10-03**|**Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise**|Rose E. Wang et.al.|[2410.03017](http://arxiv.org/abs/2410.03017)|null|
+|**2024-10-03**|**Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise**|Rose E. Wang et.al.|[2410.03017](http://arxiv.org/abs/2410.03017)|**[link](https://github.com/rosewang2008/tutor-copilot)**|
 |**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961](http://arxiv.org/abs/2410.02961)|null|
 |**2024-10-03**|**Deep Regression 2D-3D Ultrasound Registration for Liver Motion Correction in Focal Tumor Thermal Ablation**|Shuwei Xing et.al.|[2410.02579](http://arxiv.org/abs/2410.02579)|**[link](https://github.com/xingorno/deepregs2v)**|
 |**2024-10-03**|**NestedMorph: Enhancing Deformable Medical Image Registration with Nested Attention Mechanisms**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02550](http://arxiv.org/abs/2410.02550)|**[link](https://github.com/as-lab/marthi-et-al-2024-nestedmorph-deformable-medical-image-registration)**|
@@ -1502,7 +1502,7 @@
 |**2024-03-25**|**Characterisation of the Intel RealSense D415 Stereo Depth Camera for Motion-Corrected CT Perfusion Imaging**|Mahdieh Dashtbani Moghari et.al.|[2403.16490](http://arxiv.org/abs/2403.16490)|null|
 |**2024-03-24**|**Low Rank Groupwise Deformations for Motion Tracking in Cardiac Cine MRI**|Sean Rendell et.al.|[2403.16240](http://arxiv.org/abs/2403.16240)|null|
 |**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/abs/2403.15981)|null|
-|**2024-03-23**|**Innovative Quantitative Analysis for Disease Progression Assessment in Familial Cerebral Cavernous Malformations**|Ruige Zong et.al.|[2403.15803](http://arxiv.org/abs/2403.15803)|null|
+|**2024-03-23**|**Innovative Quantitative Analysis for Disease Progression Assessment in Familial Cerebral Cavernous Malformations**|Ruige Zong et.al.|[2403.15803](http://arxiv.org/abs/2403.15803)|**[link](https://github.com/6zrg/quantitative-statistics-of-fccm)**|
 |**2024-03-22**|**A Modular, End-to-End Next-Generation Network Testbed: Towards a Fully Automated Network Management Platform**|Ali Chouman et.al.|[2403.15376](http://arxiv.org/abs/2403.15376)|null|
 |**2024-03-21**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326](http://arxiv.org/abs/2403.14326)|null|
 |**2024-03-19**|**Multi-View Active Sensing for Human-Robot Interaction via Hierarchically Connected Tree**|Yuanjiong Ying et.al.|[2403.12538](http://arxiv.org/abs/2403.12538)|null|
@@ -1855,7 +1855,7 @@
 |**2024-12-02**|**Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures**|Qiyuan Shen et.al.|[2412.01299](http://arxiv.org/abs/2412.01299)|null|
 |**2024-12-02**|**CRISP: Object Pose and Shape Estimation with Test-Time Adaptation**|Jingnan Shi et.al.|[2412.01052](http://arxiv.org/abs/2412.01052)|null|
 |**2024-11-29**|**Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling**|Qirui Wu et.al.|[2411.19492](http://arxiv.org/abs/2411.19492)|null|
-|**2024-11-29**|**Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning**|Yang You et.al.|[2411.19458](http://arxiv.org/abs/2411.19458)|null|
+|**2024-11-29**|**Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning**|Yang You et.al.|[2411.19458](http://arxiv.org/abs/2411.19458)|**[link](https://github.com/qq456cvb/3dcorrenhance)**|
 |**2024-11-28**|**GMS-VINS:Multi-category Dynamic Objects Semantic Segmentation for Enhanced Visual-Inertial Odometry Using a Promptable Foundation Model**|Rui Zhou et.al.|[2411.19289](http://arxiv.org/abs/2411.19289)|null|
 |**2024-11-28**|**HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos**|Prithviraj Banerjee et.al.|[2411.19167](http://arxiv.org/abs/2411.19167)|null|
 |**2024-11-28**|**Lost & Found: Updating Dynamic 3D Scene Graphs from Egocentric Observations**|Tjark Behrens et.al.|[2411.19162](http://arxiv.org/abs/2411.19162)|**[link](https://github.com/behretj/LostFound)**|
@@ -3456,7 +3456,7 @@
 |**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616](http://arxiv.org/abs/2401.00616)|null|
 |**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208](http://arxiv.org/abs/2401.00208)|null|
 |**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561](http://arxiv.org/abs/2312.17561)|null|
-|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
+|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|**[link](https://github.com/USTC3DV/MERFStudio)**|
 |**2023-12-29**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
