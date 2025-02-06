@@ -26,6 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Human-Aligned Image Models Improve Visual Decoding from the Brain**|Nona Rajabi et.al.|[2502.03081](http://arxiv.org/abs/2502.03081)|null|
 |**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2025-01-27**|**Freestyle Sketch-in-the-Loop Image Segmentation**|Subhadeep Koley et.al.|[2501.16022](http://arxiv.org/abs/2501.16022)|null|
@@ -678,6 +679,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai et.al.|[2502.01297](http://arxiv.org/abs/2502.01297)|null|
 |**2025-02-03**|**Exploring Few-Shot Defect Segmentation in General Industrial Scenarios with Metric Learning and Vision Foundation Models**|Tongkun Liu et.al.|[2502.01216](http://arxiv.org/abs/2502.01216)|null|
 |**2025-02-03**|**ZeroBP: Learning Position-Aware Correspondence for Zero-shot 6D Pose Estimation in Bin-Picking**|Jianqiu Chen et.al.|[2502.01004](http://arxiv.org/abs/2502.01004)|null|
@@ -953,6 +955,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Gain of squeezing via photon subtractions**|Mikhail S. Podoshvedov et.al.|[2502.03234](http://arxiv.org/abs/2502.03234)|null|
+|**2025-02-05**|**A Unified Framework for Semi-Supervised Image Segmentation and Registration**|Ruizhe Li et.al.|[2502.03229](http://arxiv.org/abs/2502.03229)|null|
+|**2025-02-05**|**Tell2Reg: Establishing spatial correspondence between images by the same language prompts**|Wen Yan et.al.|[2502.03118](http://arxiv.org/abs/2502.03118)|null|
+|**2025-02-05**|**PoleStack: Robust Pole Estimation of Irregular Objects from Silhouette Stacking**|Jacopo Villa et.al.|[2502.02907](http://arxiv.org/abs/2502.02907)|null|
 |**2025-02-04**|**Test Time Training for 4D Medical Image Interpolation**|Qikang Zhang et.al.|[2502.02341](http://arxiv.org/abs/2502.02341)|null|
 |**2025-02-04**|**Progressive Correspondence Regenerator for Robust 3D Registration**|Guiyu Zhao et.al.|[2502.02163](http://arxiv.org/abs/2502.02163)|null|
 |**2025-02-04**|**MORPH-LER: Log-Euclidean Regularization for Population-Aware Image Registration**|Mokshagna Sai Teja Karanam et.al.|[2502.02029](http://arxiv.org/abs/2502.02029)|null|
@@ -2751,12 +2757,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372](http://arxiv.org/abs/2502.02372)|null|
 |**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405](http://arxiv.org/abs/2502.01405)|null|
 |**2025-01-31**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Mateusz Nowak et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
 |**2025-01-28**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
-|**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
+|**2025-02-05**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
 |**2025-02-02**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
