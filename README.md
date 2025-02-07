@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
 |**2025-02-05**|**Human-Aligned Image Models Improve Visual Decoding from the Brain**|Nona Rajabi et.al.|[2502.03081](http://arxiv.org/abs/2502.03081)|null|
 |**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
@@ -957,6 +958,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Mapping and Localization Using LiDAR Fiducial Markers**|Yibo Liu et.al.|[2502.03510](http://arxiv.org/abs/2502.03510)|null|
 |**2025-02-05**|**Gain of squeezing via photon subtractions**|Mikhail S. Podoshvedov et.al.|[2502.03234](http://arxiv.org/abs/2502.03234)|null|
 |**2025-02-05**|**A Unified Framework for Semi-Supervised Image Segmentation and Registration**|Ruizhe Li et.al.|[2502.03229](http://arxiv.org/abs/2502.03229)|null|
 |**2025-02-05**|**Tell2Reg: Establishing spatial correspondence between images by the same language prompts**|Wen Yan et.al.|[2502.03118](http://arxiv.org/abs/2502.03118)|null|
@@ -965,7 +967,7 @@
 |**2025-02-04**|**Progressive Correspondence Regenerator for Robust 3D Registration**|Guiyu Zhao et.al.|[2502.02163](http://arxiv.org/abs/2502.02163)|null|
 |**2025-02-04**|**MORPH-LER: Log-Euclidean Regularization for Population-Aware Image Registration**|Mokshagna Sai Teja Karanam et.al.|[2502.02029](http://arxiv.org/abs/2502.02029)|null|
 |**2025-02-03**|**Label Correction for Road Segmentation Using Road-side Cameras**|Henrik Toikka et.al.|[2502.01281](http://arxiv.org/abs/2502.01281)|null|
-|**2025-02-03**|**FetDTIAlign: A Deep Learning Framework for Affine and Deformable Registration of Fetal Brain dMRI**|Bo Li et.al.|[2502.01057](http://arxiv.org/abs/2502.01057)|null|
+|**2025-02-05**|**FetDTIAlign: A Deep Learning Framework for Affine and Deformable Registration of Fetal Brain dMRI**|Bo Li et.al.|[2502.01057](http://arxiv.org/abs/2502.01057)|null|
 |**2025-02-03**|**Multi-Resolution SAR and Optical Remote Sensing Image Registration Methods: A Review, Datasets, and Future Perspectives**|Wenfei Zhang et.al.|[2502.01002](http://arxiv.org/abs/2502.01002)|null|
 |**2025-02-02**|**Registration-Enhanced Segmentation Method for Prostate Cancer in Ultrasound Images**|Shengtian Sang et.al.|[2502.00712](http://arxiv.org/abs/2502.00712)|null|
 |**2025-01-31**|**A Direct Semi-Exhaustive Search Method for Robust, Partial-to-Full Point Cloud Registration**|Richard Cheng et.al.|[2502.00115](http://arxiv.org/abs/2502.00115)|null|
@@ -1763,6 +1765,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation**|Weihang Li et.al.|[2502.04293](http://arxiv.org/abs/2502.04293)|null|
+|**2025-02-06**|**Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks**|Yuhui Jin et.al.|[2502.03877](http://arxiv.org/abs/2502.03877)|null|
+|**2025-02-05**|**Mapping and Localization Using LiDAR Fiducial Markers**|Yibo Liu et.al.|[2502.03510](http://arxiv.org/abs/2502.03510)|null|
 |**2025-02-04**|**Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**|Jian Liu et.al.|[2502.02525](http://arxiv.org/abs/2502.02525)|null|
 |**2025-02-03**|**CleanPose: Category-Level Object Pose Estimation via Causal Learning and Knowledge Distillation**|Xiao Lin et.al.|[2502.01312](http://arxiv.org/abs/2502.01312)|null|
 |**2025-02-03**|**Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter**|Dabin Kim et.al.|[2502.01092](http://arxiv.org/abs/2502.01092)|null|
