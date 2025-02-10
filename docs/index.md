@@ -502,7 +502,7 @@ layout: default
 |**2023-12-14**|**Training-free Zero-shot Composed Image Retrieval with Local Concept Reranking**|Shitong Sun et.al.|[2312.08924](http://arxiv.org/abs/2312.08924)|null|
 |**2023-12-13**|**C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation**|Florian Fervers et.al.|[2312.08060](http://arxiv.org/abs/2312.08060)|null|
 |**2023-12-12**|**Contextually Affinitive Neighborhood Refinery for Deep Clustering**|Chunlin Yu et.al.|[2312.07806](http://arxiv.org/abs/2312.07806)|**[link](https://github.com/cly234/deepclustering-connr)**|
-|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|**[link](https://github.com/NVlabs/CF-3DGS)**|
 |**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|**[link](https://github.com/michaeltian108/ca-tride)**|
 |**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|**[link](https://github.com/KU-CVLAB/CoPoNeRF)**|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991](http://arxiv.org/abs/2312.06991)|null|
@@ -1231,7 +1231,7 @@ layout: default
 |**2024-09-09**|**Prim2Room: Layout-Controllable Room Mesh Generation from Primitives**|Chengzeng Feng et.al.|[2409.05380](http://arxiv.org/abs/2409.05380)|null|
 |**2024-09-09**|**Adaptive Visual Servoing for On-Orbit Servicing**|Farhad Aghili et.al.|[2409.05295](http://arxiv.org/abs/2409.05295)|null|
 |**2024-09-08**|**Sight View Constraint for Robust Point Cloud Registration**|Yaojie Zhang et.al.|[2409.05065](http://arxiv.org/abs/2409.05065)|null|
-|**2024-09-08**|**Unsupervised Multimodal 3D Medical Image Registration with Multilevel Correlation Balanced Optimization**|Jiazheng Wang et.al.|[2409.05040](http://arxiv.org/abs/2409.05040)|null|
+|**2024-09-08**|**Unsupervised Multimodal 3D Medical Image Registration with Multilevel Correlation Balanced Optimization**|Jiazheng Wang et.al.|[2409.05040](http://arxiv.org/abs/2409.05040)|**[link](https://github.com/wjiazheng/mcbo)**|
 |**2024-09-07**|**Strong Privacy-Preserving Universally Composable AKA Protocol with Seamless Handover Support for Mobile Virtual Network Operator**|Rabiah Alnashwan et.al.|[2409.04877](http://arxiv.org/abs/2409.04877)|null|
 |**2024-09-06**|**Influence of Early through Late Fusion on Pancreas Segmentation from Imperfectly Registered Multimodal MRI**|Lucas W. Remedios et.al.|[2409.04563](http://arxiv.org/abs/2409.04563)|**[link](https://github.com/masilab/influence_of_fusion_on_pancreas_segmentation)**|
 |**2024-09-05**|**Recon-all-clinical: Cortical surface reconstruction and analysis of heterogeneous clinical brain MRI**|Karthik Gopinath et.al.|[2409.03889](http://arxiv.org/abs/2409.03889)|null|
@@ -1517,7 +1517,7 @@ layout: default
 |**2024-03-29**|**Diff-Reg v1: Diffusion Matching Model for Registration Problem**|Qianliang Wu et.al.|[2403.19919](http://arxiv.org/abs/2403.19919)|**[link](https://github.com/wuqianliang/diff-reg)**|
 |**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474](http://arxiv.org/abs/2403.19474)|**[link](https://github.com/dfki-av/sg-pgm)**|
 |**2024-03-27**|**Imaging radar and LiDAR image translation for 3-DOF extrinsic calibration**|Sangwoo Jung et.al.|[2403.18358](http://arxiv.org/abs/2403.18358)|null|
-|**2024-03-26**|**Global Point Cloud Registration Network for Large Transformations**|Hanz Cuevas-Velasquez et.al.|[2403.18040](http://arxiv.org/abs/2403.18040)|null|
+|**2024-03-26**|**Global Point Cloud Registration Network for Large Transformations**|Hanz Cuevas-Velasquez et.al.|[2403.18040](http://arxiv.org/abs/2403.18040)|**[link](https://github.com/Alejandro-Galan/Global-PC-Large-Transformations-Registration)**|
 |**2024-03-26**|**Not All Similarities Are Created Equal: Leveraging Data-Driven Biases to Inform GenAI Copyright Disputes**|Uri Hacohen et.al.|[2403.17691](http://arxiv.org/abs/2403.17691)|null|
 |**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776](http://arxiv.org/abs/2403.16776)|null|
 |**2024-03-26**|**As Good As A Coin Toss: Human detection of AI-generated images, videos, audio, and audiovisual stimuli**|Di Cooke et.al.|[2403.16760](http://arxiv.org/abs/2403.16760)|null|
@@ -1540,7 +1540,7 @@ layout: default
 |**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085](http://arxiv.org/abs/2403.10085)|**[link](https://github.com/guiyuzhao/vrhcf)**|
 |**2024-03-15**|**MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings**|Yu Du et.al.|[2403.09996](http://arxiv.org/abs/2403.09996)|null|
 |**2024-03-15**|**CLOSURE: Fast Quantification of Pose Uncertainty Sets**|Yihuai Gao et.al.|[2403.09990](http://arxiv.org/abs/2403.09990)|null|
-|**2024-03-15**|**Boundary Constraint-free Biomechanical Model-Based Surface Matching for Intraoperative Liver Deformation Correction**|Zixin Yang et.al.|[2403.09964](http://arxiv.org/abs/2403.09964)|null|
+|**2024-03-15**|**Boundary Constraint-free Biomechanical Model-Based Surface Matching for Intraoperative Liver Deformation Correction**|Zixin Yang et.al.|[2403.09964](http://arxiv.org/abs/2403.09964)|**[link](https://github.com/zixinyang9109/bcf-fem)**|
 |**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770](http://arxiv.org/abs/2403.08770)|**[link](https://github.com/forrest-110/fastmac)**|
 |**2024-03-13**|**CINA: Conditional Implicit Neural Atlas for Spatio-Temporal Representation of Fetal Brains**|Maik Dannecker et.al.|[2403.08550](http://arxiv.org/abs/2403.08550)|null|
 |**2024-03-13**|**Generating Synthetic Computed Tomography for Radiotherapy: SynthRAD2023 Challenge Report**|Evi M. C. Huijben et.al.|[2403.08447](http://arxiv.org/abs/2403.08447)|**[link](https://github.com/synthrad2023/preprocessing)**|
@@ -2627,7 +2627,7 @@ layout: default
 |**2023-12-13**|**Three-Filters-to-Normal+: Revisiting Discontinuity Discrimination in Depth-to-Normal Translation**|Jingwei Yang et.al.|[2312.07964](http://arxiv.org/abs/2312.07964)|null|
 |**2023-12-13**|**Diffusion Models Enable Zero-Shot Pose Estimation for Lower-Limb Prosthetic Users**|Tianxun Zhou et.al.|[2312.07854](http://arxiv.org/abs/2312.07854)|null|
 |**2023-12-12**|**RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation**|Peng Lu et.al.|[2312.07526](http://arxiv.org/abs/2312.07526)|**[link](https://github.com/open-mmlab/mmpose)**|
-|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|**[link](https://github.com/NVlabs/CF-3DGS)**|
 |**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337](http://arxiv.org/abs/2312.07337)|**[link](https://github.com/ctu-mrs/rms)**|
 |**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|**[link](https://github.com/KU-CVLAB/CoPoNeRF)**|
 |**2023-12-12**|**Mask as Supervision: Leveraging Unified Mask Information for Unsupervised 3D Pose Estimation**|Yuchen Yang et.al.|[2312.07051](http://arxiv.org/abs/2312.07051)|**[link](https://github.com/charrrrrlie/mask-as-supervision)**|
@@ -2781,7 +2781,7 @@ layout: default
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
-|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
+|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|**[link](https://github.com/openinterx/culture3d)**|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
 |**2025-01-17**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
 |**2025-01-11**|**NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References**|Qiang Qu et.al.|[2501.06488](http://arxiv.org/abs/2501.06488)|**[link](https://github.com/vincentqqu/nvs-sqa)**|
@@ -3539,7 +3539,7 @@ layout: default
 |**2023-12-13**|**ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields**|Juan Luis Gonzalez Bello et.al.|[2312.08136](http://arxiv.org/abs/2312.08136)|null|
 |**2023-12-13**|**Neural Radiance Fields for Transparent Object Using Visual Hull**|Heechan Yoon et.al.|[2312.08118](http://arxiv.org/abs/2312.08118)|null|
 |**2023-12-13**|**uSF: Learning Neural Semantic Field with Uncertainty**|Vsevolod Skorokhodov et.al.|[2312.08012](http://arxiv.org/abs/2312.08012)|**[link](https://github.com/sevashasla/usf)**|
-|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|**[link](https://github.com/NVlabs/CF-3DGS)**|
 |**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|**[link](https://github.com/KU-CVLAB/CoPoNeRF)**|
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-10**|**TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video**|Minye Wu et.al.|[2312.06713](http://arxiv.org/abs/2312.06713)|null|
@@ -3655,7 +3655,7 @@ layout: default
 |**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773](http://arxiv.org/abs/2311.01773)|null|
 |**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659](http://arxiv.org/abs/2311.01659)|null|
 |**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
-|**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
+|**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|**[link](https://github.com/saskiarabich/fpoplusplus)**|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
 |**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
