@@ -22,6 +22,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**TeTRA-VPR: A Ternary Transformer Approach for Compact Visual Place Recognition**|Oliver Grainge et.al.|[2503.02511](http://arxiv.org/abs/2503.02511)|null|
+|**2025-03-04**|**Introspective Loop Closure for SLAM with 4D Imaging Radar**|Maximilian Hilger et.al.|[2503.02383](http://arxiv.org/abs/2503.02383)|null|
+|**2025-03-04**|**Continual Multi-Robot Learning from Black-Box Visual Place Recognition Models**|Kenta Tsukahara et.al.|[2503.02256](http://arxiv.org/abs/2503.02256)|null|
+|**2025-03-03**|**Composed Multi-modal Retrieval: A Survey of Approaches and Applications**|Kun Zhang et.al.|[2503.01334](http://arxiv.org/abs/2503.01334)|**[link](https://github.com/kkzhang95/awesome-composed-multi-modal-retrieval)**|
+|**2025-03-03**|**AirRoom: Objects Matter in Room Reidentification**|Runmao Yao et.al.|[2503.01130](http://arxiv.org/abs/2503.01130)|null|
+|**2025-03-02**|**Efficient End-to-end Visual Localization for Autonomous Driving with Decoupled BEV Neural Matching**|Jinyu Miao et.al.|[2503.00862](http://arxiv.org/abs/2503.00862)|null|
+|**2025-03-01**|**Class-Independent Increment: An Efficient Approach for Multi-label Class-Incremental Learning**|Songlin Dong et.al.|[2503.00515](http://arxiv.org/abs/2503.00515)|null|
+|**2025-03-01**|**CRADMap: Applied Distributed Volumetric Mapping with 5G-Connected Multi-Robots and 4D Radar Sensing**|Maaz Qureshi et.al.|[2503.00262](http://arxiv.org/abs/2503.00262)|null|
+|**2025-02-28**|**EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**|Kuangyi Chen et.al.|[2503.00167](http://arxiv.org/abs/2503.00167)|null|
 |**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826](http://arxiv.org/abs/2502.20826)|null|
 |**2025-02-28**|**SciceVPR: Stable Cross-Image Correlation Enhanced Model for Visual Place Recognition**|Shanshan Wan et.al.|[2502.20676](http://arxiv.org/abs/2502.20676)|null|
 |**2025-02-27**|**Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison**|Jiageng Zhong et.al.|[2502.20154](http://arxiv.org/abs/2502.20154)|null|
@@ -604,6 +613,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
+|**2025-03-01**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
+|**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
 |**2025-02-27**|**Automatic Temporal Segmentation for Post-Stroke Rehabilitation: A Keypoint Detection and Temporal Segmentation Approach for Small Datasets**|Jisoo Lee et.al.|[2502.19766](http://arxiv.org/abs/2502.19766)|null|
 |**2025-02-23**|**Rewards-based image analysis in microscopy**|Kamyar Barakati et.al.|[2502.18522](http://arxiv.org/abs/2502.18522)|null|
 |**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484](http://arxiv.org/abs/2502.13484)|**[link](https://github.com/tattaka/czii-cryo-et-object-identification-public)**|
@@ -720,6 +732,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**HyperGCT: A Dynamic Hyper-GNN-Learned Geometric Constraint for 3D Registration**|Xiyu Zhang et.al.|[2503.02195](http://arxiv.org/abs/2503.02195)|null|
+|**2025-03-03**|**Robust Palm-Vein Recognition Using the MMD Filter: Improving SIFT-Based Feature Matching**|Kaveen Perera et.al.|[2503.01612](http://arxiv.org/abs/2503.01612)|null|
+|**2025-03-04**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202](http://arxiv.org/abs/2503.01202)|null|
+|**2025-03-01**|**Solving Instance Detection from an Open-World Perspective**|Qianqian Shen et.al.|[2503.00359](http://arxiv.org/abs/2503.00359)|null|
+|**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
 |**2025-02-28**|**Improved 3D Point-Line Mapping Regression for Camera Relocalization**|Bach-Thuan Bui et.al.|[2502.20814](http://arxiv.org/abs/2502.20814)|**[link](https://github.com/ais-lab/pl2map)**|
 |**2025-02-28**|**EDM: Equirectangular Projection-Oriented Dense Kernelized Feature Matching**|Dongki Jung et.al.|[2502.20685](http://arxiv.org/abs/2502.20685)|null|
 |**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|**[link](https://github.com/yejunzhang/a2-gnn)**|
@@ -1015,6 +1032,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Scene-based nonuniformity correction with homography transformation**|Peretz Yafin et.al.|[2503.02487](http://arxiv.org/abs/2503.02487)|null|
+|**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
+|**2025-03-04**|**HyperGCT: A Dynamic Hyper-GNN-Learned Geometric Constraint for 3D Registration**|Xiyu Zhang et.al.|[2503.02195](http://arxiv.org/abs/2503.02195)|null|
+|**2025-03-03**|**Balancing Act: Trading Off Doppler Odometry and Map Registration for Efficient Lidar Localization**|Katya M. Papais et.al.|[2503.02107](http://arxiv.org/abs/2503.02107)|null|
+|**2025-03-03**|**VF-Plan: Bridging the Art Gallery Problem and Static LiDAR Scanning with Visibility Field Optimization**|Biao Xionga et.al.|[2503.01562](http://arxiv.org/abs/2503.01562)|null|
+|**2025-03-02**|**Sparse Randomized Approximation of Normal Cycles**|Allen Paul et.al.|[2503.01057](http://arxiv.org/abs/2503.01057)|null|
+|**2025-03-02**|**Semantic-ICP: Iterative Closest Point for Non-rigid Multi-Organ Point Cloud Registration**|Wanwen Chen et.al.|[2503.00972](http://arxiv.org/abs/2503.00972)|null|
+|**2025-03-02**|**Personalizing the meshed SPL/NAC Brain Atlas for patient-specific scientific computing using SynthMorph**|Andy Huynh et.al.|[2503.00931](http://arxiv.org/abs/2503.00931)|null|
+|**2025-03-02**|**NCF: Neural Correspondence Field for Medical Image Registration**|Lei Zhou et.al.|[2503.00760](http://arxiv.org/abs/2503.00760)|null|
+|**2025-02-28**|**EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**|Kuangyi Chen et.al.|[2503.00167](http://arxiv.org/abs/2503.00167)|null|
 |**2025-02-28**|**Synthesizing Individualized Aging Brains in Health and Disease with Generative Models and Parallel Transport**|Jingru Fu et.al.|[2502.21049](http://arxiv.org/abs/2502.21049)|null|
 |**2025-02-27**|**Multilingual research dissemination: Current practices and implications for bibliometrics**|Faizhal Arif Santosa et.al.|[2502.19663](http://arxiv.org/abs/2502.19663)|null|
 |**2025-02-26**|**3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer**|Hongkun Yu et.al.|[2502.19623](http://arxiv.org/abs/2502.19623)|null|
@@ -1861,6 +1888,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**PIDLoc: Cross-View Pose Optimization Network Inspired by PID Controllers**|Wooju Lee et.al.|[2503.02388](http://arxiv.org/abs/2503.02388)|null|
+|**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223](http://arxiv.org/abs/2503.02223)|null|
+|**2025-03-04**|**Zero-Shot Sim-to-Real Visual Quadrotor Control with Hard Constraints**|Yan Miao et.al.|[2503.02198](http://arxiv.org/abs/2503.02198)|null|
+|**2025-03-03**|**Constraint-Based Modeling of Dynamic Entities in 3D Scene Graphs for Robust SLAM**|Marco Giberna et.al.|[2503.02050](http://arxiv.org/abs/2503.02050)|null|
+|**2025-03-03**|**Category-level Meta-learned NeRF Priors for Efficient Object Mapping**|Saad Ejaz et.al.|[2503.01582](http://arxiv.org/abs/2503.01582)|null|
+|**2025-03-03**|**RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**|Shu Pan et.al.|[2503.01434](http://arxiv.org/abs/2503.01434)|null|
+|**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311](http://arxiv.org/abs/2503.01311)|null|
+|**2025-03-03**|**Convex Hull-based Algebraic Constraint for Visual Quadric SLAM**|Xiaolong Yu et.al.|[2503.01254](http://arxiv.org/abs/2503.01254)|**[link](https://github.com/tiev-tongji/convexhull-based-algebraic-constraint)**|
+|**2025-03-04**|**Floorplan-SLAM: A Real-Time, High-Accuracy, and Long-Term Multi-Session Point-Plane SLAM for Efficient Floorplan Reconstruction**|Haolin Wang et.al.|[2503.00397](http://arxiv.org/abs/2503.00397)|null|
+|**2025-03-01**|**BGM2Pose: Active 3D Human Pose Estimation with Non-Stationary Sounds**|Yuto Shibata et.al.|[2503.00389](http://arxiv.org/abs/2503.00389)|null|
 |**2025-02-28**|**BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports**|Jing-Yuan Chang et.al.|[2502.21085](http://arxiv.org/abs/2502.21085)|null|
 |**2025-02-28**|**Two-Stream Spatial-Temporal Transformer Framework for Person Identification via Natural Conversational Keypoints**|Masoumeh Chapariniya et.al.|[2502.20803](http://arxiv.org/abs/2502.20803)|null|
 |**2025-02-27**|**Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison**|Jiageng Zhong et.al.|[2502.20154](http://arxiv.org/abs/2502.20154)|null|
@@ -2905,6 +2942,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558](http://arxiv.org/abs/2503.02558)|null|
+|**2025-03-04**|**2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**|Qipeng Yan et.al.|[2503.02452](http://arxiv.org/abs/2503.02452)|null|
+|**2025-03-04**|**Empowering Sparse-Input Neural Radiance Fields with Dual-Level Semantic Guidance from Dense Novel Views**|Yingji Zhong et.al.|[2503.02230](http://arxiv.org/abs/2503.02230)|null|
+|**2025-03-04**|**Zero-Shot Sim-to-Real Visual Quadrotor Control with Hard Constraints**|Yan Miao et.al.|[2503.02198](http://arxiv.org/abs/2503.02198)|null|
+|**2025-03-03**|**Data Augmentation for NeRFs in the Low Data Limit**|Ayush Gaggar et.al.|[2503.02092](http://arxiv.org/abs/2503.02092)|null|
+|**2025-03-03**|**Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models**|Jay Zhangjie Wu et.al.|[2503.01774](http://arxiv.org/abs/2503.01774)|null|
+|**2025-03-03**|**Category-level Meta-learned NeRF Priors for Efficient Object Mapping**|Saad Ejaz et.al.|[2503.01582](http://arxiv.org/abs/2503.01582)|null|
+|**2025-03-03**|**LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**|Kaimin Liao et.al.|[2503.01199](http://arxiv.org/abs/2503.01199)|null|
+|**2025-03-02**|**DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing**|Youjia Wang et.al.|[2503.00887](http://arxiv.org/abs/2503.00887)|null|
+|**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370](http://arxiv.org/abs/2503.00370)|null|
 |**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930](http://arxiv.org/abs/2502.19930)|null|
 |**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873](http://arxiv.org/abs/2502.19873)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457](http://arxiv.org/abs/2502.19457)|null|
