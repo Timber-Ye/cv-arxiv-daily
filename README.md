@@ -732,9 +732,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Feature Matching Intervention: Leveraging Observational Data for Causal Representation Learning**|Haoze Li et.al.|[2503.03634](http://arxiv.org/abs/2503.03634)|null|
+|**2025-03-05**|**JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba**|Xiaoyong Lu et.al.|[2503.03437](http://arxiv.org/abs/2503.03437)|null|
 |**2025-03-04**|**HyperGCT: A Dynamic Hyper-GNN-Learned Geometric Constraint for 3D Registration**|Xiyu Zhang et.al.|[2503.02195](http://arxiv.org/abs/2503.02195)|null|
 |**2025-03-03**|**Robust Palm-Vein Recognition Using the MMD Filter: Improving SIFT-Based Feature Matching**|Kaveen Perera et.al.|[2503.01612](http://arxiv.org/abs/2503.01612)|null|
-|**2025-03-04**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202](http://arxiv.org/abs/2503.01202)|null|
+|**2025-03-05**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202](http://arxiv.org/abs/2503.01202)|null|
 |**2025-03-01**|**Solving Instance Detection from an Open-World Perspective**|Qianqian Shen et.al.|[2503.00359](http://arxiv.org/abs/2503.00359)|null|
 |**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
 |**2025-02-28**|**Improved 3D Point-Line Mapping Regression for Camera Relocalization**|Bach-Thuan Bui et.al.|[2502.20814](http://arxiv.org/abs/2502.20814)|**[link](https://github.com/ais-lab/pl2map)**|
@@ -1032,6 +1034,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation**|Débora N. P. Oliveira et.al.|[2503.03599](http://arxiv.org/abs/2503.03599)|null|
+|**2025-03-05**|**Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis**|Awais Nizamani et.al.|[2503.03132](http://arxiv.org/abs/2503.03132)|null|
 |**2025-03-04**|**Scene-based nonuniformity correction with homography transformation**|Peretz Yafin et.al.|[2503.02487](http://arxiv.org/abs/2503.02487)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
 |**2025-03-04**|**HyperGCT: A Dynamic Hyper-GNN-Learned Geometric Constraint for 3D Registration**|Xiyu Zhang et.al.|[2503.02195](http://arxiv.org/abs/2503.02195)|null|
@@ -1888,6 +1892,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Active 6D Pose Estimation for Textureless Objects using Multi-View RGB Frames**|Jun Yang et.al.|[2503.03726](http://arxiv.org/abs/2503.03726)|null|
+|**2025-03-05**|**Machine Learning in Biomechanics: Key Applications and Limitations in Walking, Running, and Sports Movements**|Carlo Dindorf et.al.|[2503.03717](http://arxiv.org/abs/2503.03717)|null|
+|**2025-03-05**|**Improving 6D Object Pose Estimation of metallic Household and Industry Objects**|Thomas Pöllabauer et.al.|[2503.03655](http://arxiv.org/abs/2503.03655)|null|
+|**2025-03-05**|**Tiny Lidars for Manipulator Self-Awareness: Sensor Characterization and Initial Localization Experiments**|Giammarco Caroleo et.al.|[2503.03449](http://arxiv.org/abs/2503.03449)|null|
+|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373](http://arxiv.org/abs/2503.03373)|null|
+|**2025-03-05**|**Supervised Visual Docking Network for Unmanned Surface Vehicles Using Auto-labeling in Real-world Water Environments**|Yijie Chu et.al.|[2503.03282](http://arxiv.org/abs/2503.03282)|null|
+|**2025-03-05**|**SCORE: Saturated Consensus Relocalization in Semantic Line Maps**|Haodong Jiang et.al.|[2503.03254](http://arxiv.org/abs/2503.03254)|null|
+|**2025-03-04**|**Monocular Person Localization under Camera Ego-motion**|Yu Zhan et.al.|[2503.02916](http://arxiv.org/abs/2503.02916)|null|
 |**2025-03-04**|**PIDLoc: Cross-View Pose Optimization Network Inspired by PID Controllers**|Wooju Lee et.al.|[2503.02388](http://arxiv.org/abs/2503.02388)|null|
 |**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223](http://arxiv.org/abs/2503.02223)|null|
 |**2025-03-04**|**Zero-Shot Sim-to-Real Visual Quadrotor Control with Hard Constraints**|Yan Miao et.al.|[2503.02198](http://arxiv.org/abs/2503.02198)|null|
@@ -2948,7 +2960,7 @@
 |**2025-03-04**|**Zero-Shot Sim-to-Real Visual Quadrotor Control with Hard Constraints**|Yan Miao et.al.|[2503.02198](http://arxiv.org/abs/2503.02198)|null|
 |**2025-03-03**|**Data Augmentation for NeRFs in the Low Data Limit**|Ayush Gaggar et.al.|[2503.02092](http://arxiv.org/abs/2503.02092)|null|
 |**2025-03-03**|**Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models**|Jay Zhangjie Wu et.al.|[2503.01774](http://arxiv.org/abs/2503.01774)|null|
-|**2025-03-03**|**Category-level Meta-learned NeRF Priors for Efficient Object Mapping**|Saad Ejaz et.al.|[2503.01582](http://arxiv.org/abs/2503.01582)|null|
+|**2025-03-05**|**Category-level Meta-learned NeRF Priors for Efficient Object Mapping**|Saad Ejaz et.al.|[2503.01582](http://arxiv.org/abs/2503.01582)|null|
 |**2025-03-03**|**LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**|Kaimin Liao et.al.|[2503.01199](http://arxiv.org/abs/2503.01199)|null|
 |**2025-03-02**|**DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing**|Youjia Wang et.al.|[2503.00887](http://arxiv.org/abs/2503.00887)|null|
 |**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370](http://arxiv.org/abs/2503.00370)|null|
