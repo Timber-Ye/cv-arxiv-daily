@@ -108,7 +108,7 @@
 |**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587](http://arxiv.org/abs/2501.14587)|null|
 |**2025-01-23**|**Revisiting CLIP: Efficient Alignment of 3D MRI and Tabular Data using Domain-Specific Foundation Models**|Jakob Krogh Petersen et.al.|[2501.14051](http://arxiv.org/abs/2501.14051)|**[link](https://github.com/jakekrogh/3d-clip-for-brain-mri)**|
 |**2025-01-22**|**Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**|Kenta Uesugi et.al.|[2501.13968](http://arxiv.org/abs/2501.13968)|null|
-|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|null|
+|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|**[link](https://github.com/facebookresearch/fast3r)**|
 |**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063](http://arxiv.org/abs/2501.11063)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
 |**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
@@ -831,7 +831,7 @@
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
 |**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421](http://arxiv.org/abs/2501.01421)|null|
 |**2025-01-02**|**Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**|Yulun Wu et.al.|[2501.01196](http://arxiv.org/abs/2501.01196)|null|
-|**2025-01-02**|**MalCL: Leveraging GAN-Based Generative Replay to Combat Catastrophic Forgetting in Malware Classification**|Jimin Park et.al.|[2501.01110](http://arxiv.org/abs/2501.01110)|null|
+|**2025-01-02**|**MalCL: Leveraging GAN-Based Generative Replay to Combat Catastrophic Forgetting in Malware Classification**|Jimin Park et.al.|[2501.01110](http://arxiv.org/abs/2501.01110)|**[link](https://github.com/malwarereplaygan/malcl)**|
 |**2024-12-31**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
 |**2024-12-27**|**Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models**|Shuo Wang et.al.|[2412.19449](http://arxiv.org/abs/2412.19449)|null|
 |**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
@@ -1127,7 +1127,7 @@
 |**2025-03-10**|**AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter**|Xupeng Xie et.al.|[2503.06891](http://arxiv.org/abs/2503.06891)|**[link](https://github.com/xpxie/akf-lio)**|
 |**2025-03-08**|**The AI Pentad, the CHARME $^{2}$ D Model, and an Assessment of Current-State AI Regulation**|Di Kevin Gao et.al.|[2503.06353](http://arxiv.org/abs/2503.06353)|null|
 |**2025-03-08**|**GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains**|Zixuan Liu et.al.|[2503.05991](http://arxiv.org/abs/2503.05991)|null|
-|**2025-03-07**|**New multimodal similarity measure for image registration via modeling local functional dependence with linear combination of learned basis functions**|Joel Honkamaa et.al.|[2503.05335](http://arxiv.org/abs/2503.05335)|null|
+|**2025-03-07**|**New multimodal similarity measure for image registration via modeling local functional dependence with linear combination of learned basis functions**|Joel Honkamaa et.al.|[2503.05335](http://arxiv.org/abs/2503.05335)|**[link](https://github.com/honkamj/locor)**|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|**[link](https://github.com/benbillot/spatial_regularisation)**|
 |**2025-03-07**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-03-05**|**Cryptographic Verifiability for Voter Registration Systems**|Andrés Fábrega et.al.|[2503.03974](http://arxiv.org/abs/2503.03974)|null|
@@ -2012,7 +2012,7 @@
 |**2025-03-14**|**Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses**|Qiuxia Lin et.al.|[2503.11194](http://arxiv.org/abs/2503.11194)|null|
 |**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020](http://arxiv.org/abs/2503.11020)|null|
 |**2025-03-13**|**Clothes-Changing Person Re-identification Based On Skeleton Dynamics**|Asaf Joseph et.al.|[2503.10759](http://arxiv.org/abs/2503.10759)|null|
-|**2025-03-13**|**Consistent multi-animal pose estimation in cattle using dynamic Kalman filter based tracking**|Maarten Perneel et.al.|[2503.10450](http://arxiv.org/abs/2503.10450)|null|
+|**2025-03-13**|**Consistent multi-animal pose estimation in cattle using dynamic Kalman filter based tracking**|Maarten Perneel et.al.|[2503.10450](http://arxiv.org/abs/2503.10450)|**[link](https://github.com/mperneel/Kantool)**|
 |**2025-03-13**|**6D Object Pose Tracking in Internet Videos for Robotic Manipulation**|Georgy Ponimatkin et.al.|[2503.10307](http://arxiv.org/abs/2503.10307)|null|
 |**2025-03-13**|**VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames**|Zhiqi Li et.al.|[2503.10286](http://arxiv.org/abs/2503.10286)|null|
 |**2025-03-12**|**Physics-Aware Human-Object Rendering from Sparse Views via 3D Gaussian Splatting**|Weiquan Wang et.al.|[2503.09640](http://arxiv.org/abs/2503.09640)|null|
@@ -2075,7 +2075,7 @@
 |**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495](http://arxiv.org/abs/2502.16495)|null|
 |**2025-02-23**|**DeProPose: Deficiency-Proof 3D Human Pose Estimation via Adaptive Multi-View Fusion**|Jianbin Jiao et.al.|[2502.16419](http://arxiv.org/abs/2502.16419)|**[link](https://github.com/wujinhuan/depropose)**|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
-|**2025-02-21**|**SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training**|Nie Lin et.al.|[2502.15251](http://arxiv.org/abs/2502.15251)|null|
+|**2025-02-21**|**SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training**|Nie Lin et.al.|[2502.15251](http://arxiv.org/abs/2502.15251)|**[link](https://github.com/ut-vision/simhand)**|
 |**2025-02-21**|**Nonlinear Dynamical Systems for Automatic Face Annotation in Head Tracking and Pose Estimation**|Thoa Thieu et.al.|[2502.15179](http://arxiv.org/abs/2502.15179)|null|
 |**2025-02-20**|**Design of a Visual Pose Estimation Algorithm for Moon Landing**|Atakan Süslü et.al.|[2502.14942](http://arxiv.org/abs/2502.14942)|null|
 |**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931](http://arxiv.org/abs/2502.14931)|null|
@@ -2125,7 +2125,7 @@
 |**2025-01-24**|**Optimizing Human Pose Estimation Through Focused Human and Joint Regions**|Yingying Jiao et.al.|[2501.14439](http://arxiv.org/abs/2501.14439)|null|
 |**2025-01-24**|**Causal-Inspired Multitask Learning for Video-Based Human Pose Estimation**|Haipeng Chen et.al.|[2501.14356](http://arxiv.org/abs/2501.14356)|null|
 |**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147](http://arxiv.org/abs/2501.14147)|null|
-|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|null|
+|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|**[link](https://github.com/facebookresearch/fast3r)**|
 |**2025-01-23**|**EgoHand: Ego-centric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMUs**|Yizhe Lv et.al.|[2501.13805](http://arxiv.org/abs/2501.13805)|**[link](https://github.com/whisperyi/mmvr)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Deep Learning-Based Image Recovery and Pose Estimation for Resident Space Objects**|Louis Aberdeen et.al.|[2501.13009](http://arxiv.org/abs/2501.13009)|null|
@@ -3512,7 +3512,7 @@
 |**2024-06-19**|**Freq-Mip-AA : Frequency Mip Representation for Anti-Aliasing Neural Radiance Fields**|Youngin Park et.al.|[2406.13251](http://arxiv.org/abs/2406.13251)|**[link](https://github.com/yi0109/freqmipaa)**|
 |**2024-06-18**|**Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models**|Paul Henderson et.al.|[2406.13099](http://arxiv.org/abs/2406.13099)|null|
 |**2024-06-18**|**Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings**|Ruijie Tang et.al.|[2406.13048](http://arxiv.org/abs/2406.13048)|null|
-|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|null|
+|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|**[link](https://github.com/kmk97/fast-loc-nerf)**|
 |**2024-06-20**|**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**|Bo Sun et.al.|[2406.12121](http://arxiv.org/abs/2406.12121)|null|
 |**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095](http://arxiv.org/abs/2406.12095)|null|
 |**2024-06-17**|**Uncertainty modeling for fine-tuned implicit functions**|Anna Susmelj et.al.|[2406.12082](http://arxiv.org/abs/2406.12082)|null|
@@ -3899,7 +3899,7 @@
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
 |**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|**[link](https://github.com/minghanqin/LangSplat)**|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
-|**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|null|
+|**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|**[link](https://github.com/lu-zhan/pano-nerf)**|
 |**2023-12-23**|**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**|Mingwei Li et.al.|[2312.15258](http://arxiv.org/abs/2312.15258)|**[link](https://github.com/longxiang-ai/human101)**|
 |**2023-12-23**|**Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**|Chen Yang et.al.|[2312.15253](http://arxiv.org/abs/2312.15253)|**[link](https://github.com/loping151/forplane)**|
 |**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242](http://arxiv.org/abs/2312.15242)|null|
