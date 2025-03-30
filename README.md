@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.29
+## Updated on 2025.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -656,7 +656,7 @@
 |**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|**[link](https://github.com/yuleiqin/capro)**|
 |**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|**[link](https://github.com/ydwen/opensphere/blob/main/opensphere/module/head/simple.py)**|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -783,7 +783,7 @@
 |**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563](http://arxiv.org/abs/2309.09563)|null|
 |**2023-09-17**|**CryoAlign: feature-based method for global and local 3D alignment of EM density maps**|Bintao He et.al.|[2309.09217](http://arxiv.org/abs/2309.09217)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1118,7 +1118,7 @@
 |**2023-10-05**|**Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation**|Kashu Yamazaki et.al.|[2310.03923](http://arxiv.org/abs/2310.03923)|**[link](https://github.com/UARK-AICV/OpenFusion)**|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420](http://arxiv.org/abs/2310.03420)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Registration
 
@@ -1131,7 +1131,7 @@
 |**2025-03-26**|**UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift**|Antoine Schieb et.al.|[2503.20653](http://arxiv.org/abs/2503.20653)|null|
 |**2025-03-26**|**Robust Flower Cluster Matching Using The Unscented Transform**|Andy Chu et.al.|[2503.20631](http://arxiv.org/abs/2503.20631)|null|
 |**2025-03-25**|**QuCOOP: A Versatile Framework for Solving Composite and Binary-Parametrised Problems on Quantum Annealers**|Natacha Kuete Meli et.al.|[2503.19718](http://arxiv.org/abs/2503.19718)|null|
-|**2025-03-25**|**SACB-Net: Spatial-awareness Convolutions for Medical Image Registration**|Xinxing Cheng et.al.|[2503.19592](http://arxiv.org/abs/2503.19592)|null|
+|**2025-03-25**|**SACB-Net: Spatial-awareness Convolutions for Medical Image Registration**|Xinxing Cheng et.al.|[2503.19592](http://arxiv.org/abs/2503.19592)|**[link](https://github.com/x-xc/sacb_net)**|
 |**2025-03-24**|**Panorama Generation From NFoV Image Done Right**|Dian Zheng et.al.|[2503.18420](http://arxiv.org/abs/2503.18420)|**[link](https://github.com/isee-laboratory/panodecouple)**|
 |**2025-03-23**|**Clarifying Misconceptions in COVID-19 Vaccine Sentiment and Stance Analysis and Their Implications for Vaccine Hesitancy Mitigation: A Systematic Review**|Lorena G Barberia et.al.|[2503.18095](http://arxiv.org/abs/2503.18095)|null|
 |**2025-03-22**|**MAMAT: 3D Mamba-Based Atmospheric Turbulence Removal and its Object Detection Capability**|Paul Hill et.al.|[2503.17700](http://arxiv.org/abs/2503.17700)|null|
@@ -2033,7 +2033,7 @@
 |**2023-10-17**|**NP-RDMA: Using Commodity RDMA without Pinning Memory**|Huijun Shen et.al.|[2310.11062](http://arxiv.org/abs/2310.11062)|null|
 |**2023-10-19**|**Co-Learning Semantic-aware Unsupervised Segmentation for Pathological Image Registration**|Yang Liu et.al.|[2310.11040](http://arxiv.org/abs/2310.11040)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Pose Estimation
 
@@ -3172,7 +3172,7 @@
 |**2023-10-17**|**Holistic Parking Slot Detection with Polygon-Shaped Representations**|Lihao Wang et.al.|[2310.11629](http://arxiv.org/abs/2310.11629)|null|
 |**2023-10-17**|**Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication**|Chelsey Edge et.al.|[2310.11536](http://arxiv.org/abs/2310.11536)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## NeRF
 
@@ -4180,7 +4180,7 @@
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
 |**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|**[link](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
