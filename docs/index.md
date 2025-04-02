@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1140,7 +1140,7 @@ layout: default
 |**2025-03-31**|**Scenarios for the Deployment of Automated Vehicles in Europe**|Louison Duboz et.al.|[2503.23914](http://arxiv.org/abs/2503.23914)|null|
 |**2025-03-30**|**GMapLatent: Geometric Mapping in Latent Space**|Wei Zeng et.al.|[2503.23407](http://arxiv.org/abs/2503.23407)|null|
 |**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199](http://arxiv.org/abs/2503.23199)|null|
-|**2025-03-29**|**OncoReg: Medical Image Registration for Oncological Challenges**|Wiebke Heyer et.al.|[2503.23179](http://arxiv.org/abs/2503.23179)|null|
+|**2025-04-01**|**OncoReg: Medical Image Registration for Oncological Challenges**|Wiebke Heyer et.al.|[2503.23179](http://arxiv.org/abs/2503.23179)|null|
 |**2025-03-28**|**Divide to Conquer: A Field Decomposition Approach for Multi-Organ Whole-Body CT Image Registration**|Xuan Loc Pham et.al.|[2503.22281](http://arxiv.org/abs/2503.22281)|null|
 |**2025-03-28**|**3D Acetabular Surface Reconstruction from 2D Pre-operative X-ray Images using SRVF Elastic Registration and Deformation Graph**|Shuai Zhang et.al.|[2503.22177](http://arxiv.org/abs/2503.22177)|null|
 |**2025-03-26**|**Implicit neural representations for end-to-end PET reconstruction**|Younès Moussaoui et.al.|[2503.21825](http://arxiv.org/abs/2503.21825)|null|
@@ -3210,7 +3210,7 @@ layout: default
 |**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958](http://arxiv.org/abs/2503.21958)|null|
 |**2025-03-27**|**Refined Geometry-guided Head Avatar Reconstruction from Monocular RGB Video**|Pilseo Park et.al.|[2503.21886](http://arxiv.org/abs/2503.21886)|null|
 |**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778](http://arxiv.org/abs/2503.21778)|null|
-|**2025-03-27**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442](http://arxiv.org/abs/2503.21442)|null|
+|**2025-04-01**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442](http://arxiv.org/abs/2503.21442)|null|
 |**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|**[link](https://github.com/internlandmark/landmarksystem)**|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338](http://arxiv.org/abs/2503.21338)|**[link](https://github.com/nubot-nudt/ugna-vpr)**|
 |**2025-03-25**|**CoMapGS: Covisibility Map-based Gaussian Splatting for Sparse Novel View Synthesis**|Youngkyoon Jang et.al.|[2503.20998](http://arxiv.org/abs/2503.20998)|null|
