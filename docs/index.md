@@ -26,6 +26,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
+|**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
@@ -801,7 +803,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-02**|**CoMatcher: Multi-View Collaborative Feature Matching**|Jintao Zhang et.al.|[2504.01872](http://arxiv.org/abs/2504.01872)|null|
 |**2025-04-02**|**v-CLR: View-Consistent Learning for Open-World Instance Segmentation**|Chang-Bin Zhang et.al.|[2504.01383](http://arxiv.org/abs/2504.01383)|null|
-|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|null|
+|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|**[link](https://github.com/aerialroboticsgroup/forest-vo)**|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-04-01**|**ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving with Multi-modal Inputs**|Qi Song et.al.|[2504.00437](http://arxiv.org/abs/2504.00437)|null|
 |**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139](http://arxiv.org/abs/2504.00139)|null|
@@ -1145,9 +1147,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**CaLiV: LiDAR-to-Vehicle Calibration of Arbitrary Sensor Setups via Object Reconstruction**|Ilir Tahiraj et.al.|[2504.01987](http://arxiv.org/abs/2504.01987)|null|
 |**2025-04-02**|**Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment**|Zhixin Cheng et.al.|[2504.01641](http://arxiv.org/abs/2504.01641)|null|
 |**2025-04-01**|**Performance Analysis, Lessons Learned and Practical Advice for a 6G Inter-Provider DApp on the Ethereum Blockchain**|Farhana Javed et.al.|[2504.00555](http://arxiv.org/abs/2504.00555)|null|
-|**2025-03-31**|**IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration**|Valentin Boussot et.al.|[2503.24121](http://arxiv.org/abs/2503.24121)|**[link](https://github.com/vboussot/impactloss)**|
+|**2025-04-03**|**IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration**|Valentin Boussot et.al.|[2503.24121](http://arxiv.org/abs/2503.24121)|**[link](https://github.com/vboussot/impactloss)**|
 |**2025-03-31**|**Systematic Search for FFPs in KMTNet Full-Frame Images. I. Photometry Pipeline**|Qiyue Qian et.al.|[2503.24097](http://arxiv.org/abs/2503.24097)|null|
 |**2025-03-31**|**Scenarios for the Deployment of Automated Vehicles in Europe**|Louison Duboz et.al.|[2503.23914](http://arxiv.org/abs/2503.23914)|null|
 |**2025-03-30**|**GMapLatent: Geometric Mapping in Latent Space**|Wei Zeng et.al.|[2503.23407](http://arxiv.org/abs/2503.23407)|null|
@@ -2069,13 +2072,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812](http://arxiv.org/abs/2504.02812)|null|
+|**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617](http://arxiv.org/abs/2504.02617)|null|
 |**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764](http://arxiv.org/abs/2504.01764)|null|
-|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|null|
+|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|**[link](https://github.com/aerialroboticsgroup/forest-vo)**|
 |**2025-04-01**|**AP-CAP: Advancing High-Quality Data Synthesis for Animal Pose Estimation via a Controllable Image Generation Pipeline**|Lei Wang et.al.|[2504.00394](http://arxiv.org/abs/2504.00394)|null|
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/abs/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|
 |**2025-03-31**|**LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**|Masahiko Tsuji et.al.|[2503.23664](http://arxiv.org/abs/2503.23664)|null|
 |**2025-03-30**|**PhysPose: Refining 6D Object Poses with Physical Constraints**|Martin Malenický et.al.|[2503.23587](http://arxiv.org/abs/2503.23587)|null|
-|**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480](http://arxiv.org/abs/2503.23480)|null|
+|**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480](http://arxiv.org/abs/2503.23480)|**[link](https://github.com/prbonn/enm-mcl)**|
 |**2025-03-30**|**SparseLoc: Sparse Open-Set Landmark-based Global Localization for Autonomous Navigation**|Pranjal Paul et.al.|[2503.23465](http://arxiv.org/abs/2503.23465)|null|
 |**2025-03-30**|**HiPART: Hierarchical Pose AutoRegressive Transformer for Occluded 3D Human Pose Estimation**|Hongwei Zheng et.al.|[2503.23331](http://arxiv.org/abs/2503.23331)|null|
 |**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199](http://arxiv.org/abs/2503.23199)|null|
@@ -3219,6 +3224,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields**|Yash Kulthe et.al.|[2504.02517](http://arxiv.org/abs/2504.02517)|null|
+|**2025-04-03**|**LPA3D: 3D Room-Level Scene Generation from In-the-Wild Images**|Ming-Jia Yang et.al.|[2504.02337](http://arxiv.org/abs/2504.02337)|null|
+|**2025-04-01**|**OccludeNeRF: Geometric-aware 3D Scene Inpainting with Collaborative Score Distillation in NeRF**|Jingyu Shi et.al.|[2504.02007](http://arxiv.org/abs/2504.02007)|null|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960](http://arxiv.org/abs/2504.01960)|null|
 |**2025-04-02**|**BOGausS: Better Optimized Gaussian Splatting**|Stéphane Pateux et.al.|[2504.01844](http://arxiv.org/abs/2504.01844)|null|
 |**2025-04-02**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732](http://arxiv.org/abs/2504.01732)|null|
