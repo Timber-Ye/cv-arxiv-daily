@@ -46,14 +46,14 @@ layout: default
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
 |**2025-03-25**|**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|null|
-|**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|null|
+|**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|**[link](https://github.com/ZiChao111/FTI4CIR)**|
 |**2025-03-23**|**LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space**|Zhangyu Wang et.al.|[2503.18142](http://arxiv.org/abs/2503.18142)|null|
 |**2025-03-23**|**Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**|Xiang Fang et.al.|[2503.17938](http://arxiv.org/abs/2503.17938)|null|
 |**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899](http://arxiv.org/abs/2503.17899)|null|
 |**2025-03-22**|**good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval**|Pranavi Kolouju et.al.|[2503.17871](http://arxiv.org/abs/2503.17871)|null|
 |**2025-03-22**|**LightLoc: Learning Outdoor LiDAR Localization at Light Speed**|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|**[link](https://github.com/liw95/lightloc)**|
 |**2025-03-21**|**Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image**|Jerred Chen et.al.|[2503.17358](http://arxiv.org/abs/2503.17358)|null|
-|**2025-03-21**|**Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2503.17109](http://arxiv.org/abs/2503.17109)|null|
+|**2025-03-21**|**Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2503.17109](http://arxiv.org/abs/2503.17109)|**[link](https://github.com/pter61/predicir)**|
 |**2025-03-21**|**Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**|Muhua Zhang et.al.|[2503.17005](http://arxiv.org/abs/2503.17005)|null|
 |**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
 |**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|**[link](https://github.com/PaulSK98/Nerf2Dataset)**|
@@ -154,7 +154,7 @@ layout: default
 |**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841](http://arxiv.org/abs/2501.02841)|null|
 |**2025-01-03**|**A Minimal Subset Approach for Efficient and Scalable Loop Closure**|Nikolaos Stathoulopoulos et.al.|[2501.01791](http://arxiv.org/abs/2501.01791)|**[link](https://github.com/ltu-rai/opt-key)**|
 |**2025-01-03**|**iCBIR-Sli: Interpretable Content-Based Image Retrieval with 2D Slice Embeddings**|Shuhei Tomoshige et.al.|[2501.01642](http://arxiv.org/abs/2501.01642)|null|
-|**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421](http://arxiv.org/abs/2501.01421)|null|
+|**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421](http://arxiv.org/abs/2501.01421)|**[link](https://github.com/cvg/scrstudio)**|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377](http://arxiv.org/abs/2501.01377)|null|
 |**2025-01-02**|**Domain-invariant feature learning in brain MR imaging for content-based image retrieval**|Shuya Tobari et.al.|[2501.01326](http://arxiv.org/abs/2501.01326)|null|
@@ -641,7 +641,7 @@ layout: default
 |**2023-11-19**|**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**|Ameya Prabhu et.al.|[2311.11293](http://arxiv.org/abs/2311.11293)|null|
 |**2023-11-18**|**Lesion Search with Self-supervised Learning**|Kristin Qi et.al.|[2311.11014](http://arxiv.org/abs/2311.11014)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076](http://arxiv.org/abs/2311.09076)|null|
-|**2023-11-15**|**Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|null|
+|**2023-11-15**|**Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|**[link](https://github.com/Chen-Junyang-cn/PLI)**|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
 |**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
@@ -885,7 +885,7 @@ layout: default
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method**|Wenping Jin et.al.|[2501.07496](http://arxiv.org/abs/2501.07496)|**[link](https://github.com/xjpp2016/mavd)**|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
-|**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421](http://arxiv.org/abs/2501.01421)|null|
+|**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421](http://arxiv.org/abs/2501.01421)|**[link](https://github.com/cvg/scrstudio)**|
 |**2025-01-02**|**Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**|Yulun Wu et.al.|[2501.01196](http://arxiv.org/abs/2501.01196)|null|
 |**2025-01-02**|**MalCL: Leveraging GAN-Based Generative Replay to Combat Catastrophic Forgetting in Malware Classification**|Jimin Park et.al.|[2501.01110](http://arxiv.org/abs/2501.01110)|**[link](https://github.com/malwarereplaygan/malcl)**|
 |**2024-12-31**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
@@ -1723,7 +1723,7 @@ layout: default
 |**2024-05-29**|**Learning Diffeomorphism for Image Registration with Time-Continuous Networks using Semigroup Regularization**|Mohammadjavad Matinkia et.al.|[2405.18684](http://arxiv.org/abs/2405.18684)|**[link](https://github.com/mattkia/SGDIR)**|
 |**2024-05-27**|**A Patient-Specific Framework for Autonomous Spinal Fixation via a Steerable Drilling Robot**|Susheela Sharma et.al.|[2405.17606](http://arxiv.org/abs/2405.17606)|null|
 |**2024-05-27**|**Assessment of Left Atrium Motion Deformation Through Full Cardiac Cycle**|Abdul Qayyum et.al.|[2405.17518](http://arxiv.org/abs/2405.17518)|null|
-|**2024-05-28**|**CARL: A Framework for Equivariant Image Registration**|Hastings Greer et.al.|[2405.16738](http://arxiv.org/abs/2405.16738)|null|
+|**2024-05-28**|**CARL: A Framework for Equivariant Image Registration**|Hastings Greer et.al.|[2405.16738](http://arxiv.org/abs/2405.16738)|**[link](https://github.com/uncbiag/equivariant_reg_2)**|
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085](http://arxiv.org/abs/2405.16085)|null|
 |**2024-05-24**|**An iterative closest point algorithm for marker-free 3D shape registration of continuum robots**|Matthias K. Hoffmann et.al.|[2405.15336](http://arxiv.org/abs/2405.15336)|**[link](https://github.com/mkhoffmann/icpreconstructor)**|
 |**2024-05-23**|**A New Method in Facial Registration in Clinics Based on Structure Light Images**|Pengfei Li et.al.|[2405.14292](http://arxiv.org/abs/2405.14292)|null|
@@ -1983,7 +1983,7 @@ layout: default
 |**2023-12-08**|**TMID: A Comprehensive Real-world Dataset for Trademark Infringement Detection in E-Commerce**|Tongxin Hu et.al.|[2312.05103](http://arxiv.org/abs/2312.05103)|**[link](https://github.com/emnlptmid/emnlptmid.github.io)**|
 |**2023-12-07**|**Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching**|Junsheng Zhou et.al.|[2312.04060](http://arxiv.org/abs/2312.04060)|**[link](https://github.com/junshengzhou/vp2p-match)**|
 |**2023-12-05**|**Deformable Registration of MRA Images with 4D Flow Images to Facilitate Accurate Estimation of Flow Properties within Blood Vessels**|Dan U. Lior et.al.|[2312.03116](http://arxiv.org/abs/2312.03116)|null|
-|**2023-12-05**|**DiffusionPCR: Diffusion Models for Robust Multi-Step Point Cloud Registration**|Zhi Chen et.al.|[2312.03053](http://arxiv.org/abs/2312.03053)|null|
+|**2023-12-05**|**DiffusionPCR: Diffusion Models for Robust Multi-Step Point Cloud Registration**|Zhi Chen et.al.|[2312.03053](http://arxiv.org/abs/2312.03053)|**[link](https://github.com/zhichen902/amr)**|
 |**2023-12-08**|**Zero-Shot Point Cloud Registration**|Weijie Wang et.al.|[2312.03032](http://arxiv.org/abs/2312.03032)|null|
 |**2023-12-05**|**A Dynamic Network for Efficient Point Cloud Registration**|Yang Ai et.al.|[2312.02877](http://arxiv.org/abs/2312.02877)|null|
 |**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|**[link](https://github.com/kulunuos/6dapose)**|
@@ -2096,7 +2096,7 @@ layout: default
 |**2025-03-27**|**Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation**|Junjie Chen et.al.|[2503.21140](http://arxiv.org/abs/2503.21140)|**[link](https://github.com/chenbys/fmmp)**|
 |**2025-03-26**|**DINeMo: Learning Neural Mesh Models with no 3D Annotations**|Weijie Guo et.al.|[2503.20220](http://arxiv.org/abs/2503.20220)|null|
 |**2025-03-25**|**Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors**|Yuke Lou et.al.|[2503.20118](http://arxiv.org/abs/2503.20118)|null|
-|**2025-03-25**|**Vanishing Depth: A Depth Adapter with Positional Depth Encoding for Generalized Image Encoders**|Paul Koch et.al.|[2503.19947](http://arxiv.org/abs/2503.19947)|null|
+|**2025-03-25**|**Vanishing Depth: A Depth Adapter with Positional Depth Encoding for Generalized Image Encoders**|Paul Koch et.al.|[2503.19947](http://arxiv.org/abs/2503.19947)|**[link](https://github.com/KochPJ/vanishing-depth)**|
 |**2025-03-25**|**Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing**|Lukas Mack et.al.|[2503.19893](http://arxiv.org/abs/2503.19893)|null|
 |**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713](http://arxiv.org/abs/2503.19713)|**[link](https://github.com/xieyuser/semi-sd)**|
 |**2025-03-25**|**DynOPETs: A Versatile Benchmark for Dynamic Object Pose Estimation and Tracking in Moving Camera Scenarios**|Xiangting Meng et.al.|[2503.19625](http://arxiv.org/abs/2503.19625)|null|
@@ -3260,7 +3260,7 @@ layout: default
 |**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095](http://arxiv.org/abs/2503.17095)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
 |**2025-03-20**|**Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data**|Esther Y. H. Lin et.al.|[2503.16742](http://arxiv.org/abs/2503.16742)|null|
-|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|null|
+|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|**[link](https://github.com/JiatongXia/Pseudo-Labeling)**|
 |**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
 |**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|**[link](https://github.com/freedomgu/diffportrait360)**|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
