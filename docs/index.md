@@ -26,6 +26,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
+|**2025-04-16**|**Regist3R: Incremental Registration with Stereo Foundation Model**|Sidun Liu et.al.|[2504.12356](http://arxiv.org/abs/2504.12356)|null|
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|null|
 |**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
@@ -826,7 +828,7 @@ layout: default
 |**2025-04-16**|**Search is All You Need for Few-shot Anomaly Detection**|Qishan Wang et.al.|[2504.11895](http://arxiv.org/abs/2504.11895)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
-|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
+|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
 |**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|**[link](https://github.com/stilcrad/denseaffine)**|
 |**2025-04-06**|**SELC: Self-Supervised Efficient Local Correspondence Learning for Low Quality Images**|Yuqing Wang et.al.|[2504.04497](http://arxiv.org/abs/2504.04497)|null|
 |**2025-04-02**|**CoMatcher: Multi-View Collaborative Feature Matching**|Jintao Zhang et.al.|[2504.01872](http://arxiv.org/abs/2504.01872)|null|
@@ -1175,6 +1177,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**SC3EF: A Joint Self-Correlation and Cross-Correspondence Estimation Framework for Visible and Thermal Image Registration**|Xi Tong et.al.|[2504.12869](http://arxiv.org/abs/2504.12869)|null|
+|**2025-04-17**|**Computer-Aided Design of Personalized Occlusal Positioning Splints Using Multimodal 3D Data**|Agnieszka Anna Tomaka et.al.|[2504.12868](http://arxiv.org/abs/2504.12868)|null|
+|**2025-04-16**|**Regist3R: Incremental Registration with Stereo Foundation Model**|Sidun Liu et.al.|[2504.12356](http://arxiv.org/abs/2504.12356)|null|
 |**2025-04-16**|**Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration**|Xiaojian Chen et.al.|[2504.12265](http://arxiv.org/abs/2504.12265)|null|
 |**2025-04-16**|**A Category-Fragment Segmentation Framework for Pelvic Fracture Segmentation in X-ray Images**|Daiqi Liu et.al.|[2504.11872](http://arxiv.org/abs/2504.11872)|null|
 |**2025-04-15**|**Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach**|Xiaoxiao Ma et.al.|[2504.11262](http://arxiv.org/abs/2504.11262)|null|
@@ -2124,6 +2129,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation**|Hongyu Li et.al.|[2504.13179](http://arxiv.org/abs/2504.13179)|null|
+|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
+|**2025-04-17**|**Unsupervised Cross-Domain 3D Human Pose Estimation via Pseudo-Label-Guided Global Transforms**|Jingjing Liu et.al.|[2504.12699](http://arxiv.org/abs/2504.12699)|null|
+|**2025-04-16**|**MobilePoser: Real-Time Full-Body Pose Estimation and 3D Human Translation from IMUs in Mobile Consumer Devices**|Vasco Xu et.al.|[2504.12492](http://arxiv.org/abs/2504.12492)|null|
+|**2025-04-16**|**Diffusion Based Robust LiDAR Place Recognition**|Benjamin Krummenacher et.al.|[2504.12412](http://arxiv.org/abs/2504.12412)|null|
+|**2025-04-16**|**Regist3R: Incremental Registration with Stereo Foundation Model**|Sidun Liu et.al.|[2504.12356](http://arxiv.org/abs/2504.12356)|null|
 |**2025-04-16**|**CoMotion: Concurrent Multi-person 3D Motion**|Alejandro Newell et.al.|[2504.12186](http://arxiv.org/abs/2504.12186)|null|
 |**2025-04-16**|**No Fuss, Just Function -- A Proposal for Non-Intrusive Full Body Tracking in XR for Meaningful Spatial Interactions**|Elisabeth Mayer et.al.|[2504.11987](http://arxiv.org/abs/2504.11987)|null|
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698](http://arxiv.org/abs/2504.11698)|null|
@@ -3312,6 +3323,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878](http://arxiv.org/abs/2504.09878)|null|
