@@ -1238,7 +1238,7 @@
 |**2025-04-30**|**Redundancy Analysis and Mitigation for Machine Learning-Based Process Monitoring of Additive Manufacturing**|Jiarui Xie et.al.|[2504.21317](http://arxiv.org/abs/2504.21317)|null|
 |**2025-04-29**|**Multi-Sensor Fusion for Quadruped Robot State Estimation using Invariant Filtering and Smoothing**|Ylenia Nisticò et.al.|[2504.20615](http://arxiv.org/abs/2504.20615)|null|
 |**2025-04-29**|**SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation**|Jia Wang et.al.|[2504.20501](http://arxiv.org/abs/2504.20501)|null|
-|**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339](http://arxiv.org/abs/2504.20339)|null|
+|**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339](http://arxiv.org/abs/2504.20339)|**[link](https://github.com/utiasasrl/dro)**|
 |**2025-04-25**|**Navigating through Educational Pathways to Political Participation: A Multi-theoretical Exploration of Voting Behaviors**|Muhammad Hassan Bin Afzal et.al.|[2504.20085](http://arxiv.org/abs/2504.20085)|null|
 |**2025-04-28**|**Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach**|Vineeth Sai Narajala et.al.|[2504.19951](http://arxiv.org/abs/2504.19951)|null|
 |**2025-04-28**|**Accelerated 3D-3D rigid registration of echocardiographic images obtained from apical window using particle filter**|Thanuja Uruththirakodeeswaran et.al.|[2504.19930](http://arxiv.org/abs/2504.19930)|null|
@@ -1253,14 +1253,14 @@
 |**2025-04-21**|**High-Precision and Wafer-Scale Transfer Lithography of Commercial Photoresists via Reversible Adhesion for Sustainable Microfabrication on Diverse Substrates**|Qinhua Guo et.al.|[2504.15078](http://arxiv.org/abs/2504.15078)|null|
 |**2025-04-20**|**NTIRE 2025 Challenge on Real-World Face Restoration: Methods and Results**|Zheng Chen et.al.|[2504.14600](http://arxiv.org/abs/2504.14600)|**[link](https://github.com/zhengchen1999/ntire2025_realworld_face_restoration)**|
 |**2025-04-20**|**SG-Reg: Generalizable and Efficient Scene Graph Registration**|Chuhao Liu et.al.|[2504.14440](http://arxiv.org/abs/2504.14440)|**[link](https://github.com/hkust-aerial-robotics/sg-reg)**|
-|**2025-04-22**|**Planet as a Brain: Towards Internet of AgentSites based on AIOS Server**|Xiang Zhang et.al.|[2504.14411](http://arxiv.org/abs/2504.14411)|null|
+|**2025-04-22**|**Planet as a Brain: Towards Internet of AgentSites based on AIOS Server**|Xiang Zhang et.al.|[2504.14411](http://arxiv.org/abs/2504.14411)|**[link](https://github.com/agiresearch/aios)**|
 |**2025-04-19**|**Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation**|Yitao Zhao et.al.|[2504.14306](http://arxiv.org/abs/2504.14306)|null|
 |**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song et.al.|[2504.13803](http://arxiv.org/abs/2504.13803)|null|
 |**2025-04-17**|**SC3EF: A Joint Self-Correlation and Cross-Correspondence Estimation Framework for Visible and Thermal Image Registration**|Xi Tong et.al.|[2504.12869](http://arxiv.org/abs/2504.12869)|null|
 |**2025-04-17**|**Computer-Aided Design of Personalized Occlusal Positioning Splints Using Multimodal 3D Data**|Agnieszka Anna Tomaka et.al.|[2504.12868](http://arxiv.org/abs/2504.12868)|null|
 |**2025-04-16**|**Regist3R: Incremental Registration with Stereo Foundation Model**|Sidun Liu et.al.|[2504.12356](http://arxiv.org/abs/2504.12356)|null|
 |**2025-04-16**|**Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration**|Xiaojian Chen et.al.|[2504.12265](http://arxiv.org/abs/2504.12265)|**[link](https://github.com/junyuchen245/correlation_ratio)**|
-|**2025-04-16**|**A Category-Fragment Segmentation Framework for Pelvic Fracture Segmentation in X-ray Images**|Daiqi Liu et.al.|[2504.11872](http://arxiv.org/abs/2504.11872)|null|
+|**2025-04-16**|**A Category-Fragment Segmentation Framework for Pelvic Fracture Segmentation in X-ray Images**|Daiqi Liu et.al.|[2504.11872](http://arxiv.org/abs/2504.11872)|**[link](https://github.com/dae-plz/cfssegnet)**|
 |**2025-04-15**|**Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach**|Xiaoxiao Ma et.al.|[2504.11262](http://arxiv.org/abs/2504.11262)|null|
 |**2025-04-13**|**Capturing Longitudinal Changes in Brain Morphology Using Temporally Parameterized Neural Displacement Fields**|Aisha L. Shuaibu et.al.|[2504.09514](http://arxiv.org/abs/2504.09514)|null|
 |**2025-04-13**|**EasyREG: Easy Depth-Based Markerless Registration and Tracking using Augmented Reality Device for Surgical Guidance**|Yue Yang et.al.|[2504.09498](http://arxiv.org/abs/2504.09498)|null|
@@ -1792,7 +1792,7 @@
 |**2024-07-06**|**Incremental Multiview Point Cloud Registration**|Xiaoya Cheng et.al.|[2407.05021](http://arxiv.org/abs/2407.05021)|**[link](https://github.com/choyaa/incremvr)**|
 |**2024-07-05**|**Data-Driven Tissue- and Subject-Specific Elastic Regularization for Medical Image Registration**|Anna Reithmeir et.al.|[2407.04355](http://arxiv.org/abs/2407.04355)|**[link](https://github.com/compai-lab/2024-miccai-reithmeir)**|
 |**2024-07-04**|**Performance of Medical Image Fusion in High-level Analysis Tasks: A Mutual Enhancement Framework for Unaligned PAT and MRI Image Fusion**|Yutian Zhong et.al.|[2407.03992](http://arxiv.org/abs/2407.03992)|**[link](https://github.com/zhongniuniu/PAMRFuse-plus)**|
-|**2024-07-09**|**POLAFFINI: Efficient feature-based polyaffine initialization for improved non-linear image registration**|Antoine Legouhy et.al.|[2407.03922](http://arxiv.org/abs/2407.03922)|null|
+|**2024-07-09**|**POLAFFINI: Efficient feature-based polyaffine initialization for improved non-linear image registration**|Antoine Legouhy et.al.|[2407.03922](http://arxiv.org/abs/2407.03922)|**[link](https://github.com/CIG-UCL/polaffini)**|
 |**2024-07-03**|**Physics-informed motion registration of lung parenchyma across static CT images**|Sunder Neelakantan et.al.|[2407.03457](http://arxiv.org/abs/2407.03457)|null|
 |**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292](http://arxiv.org/abs/2407.03292)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 |**2024-07-03**|**3D Multimodal Image Registration for Plant Phenotyping**|Eric Stumpe et.al.|[2407.02946](http://arxiv.org/abs/2407.02946)|**[link](https://github.com/eric-stumpe/plant3dimagereg)**|
@@ -1833,7 +1833,7 @@
 |**2024-06-14**|**A lightweight residual network for unsupervised deformable image registration**|Ahsan Raza Siyal et.al.|[2406.09774](http://arxiv.org/abs/2406.09774)|null|
 |**2024-06-13**|**Towards AI Lesion Tracking in PET/CT Imaging: A Siamese-based CNN Pipeline applied on PSMA PET/CT Scans**|Stefan P. Hein et.al.|[2406.09327](http://arxiv.org/abs/2406.09327)|null|
 |**2024-06-13**|**Few-Shot Anomaly Detection via Category-Agnostic Registration Learning**|Chaoqin Huang et.al.|[2406.08810](http://arxiv.org/abs/2406.08810)|**[link](https://github.com/haoyan-guan/careg)**|
-|**2024-06-11**|**Deep Implicit Optimization for Robust and Flexible Image Registration**|Rohit Jena et.al.|[2406.07361](http://arxiv.org/abs/2406.07361)|null|
+|**2024-06-11**|**Deep Implicit Optimization for Robust and Flexible Image Registration**|Rohit Jena et.al.|[2406.07361](http://arxiv.org/abs/2406.07361)|**[link](https://github.com/rohitrango/dio)**|
 |**2024-06-11**|**Unified Modeling Enhanced Multimodal Learning for Precision Neuro-Oncology**|Huahui Yi et.al.|[2406.07078](http://arxiv.org/abs/2406.07078)|**[link](https://github.com/huahuiyi/mmdp)**|
 |**2024-06-10**|**Classical Myelo-Proliferative Neoplasms emergence and development based on real life incidence and mathematical modeling**|Ana Fernández Baranda et.al.|[2406.06765](http://arxiv.org/abs/2406.06765)|null|
 |**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372](http://arxiv.org/abs/2406.06372)|null|
@@ -2170,7 +2170,7 @@
 |**2023-11-04**|**SPHEAR: Spherical Head Registration for Complete Statistical 3D Modeling**|Eduard Gabriel Bazavan et.al.|[2311.02461](http://arxiv.org/abs/2311.02461)|null|
 |**2023-11-03**|**Contrast-Agnostic Groupwise Registration by Robust PCA for Quantitative Cardiac MRI**|Xinqi Li et.al.|[2311.01916](http://arxiv.org/abs/2311.01916)|null|
 |**2023-11-03**|**End-to-End assessment of AR-assisted neurosurgery systems**|Mahdi Bagheri et.al.|[2311.01912](http://arxiv.org/abs/2311.01912)|null|
-|**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432](http://arxiv.org/abs/2311.01432)|null|
+|**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432](http://arxiv.org/abs/2311.01432)|**[link](https://github.com/xinyi-tum/4dof-registration)**|
 |**2023-11-02**|**Look at Robot Base Once: Hand-Eye Calibration with Point Clouds of Robot Base Leveraging Learning-Based 3D Vision**|Leihui Li et.al.|[2311.01335](http://arxiv.org/abs/2311.01335)|**[link](https://github.com/leihui6/lrbo)**|
 |**2023-11-02**|**Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration**|Yifan Xie et.al.|[2311.01202](http://arxiv.org/abs/2311.01202)|**[link](https://github.com/ivanxie416/cmignet)**|
 |**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928](http://arxiv.org/abs/2311.00928)|null|
@@ -2231,7 +2231,7 @@
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-02**|**T-Graph: Enhancing Sparse-view Camera Pose Estimation by Pairwise Translation Graph**|Qingyu Xian et.al.|[2505.01207](http://arxiv.org/abs/2505.01207)|null|
 |**2025-05-02**|**3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer**|Kamel Aouaidjia et.al.|[2505.01003](http://arxiv.org/abs/2505.01003)|null|
-|**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|null|
+|**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|**[link](https://github.com/kocurvik/rdnet)**|
 |**2025-05-01**|**P2P-Insole: Human Pose Estimation Using Foot Pressure Distribution and Motion Sensors**|Atsuya Watanabe et.al.|[2505.00755](http://arxiv.org/abs/2505.00755)|null|
 |**2025-05-01**|**Dietary Intake Estimation via Continuous 3D Reconstruction of Food**|Wallace Lee et.al.|[2505.00606](http://arxiv.org/abs/2505.00606)|null|
 |**2025-05-02**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512](http://arxiv.org/abs/2505.00512)|null|
@@ -2258,7 +2258,7 @@
 |**2025-04-22**|**SignX: The Foundation Model for Sign Recognition**|Sen Fang et.al.|[2504.16315](http://arxiv.org/abs/2504.16315)|null|
 |**2025-04-22**|**GADS: A Super Lightweight Model for Head Pose Estimation**|Menan Velayuthan et.al.|[2504.15751](http://arxiv.org/abs/2504.15751)|null|
 |**2025-04-21**|**Field Report on Ground Penetrating Radar for Localization at the Mars Desert Research Station**|Anja Sheppard et.al.|[2504.15455](http://arxiv.org/abs/2504.15455)|null|
-|**2025-04-21**|**Vision6D: 3D-to-2D Interactive Visualization and Annotation Tool for 6D Pose Estimation**|Yike Zhang et.al.|[2504.15329](http://arxiv.org/abs/2504.15329)|null|
+|**2025-04-21**|**Vision6D: 3D-to-2D Interactive Visualization and Annotation Tool for 6D Pose Estimation**|Yike Zhang et.al.|[2504.15329](http://arxiv.org/abs/2504.15329)|**[link](https://github.com/interactivegl/vision6d)**|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|**[link](https://github.com/Chenyu-Wang567/All-Angles-Bench)**|
 |**2025-04-21**|**Instance-Adaptive Keypoint Learning with Local-to-Global Geometric Aggregation for Category-Level Object Pose Estimation**|Xiao Zhang et.al.|[2504.15134](http://arxiv.org/abs/2504.15134)|null|
 |**2025-04-20**|**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**|Weirong Chen et.al.|[2504.14516](http://arxiv.org/abs/2504.14516)|null|
@@ -2341,7 +2341,7 @@
 |**2025-03-25**|**Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation**|Zhuoran Zhao et.al.|[2503.19307](http://arxiv.org/abs/2503.19307)|null|
 |**2025-03-25**|**Any6D: Model-free 6D Pose Estimation of Novel Objects**|Taeyeop Lee et.al.|[2503.18673](http://arxiv.org/abs/2503.18673)|null|
 |**2025-03-24**|**Structure-Aware Correspondence Learning for Relative Pose Estimation**|Yihan Chen et.al.|[2503.18671](http://arxiv.org/abs/2503.18671)|null|
-|**2025-03-24**|**TrackID3x3: A Dataset and Algorithm for Multi-Player Tracking with Identification and Pose Estimation in 3x3 Basketball Full-court Videos**|Kazuhiro Yamada et.al.|[2503.18282](http://arxiv.org/abs/2503.18282)|null|
+|**2025-03-24**|**TrackID3x3: A Dataset and Algorithm for Multi-Player Tracking with Identification and Pose Estimation in 3x3 Basketball Full-court Videos**|Kazuhiro Yamada et.al.|[2503.18282](http://arxiv.org/abs/2503.18282)|**[link](https://github.com/open-starlab/trackid3x3)**|
 |**2025-03-23**|**Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**|Xiang Fang et.al.|[2503.17938](http://arxiv.org/abs/2503.17938)|null|
 |**2025-03-22**|**Co-op: Correspondence-based Novel Object Pose Estimation**|Sungphill Moon et.al.|[2503.17731](http://arxiv.org/abs/2503.17731)|null|
 |**2025-03-21**|**Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image**|Jerred Chen et.al.|[2503.17358](http://arxiv.org/abs/2503.17358)|null|
@@ -2593,7 +2593,7 @@
 |**2024-11-27**|**XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration**|Denys Rozumnyi et.al.|[2411.18377](http://arxiv.org/abs/2411.18377)|null|
 |**2024-11-26**|**Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Generative Latent Priors**|Ziang Xu et.al.|[2411.17790](http://arxiv.org/abs/2411.17790)|null|
 |**2024-11-26**|**Geometric Point Attention Transformer for 3D Shape Reassembly**|Jiahan Li et.al.|[2411.17788](http://arxiv.org/abs/2411.17788)|null|
-|**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662](http://arxiv.org/abs/2411.17662)|null|
+|**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662](http://arxiv.org/abs/2411.17662)|**[link](https://github.com/raktimgg/robopepp)**|
 |**2024-11-26**|**Communication-Efficient Cooperative SLAMMOT via Determining the Number of Collaboration Vehicles**|Susu Fang et.al.|[2411.17432](http://arxiv.org/abs/2411.17432)|null|
 |**2024-11-26**|**Boost 3D Reconstruction using Diffusion-based Monocular Camera Calibration**|Junyuan Deng et.al.|[2411.17240](http://arxiv.org/abs/2411.17240)|**[link](https://github.com/junyuandeng/dm-calib)**|
 |**2024-11-27**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190](http://arxiv.org/abs/2411.17190)|null|
@@ -2604,7 +2604,7 @@
 |**2024-11-25**|**One Diffusion to Generate Them All**|Duong H. Le et.al.|[2411.16318](http://arxiv.org/abs/2411.16318)|**[link](https://github.com/lehduong/onediffusion)**|
 |**2024-11-25**|**UNOPose: Unseen Object Pose Estimation with an Unposed RGB-D Reference Image**|Xingyu Liu et.al.|[2411.16106](http://arxiv.org/abs/2411.16106)|null|
 |**2024-11-24**|**Generalizable Single-view Object Pose Estimation by Two-side Generating and Matching**|Yujing Sun et.al.|[2411.15860](http://arxiv.org/abs/2411.15860)|**[link](https://github.com/scy639/gen2sm)**|
-|**2024-11-24**|**PEnG: Pose-Enhanced Geo-Localisation**|Tavis Shore et.al.|[2411.15742](http://arxiv.org/abs/2411.15742)|null|
+|**2024-11-24**|**PEnG: Pose-Enhanced Geo-Localisation**|Tavis Shore et.al.|[2411.15742](http://arxiv.org/abs/2411.15742)|**[link](https://github.com/tavisshore/PEnG)**|
 |**2024-11-22**|**Personalization of Wearable Sensor-Based Joint Kinematic Estimation Using Computer Vision for Hip Exoskeleton Applications**|Changseob Song et.al.|[2411.15366](http://arxiv.org/abs/2411.15366)|null|
 |**2024-11-22**|**mmWave Radar for Sit-to-Stand Analysis: A Comparative Study with Wearables and Kinect**|Shuting Hu et.al.|[2411.14656](http://arxiv.org/abs/2411.14656)|null|
 |**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|**[link](https://github.com/idea-research/dino-x-api)**|
@@ -3477,16 +3477,16 @@
 |**2025-04-29**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165](http://arxiv.org/abs/2504.19165)|null|
 |**2025-04-28**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
 |**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815](http://arxiv.org/abs/2504.17815)|**[link](https://github.com/Aswhalefall/VISTA)**|
-|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|null|
+|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|**[link](https://github.com/wu-cvgl/casualhdrsplat)**|
 |**2025-04-23**|**Dual-Camera All-in-Focus Neural Radiance Fields**|Xianrui Luo et.al.|[2504.16636](http://arxiv.org/abs/2504.16636)|null|
 |**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
-|**2025-04-23**|**SaENeRF: Suppressing Artifacts in Event-based Neural Radiance Fields**|Yuanjian Wang et.al.|[2504.16389](http://arxiv.org/abs/2504.16389)|null|
+|**2025-04-23**|**SaENeRF: Suppressing Artifacts in Event-based Neural Radiance Fields**|Yuanjian Wang et.al.|[2504.16389](http://arxiv.org/abs/2504.16389)|**[link](https://github.com/mr-firework/saenerf)**|
 |**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776](http://arxiv.org/abs/2504.15776)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995](http://arxiv.org/abs/2504.13995)|null|
 |**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 |**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207](http://arxiv.org/abs/2504.13207)|null|
-|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
+|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|**[link](https://github.com/VU-RASL/GSAC)**|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-19**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878](http://arxiv.org/abs/2504.09878)|null|
