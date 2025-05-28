@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1250,7 +1250,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-26**|**Toward Patient-specific Partial Point Cloud to Surface Completion for Pre- to Intra-operative Registration in Image-guided Liver Interventions**|Nakul Poudel et.al.|[2505.19518](http://arxiv.org/abs/2505.19518)|null|
-|**2025-05-25**|**PolyPose: Localizing Deformable Anatomy in 3D from Sparse 2D X-ray Images using Polyrigid Transforms**|Vivek Gopalakrishnan et.al.|[2505.19256](http://arxiv.org/abs/2505.19256)|null|
+|**2025-05-25**|**PolyPose: Localizing Deformable Anatomy in 3D from Sparse 2D X-ray Images using Polyrigid Transforms**|Vivek Gopalakrishnan et.al.|[2505.19256](http://arxiv.org/abs/2505.19256)|**[link](https://github.com/eigenvivek/polypose)**|
 |**2025-05-25**|**Staircase Recognition and Location Based on Polarization Vision**|Weifeng Kong et.al.|[2505.19026](http://arxiv.org/abs/2505.19026)|null|
 |**2025-05-25**|**Words as Geometric Features: Estimating Homography using Optical Character Recognition as Compressed Image Representation**|Ross Greer et.al.|[2505.18925](http://arxiv.org/abs/2505.18925)|null|
 |**2025-05-23**|**Monocular Marker-free Patient-to-Image Intraoperative Registration for Cochlear Implant Surgery**|Yike Zhang et.al.|[2505.18381](http://arxiv.org/abs/2505.18381)|null|
