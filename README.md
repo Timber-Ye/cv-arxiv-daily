@@ -33,7 +33,7 @@
 |**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952](http://arxiv.org/abs/2505.19952)|null|
 |**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944](http://arxiv.org/abs/2505.19944)|null|
 |**2025-05-26**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707](http://arxiv.org/abs/2505.19707)|null|
-|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|null|
+|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|**[link](https://github.com/linyicheng1/orb_slam3_localization)**|
 |**2025-05-24**|**TNG-CLIP:Training-Time Negation Data Generation for Negation Awareness of CLIP**|Yuliang Cai et.al.|[2505.18434](http://arxiv.org/abs/2505.18434)|null|
 |**2025-05-23**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
 |**2025-05-23**|**DART $^3$ : Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337](http://arxiv.org/abs/2505.18337)|null|
@@ -72,7 +72,7 @@
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|**[link](https://github.com/ghanning/gcsa)**|
 |**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
-|**2025-04-14**|**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**|Changwei Wang et.al.|[2504.09881](http://arxiv.org/abs/2504.09881)|null|
+|**2025-04-14**|**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**|Changwei Wang et.al.|[2504.09881](http://arxiv.org/abs/2504.09881)|**[link](https://github.com/chenshunpeng/FoL)**|
 |**2025-04-12**|**Evolved Hierarchical Masking for Self-Supervised Learning**|Zhanzhou Feng et.al.|[2504.09155](http://arxiv.org/abs/2504.09155)|null|
 |**2025-04-12**|**A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**|Jizong Peng et.al.|[2504.09129](http://arxiv.org/abs/2504.09129)|null|
 |**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
@@ -224,7 +224,7 @@
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
 |**2024-12-25**|**FOR: Finetuning for Object Level Open Vocabulary Image Retrieval**|Hila Levi et.al.|[2412.18806](http://arxiv.org/abs/2412.18806)|null|
 |**2024-12-24**|**ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**|Le Dong et.al.|[2412.18136](http://arxiv.org/abs/2412.18136)|**[link](https://github.com/milkyfun0/ERVD)**|
-|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
+|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|**[link](https://github.com/hongsukchoi/hsfm_release)**|
 |**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
 |**2024-12-22**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880](http://arxiv.org/abs/2412.16880)|null|
 |**2024-12-24**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|
@@ -260,7 +260,7 @@
 |**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|**[link](https://github.com/ishikaalunawat/231aproj)**|
 |**2024-12-02**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555](http://arxiv.org/abs/2412.01555)|null|
 |**2024-12-02**|**Neuron Abandoning Attention Flow: Visual Explanation of Dynamics inside CNN Models**|Yi Liao et.al.|[2412.01202](http://arxiv.org/abs/2412.01202)|null|
-|**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
+|**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|**[link](https://github.com/tong-jin01/edtformer)**|
 |**2024-11-28**|**EFSA: Episodic Few-Shot Adaptation for Text-to-Image Retrieval**|Muhammad Huzaifa et.al.|[2412.00139](http://arxiv.org/abs/2412.00139)|null|
 |**2024-11-28**|**Unleashing the Power of Data Synthesis in Visual Localization**|Sihang Li et.al.|[2412.00138](http://arxiv.org/abs/2412.00138)|null|
 |**2024-11-28**|**Relation-Aware Meta-Learning for Zero-shot Sketch-Based Image Retrieval**|Yang Liu et.al.|[2412.00120](http://arxiv.org/abs/2412.00120)|null|
@@ -909,7 +909,7 @@
 |**2025-04-27**|**Marine Snow Removal Using Internally Generated Pseudo Ground Truth**|Alexandra Malyugina et.al.|[2504.19289](http://arxiv.org/abs/2504.19289)|null|
 |**2025-04-23**|**PRaDA: Projective Radial Distortion Averaging**|Daniil Sinitsyn et.al.|[2504.16499](http://arxiv.org/abs/2504.16499)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
-|**2025-04-26**|**FreeGraftor: Training-Free Cross-Image Feature Grafting for Subject-Driven Text-to-Image Generation**|Zebin Yao et.al.|[2504.15958](http://arxiv.org/abs/2504.15958)|null|
+|**2025-04-26**|**FreeGraftor: Training-Free Cross-Image Feature Grafting for Subject-Driven Text-to-Image Generation**|Zebin Yao et.al.|[2504.15958](http://arxiv.org/abs/2504.15958)|**[link](https://github.com/nihukat/freegraftor)**|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-16**|**Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation**|Jie Wang et.al.|[2504.11949](http://arxiv.org/abs/2504.11949)|null|
 |**2025-04-16**|**Search is All You Need for Few-shot Anomaly Detection**|Qishan Wang et.al.|[2504.11895](http://arxiv.org/abs/2504.11895)|**[link](https://github.com/qiqigeww/visionad)**|
@@ -1283,7 +1283,7 @@
 |**2025-05-26**|**SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction**|Jiangjie Wu et.al.|[2505.17472](http://arxiv.org/abs/2505.17472)|null|
 |**2025-05-22**|**Temporal Differential Fields for 4D Motion Modeling via Image-to-Video Synthesis**|Xin You et.al.|[2505.17333](http://arxiv.org/abs/2505.17333)|null|
 |**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|**[link](https://github.com/ltracegeo/deep-mineralogical-segmentation)**|
-|**2025-05-23**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
+|**2025-05-23**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|**[link](https://github.com/neuroinformatics-unit/zebras-stitching)**|
 |**2025-05-22**|**D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping**|Lucia Coto-Elena et.al.|[2505.16726](http://arxiv.org/abs/2505.16726)|**[link](https://github.com/robotics-upo/D-LIO)**|
 |**2025-05-22**|**CMRINet: Joint Groupwise Registration and Segmentation for Cardiac Function Quantification from Cine-MRI**|Mohamed S. Elmahdy et.al.|[2505.16452](http://arxiv.org/abs/2505.16452)|null|
 |**2025-05-20**|**Virtual Fluoroscopy for Interventional Guidance using Magnetic Tracking**|Shuwei Xing et.al.|[2505.14854](http://arxiv.org/abs/2505.14854)|null|
@@ -1296,7 +1296,7 @@
 |**2025-05-17**|**MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos**|Hongyi Zhou et.al.|[2505.11868](http://arxiv.org/abs/2505.11868)|null|
 |**2025-05-17**|**Patient-Specific Autoregressive Models for Organ Motion Prediction in Radiotherapy**|Yuxiang Lai et.al.|[2505.11832](http://arxiv.org/abs/2505.11832)|null|
 |**2025-05-16**|**Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?**|Verónica Bäcker-Peral et.al.|[2505.11599](http://arxiv.org/abs/2505.11599)|null|
-|**2025-05-16**|**From Fibers to Cells: Fourier-Based Registration Enables Virtual Cresyl Violet Staining From 3D Polarized Light Imaging**|Alexander Oberstrass et.al.|[2505.11394](http://arxiv.org/abs/2505.11394)|null|
+|**2025-05-16**|**From Fibers to Cells: Fourier-Based Registration Enables Virtual Cresyl Violet Staining From 3D Polarized Light Imaging**|Alexander Oberstrass et.al.|[2505.11394](http://arxiv.org/abs/2505.11394)|**[link](https://github.com/fzj-inm1-bda/pli2cells)**|
 |**2025-05-16**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923](http://arxiv.org/abs/2505.10923)|null|
 |**2025-05-15**|**Agent Name Service (ANS): A Universal Directory for Secure AI Agent Discovery and Interoperability**|Ken Huang et.al.|[2505.10609](http://arxiv.org/abs/2505.10609)|null|
 |**2025-05-15**|**IMITATE: Image Registration with Context for unknown time frame recovery**|Ziad Kheil et.al.|[2505.10124](http://arxiv.org/abs/2505.10124)|**[link](https://github.com/kheil-z/imitate)**|
@@ -2312,7 +2312,7 @@
 |**2025-05-27**|**Mamba-Driven Topology Fusion for Monocular 3-D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.20611](http://arxiv.org/abs/2505.20611)|null|
 |**2025-05-28**|**HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval**|Matthew Hong et.al.|[2505.20455](http://arxiv.org/abs/2505.20455)|null|
 |**2025-05-25**|**Learning the Contact Manifold for Accurate Pose Estimation During Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2505.19215](http://arxiv.org/abs/2505.19215)|null|
-|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|null|
+|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|**[link](https://github.com/linyicheng1/orb_slam3_localization)**|
 |**2025-05-24**|**An Inertial Sequence Learning Framework for Vehicle Speed Estimation via Smartphone IMU**|Xuan Xiao et.al.|[2505.18490](http://arxiv.org/abs/2505.18490)|null|
 |**2025-05-23**|**Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance**|Jack Goffinet et.al.|[2505.18342](http://arxiv.org/abs/2505.18342)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
@@ -2329,8 +2329,8 @@
 |**2025-05-17**|**Black-box Adversaries from Latent Space: Unnoticeable Attacks on Human Pose and Shape Estimation**|Zhiying Li et.al.|[2505.12009](http://arxiv.org/abs/2505.12009)|null|
 |**2025-05-17**|**ElderFallGuard: Real-Time IoT and Computer Vision-Based Fall Detection System for Elderly Safety**|Tasrifur Riahi et.al.|[2505.11845](http://arxiv.org/abs/2505.11845)|null|
 |**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439](http://arxiv.org/abs/2505.11439)|null|
-|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|null|
-|**2025-05-16**|**PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation**|Saad Manzur et.al.|[2505.10888](http://arxiv.org/abs/2505.10888)|null|
+|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|**[link](https://github.com/shrutarv/mtevent_toolkit)**|
+|**2025-05-16**|**PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation**|Saad Manzur et.al.|[2505.10888](http://arxiv.org/abs/2505.10888)|**[link](https://github.com/bryanjvela/poselab3d)**|
 |**2025-05-16**|**RefPose: Leveraging Reference Geometric Correspondences for Accurate 6D Pose Estimation of Unseen Objects**|Jaeguk Kim et.al.|[2505.10841](http://arxiv.org/abs/2505.10841)|null|
 |**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393](http://arxiv.org/abs/2505.09393)|**[link](https://github.com/kk9six/umotion)**|
 |**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[2505.09356](http://arxiv.org/abs/2505.09356)|**[link](https://github.com/gt-arc/apr-transformer)**|
@@ -2549,7 +2549,7 @@
 |**2025-03-03**|**Convex Hull-based Algebraic Constraint for Visual Quadric SLAM**|Xiaolong Yu et.al.|[2503.01254](http://arxiv.org/abs/2503.01254)|**[link](https://github.com/tiev-tongji/convexhull-based-algebraic-constraint)**|
 |**2025-03-04**|**Floorplan-SLAM: A Real-Time, High-Accuracy, and Long-Term Multi-Session Point-Plane SLAM for Efficient Floorplan Reconstruction**|Haolin Wang et.al.|[2503.00397](http://arxiv.org/abs/2503.00397)|null|
 |**2025-03-01**|**BGM2Pose: Active 3D Human Pose Estimation with Non-Stationary Sounds**|Yuto Shibata et.al.|[2503.00389](http://arxiv.org/abs/2503.00389)|null|
-|**2025-02-28**|**BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports**|Jing-Yuan Chang et.al.|[2502.21085](http://arxiv.org/abs/2502.21085)|null|
+|**2025-02-28**|**BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports**|Jing-Yuan Chang et.al.|[2502.21085](http://arxiv.org/abs/2502.21085)|**[link](https://github.com/Va6lue/BST-Badminton-Stroke-type-Transformer)**|
 |**2025-02-28**|**Two-Stream Spatial-Temporal Transformer Framework for Person Identification via Natural Conversational Keypoints**|Masoumeh Chapariniya et.al.|[2502.20803](http://arxiv.org/abs/2502.20803)|null|
 |**2025-02-27**|**Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison**|Jiageng Zhong et.al.|[2502.20154](http://arxiv.org/abs/2502.20154)|null|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078](http://arxiv.org/abs/2502.20078)|null|
@@ -2668,7 +2668,7 @@
 |**2024-12-27**|**Optimizing Local-Global Dependencies for Accurate 3D Human Pose Estimation**|Guangsheng Xu et.al.|[2412.19676](http://arxiv.org/abs/2412.19676)|**[link](https://github.com/poker-xu/ssr-stf)**|
 |**2024-12-27**|**Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images**|Xudong Cai et.al.|[2412.19518](http://arxiv.org/abs/2412.19518)|null|
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
-|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
+|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|**[link](https://github.com/hongsukchoi/hsfm_release)**|
 |**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-21**|**EasyVis2: A Real Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose**|Yung-Hong Sun et.al.|[2412.16742](http://arxiv.org/abs/2412.16742)|null|
 |**2024-12-21**|**FACTS: Fine-Grained Action Classification for Tactical Sports**|Christopher Lai et.al.|[2412.16454](http://arxiv.org/abs/2412.16454)|null|
@@ -3792,7 +3792,7 @@
 |**2025-01-07**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807](http://arxiv.org/abs/2501.02807)|null|
 |**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422](http://arxiv.org/abs/2412.20422)|null|
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
-|**2025-01-05**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370](http://arxiv.org/abs/2412.19370)|null|
+|**2025-01-05**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370](http://arxiv.org/abs/2412.19370)|**[link](https://github.com/GopiRajuMatta/BeSplat)**|
 |**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149](http://arxiv.org/abs/2412.19149)|**[link](https://github.com/liguohao96/egg3d)**|
 |**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130](http://arxiv.org/abs/2412.19130)|null|
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
