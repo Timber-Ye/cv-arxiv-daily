@@ -26,6 +26,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
+|**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
+|**2025-06-01**|**Quantization-based Bounds on the Wasserstein Metric**|Jonathan Bobrutsky et.al.|[2506.00976](http://arxiv.org/abs/2506.00976)|null|
 |**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
@@ -886,6 +889,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
+|**2025-05-31**|**MR2US-Pro: Prostate MR to Ultrasound Image Translation and Registration Based on Diffusion Models**|Xudong Ma et.al.|[2506.00591](http://arxiv.org/abs/2506.00591)|null|
+|**2025-05-31**|**Improving Optical Flow and Stereo Depth Estimation by Leveraging Uncertainty-Based Learning Difficulties**|Jisoo Jeong et.al.|[2506.00324](http://arxiv.org/abs/2506.00324)|null|
 |**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-05-29**|**VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration**|Ben Li et.al.|[2505.23439](http://arxiv.org/abs/2505.23439)|**[link](https://github.com/minqili/viton-drr-main)**|
 |**2025-05-28**|**Can Copulas Be Used for Feature Selection? A Machine Learning Study on Diabetes Risk Prediction**|Agnideep Aich et.al.|[2505.22554](http://arxiv.org/abs/2505.22554)|null|
@@ -1266,6 +1272,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Guiding Registration with Emergent Similarity from Pre-Trained Diffusion Models**|Nurislam Tursynbek et.al.|[2506.02419](http://arxiv.org/abs/2506.02419)|null|
+|**2025-06-02**|**Implicit Deformable Medical Image Registration with Learnable Kernels**|Stefano Fogarollo et.al.|[2506.02150](http://arxiv.org/abs/2506.02150)|null|
+|**2025-06-02**|**NTIRE 2025 the 2nd Restore Any Image Model (RAIM) in the Wild Challenge**|Jie Liang et.al.|[2506.01394](http://arxiv.org/abs/2506.01394)|null|
+|**2025-06-01**|**Modality Translation and Registration of MR and Ultrasound Images Using Diffusion Models**|Xudong Ma et.al.|[2506.01025](http://arxiv.org/abs/2506.01025)|null|
+|**2025-06-01**|**Deformable registration and generative modelling of aortic anatomies by auto-decoders and neural ODEs**|Riccardo Tenderini et.al.|[2506.00947](http://arxiv.org/abs/2506.00947)|null|
+|**2025-05-31**|**MR2US-Pro: Prostate MR to Ultrasound Image Translation and Registration Based on Diffusion Models**|Xudong Ma et.al.|[2506.00591](http://arxiv.org/abs/2506.00591)|null|
+|**2025-05-30**|**MRDust: Wireless Implant Data Uplink & Localization via Magnetic Resonance Image Modulation**|Biqi Rebekah Zhao et.al.|[2506.00143](http://arxiv.org/abs/2506.00143)|null|
 |**2025-05-30**|**A Novel Coronary Artery Registration Method Based on Super-pixel Particle Swarm Optimization**|Peng Qi et.al.|[2505.24351](http://arxiv.org/abs/2505.24351)|null|
 |**2025-05-30**|**The Use of Alendronate to Enhance Transcranial Transmission of Focused Ultrasound for Successful Ablations in Brain**|G. Sakharova et.al.|[2505.24349](http://arxiv.org/abs/2505.24349)|null|
 |**2025-05-30**|**A 3D Mobile Crowdsensing Framework for Sustainable Urban Digital Twins**|Taku Yamazaki et.al.|[2505.24348](http://arxiv.org/abs/2505.24348)|null|
@@ -2306,6 +2319,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853](http://arxiv.org/abs/2506.02853)|null|
+|**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
+|**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
+|**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|null|
+|**2025-06-02**|**SteerPose: Simultaneous Extrinsic Camera Calibration and Matching from Articulation**|Sang-Eun Lee et.al.|[2506.01691](http://arxiv.org/abs/2506.01691)|null|
+|**2025-06-01**|**TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction**|Yiyao Huang et.al.|[2506.00953](http://arxiv.org/abs/2506.00953)|null|
+|**2025-05-31**|**XYZ-IBD: High-precision Bin-picking Dataset for Object 6D Pose Estimation Capturing Real-world Industrial Complexity**|Junwen Huang et.al.|[2506.00599](http://arxiv.org/abs/2506.00599)|null|
+|**2025-05-30**|**Lazy Heuristic Search for Solving POMDPs with Expensive-to-Compute Belief Transitions**|Muhammad Suhail Saleem et.al.|[2506.00285](http://arxiv.org/abs/2506.00285)|null|
 |**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669](http://arxiv.org/abs/2505.24669)|null|
 |**2025-05-30**|**Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data**|Marios Glytsos et.al.|[2505.24636](http://arxiv.org/abs/2505.24636)|null|
 |**2025-05-30**|**PCIE_Pose Solution for EgoExo4D Pose and Proficiency Estimation Challenge**|Feng Chen et.al.|[2505.24411](http://arxiv.org/abs/2505.24411)|null|
@@ -3599,6 +3620,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083](http://arxiv.org/abs/2506.00083)|null|
 |**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441](http://arxiv.org/abs/2505.22441)|null|
