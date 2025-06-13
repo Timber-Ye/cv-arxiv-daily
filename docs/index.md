@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,6 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
 |**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035](http://arxiv.org/abs/2506.09035)|null|
 |**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526](http://arxiv.org/abs/2506.08526)|null|
 |**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
@@ -898,6 +899,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
+|**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|null|
 |**2025-06-09**|**Incorporating Uncertainty-Guided and Top-k Codebook Matching for Real-World Blind Image Super-Resolution**|Weilei Wen et.al.|[2506.07809](http://arxiv.org/abs/2506.07809)|null|
 |**2025-06-08**|**DM $^3$ Net: Dual-Camera Super-Resolution via Domain Modulation and Multi-scale Matching**|Cong Guan et.al.|[2506.06993](http://arxiv.org/abs/2506.06993)|null|
 |**2025-06-07**|**Multi-StyleGS: Stylizing Gaussian Splatting with Multiple Styles**|Yangkai Lin et.al.|[2506.06846](http://arxiv.org/abs/2506.06846)|null|
@@ -1288,6 +1291,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Accurate and efficient zero-shot 6D pose estimation with frozen foundation models**|Andrea Caraffa et.al.|[2506.09784](http://arxiv.org/abs/2506.09784)|null|
+|**2025-06-11**|**CINeMA: Conditional Implicit Neural Multi-Modal Atlas for a Spatio-Temporal Representation of the Perinatal Brain**|Maik Dannecker et.al.|[2506.09668](http://arxiv.org/abs/2506.09668)|null|
+|**2025-06-11**|**Geometry Reduced Order Modeling (GROM) with application to modeling of glymphatic function**|Andreas Solheim et.al.|[2506.09442](http://arxiv.org/abs/2506.09442)|null|
+|**2025-06-11**|**A new approach for image segmentation based on diffeomorphic registration and gradient fields**|Junchao Zhou et.al.|[2506.09357](http://arxiv.org/abs/2506.09357)|null|
 |**2025-06-10**|**A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**|Ciro Benito Raggio et.al.|[2506.08654](http://arxiv.org/abs/2506.08654)|null|
 |**2025-06-11**|**Toward Reliable AR-Guided Surgical Navigation: Interactive Deformation Modeling with Data-Driven Biomechanics and Prompts**|Zheng Han et.al.|[2506.08048](http://arxiv.org/abs/2506.08048)|null|
 |**2025-06-08**|**GoTrack: Generic 6DoF Object Pose Refinement and Tracking**|Van Nguyen Nguyen et.al.|[2506.07155](http://arxiv.org/abs/2506.07155)|null|
@@ -2344,6 +2351,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Fluoroscopic Shape and Pose Tracking of Catheters with Custom Radiopaque Markers**|Jared Lawson et.al.|[2506.09934](http://arxiv.org/abs/2506.09934)|null|
+|**2025-06-11**|**EquiCaps: Predictor-Free Pose-Aware Pre-Trained Capsule Networks**|Athinoulla Konstantinou et.al.|[2506.09895](http://arxiv.org/abs/2506.09895)|null|
+|**2025-06-11**|**Accurate and efficient zero-shot 6D pose estimation with frozen foundation models**|Andrea Caraffa et.al.|[2506.09784](http://arxiv.org/abs/2506.09784)|null|
+|**2025-06-11**|**CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings**|Mattia Nardon et.al.|[2506.09699](http://arxiv.org/abs/2506.09699)|null|
 |**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035](http://arxiv.org/abs/2506.09035)|null|
 |**2025-06-10**|**ArrowPose: Segmentation, Detection, and 5 DoF Pose Estimation Network for Colorless Point Clouds**|Frederik Hagelskjaer et.al.|[2506.08699](http://arxiv.org/abs/2506.08699)|null|
 |**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996](http://arxiv.org/abs/2506.07996)|null|
@@ -3667,6 +3678,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
 |**2025-06-11**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
