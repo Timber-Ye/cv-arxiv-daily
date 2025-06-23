@@ -37,7 +37,7 @@ layout: default
 |**2025-06-14**|**Feature Complementation Architecture for Visual Place Recognition**|Weiwei Wang et.al.|[2506.12401](http://arxiv.org/abs/2506.12401)|null|
 |**2025-06-11**|**Towards a general-purpose foundation model for fMRI analysis**|Cheng Wang et.al.|[2506.11167](http://arxiv.org/abs/2506.11167)|null|
 |**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|**[link](https://github.com/adobe-research/polar-vl)**|
-|**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|null|
+|**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|**[link](https://github.com/tychenn/aqua)**|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
 |**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035](http://arxiv.org/abs/2506.09035)|null|
 |**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526](http://arxiv.org/abs/2506.08526)|null|
@@ -67,7 +67,7 @@ layout: default
 |**2025-05-24**|**TNG-CLIP:Training-Time Negation Data Generation for Negation Awareness of CLIP**|Yuliang Cai et.al.|[2505.18434](http://arxiv.org/abs/2505.18434)|null|
 |**2025-05-23**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
 |**2025-05-23**|**DART $^3$ : Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337](http://arxiv.org/abs/2505.18337)|null|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576](http://arxiv.org/abs/2505.17576)|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
@@ -936,7 +936,7 @@ layout: default
 |**2025-05-27**|**SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation**|Claudia Cuttano et.al.|[2505.21795](http://arxiv.org/abs/2505.21795)|**[link](https://github.com/claudiacuttano/sansa)**|
 |**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906](http://arxiv.org/abs/2505.20906)|null|
 |**2025-05-24**|**On Denoising Walking Videos for Gait Recognition**|Dongyang Jin et.al.|[2505.18582](http://arxiv.org/abs/2505.18582)|**[link](https://github.com/shiqiyu/opengait)**|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-23**|**Object-level Cross-view Geo-localization with Location Enhancement and Multi-Head Cross Attention**|Zheyang Huang et.al.|[2505.17911](http://arxiv.org/abs/2505.17911)|**[link](https://github.com/zheyangh/ocgnet)**|
 |**2025-05-22**|**GMatch: Geometry-Constrained Feature Matching for RGB-D Object Pose Estimation**|Ming Yang et.al.|[2505.16144](http://arxiv.org/abs/2505.16144)|null|
 |**2025-05-19**|**$λ$ -matchability in cubic graphs**|Santhosh Raghul et.al.|[2505.12823](http://arxiv.org/abs/2505.12823)|null|
@@ -1322,13 +1322,13 @@ layout: default
 |**2025-06-11**|**Geometry Reduced Order Modeling (GROM) with application to modeling of glymphatic function**|Andreas Solheim et.al.|[2506.09442](http://arxiv.org/abs/2506.09442)|**[link](https://github.com/erasdna/grom)**|
 |**2025-06-11**|**A new approach for image segmentation based on diffeomorphic registration and gradient fields**|Junchao Zhou et.al.|[2506.09357](http://arxiv.org/abs/2506.09357)|null|
 |**2025-06-10**|**A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**|Ciro Benito Raggio et.al.|[2506.08654](http://arxiv.org/abs/2506.08654)|null|
-|**2025-06-11**|**Toward Reliable AR-Guided Surgical Navigation: Interactive Deformation Modeling with Data-Driven Biomechanics and Prompts**|Zheng Han et.al.|[2506.08048](http://arxiv.org/abs/2506.08048)|null|
+|**2025-06-11**|**Toward Reliable AR-Guided Surgical Navigation: Interactive Deformation Modeling with Data-Driven Biomechanics and Prompts**|Zheng Han et.al.|[2506.08048](http://arxiv.org/abs/2506.08048)|**[link](https://github.com/med-air/interactive-registration)**|
 |**2025-06-08**|**GoTrack: Generic 6DoF Object Pose Refinement and Tracking**|Van Nguyen Nguyen et.al.|[2506.07155](http://arxiv.org/abs/2506.07155)|null|
 |**2025-06-06**|**LinGuinE: Longitudinal Guidance Estimation for Volumetric Lung Tumour Segmentation**|Nadine Garibli et.al.|[2506.06092](http://arxiv.org/abs/2506.06092)|null|
 |**2025-06-05**|**Deep histological synthesis from mass spectrometry imaging for multimodal registration**|Kimberley M. Bird et.al.|[2506.05441](http://arxiv.org/abs/2506.05441)|null|
 |**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282](http://arxiv.org/abs/2506.05282)|null|
 |**2025-06-04**|**Leveraging External Data for Testing Experimental Therapies with Biomarker Interactions in Randomized Clinical Trials**|Boyu Ren et.al.|[2506.04128](http://arxiv.org/abs/2506.04128)|null|
-|**2025-06-09**|**A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging**|Xuanru Zhou et.al.|[2506.04116](http://arxiv.org/abs/2506.04116)|null|
+|**2025-06-09**|**A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging**|Xuanru Zhou et.al.|[2506.04116](http://arxiv.org/abs/2506.04116)|**[link](https://github.com/Joker-ZXR/TSSC-Net)**|
 |**2025-06-04**|**Personalized MR-Informed Diffusion Models for 3D PET Image Reconstruction**|George Webber et.al.|[2506.03804](http://arxiv.org/abs/2506.03804)|null|
 |**2025-06-03**|**Guiding Registration with Emergent Similarity from Pre-Trained Diffusion Models**|Nurislam Tursynbek et.al.|[2506.02419](http://arxiv.org/abs/2506.02419)|null|
 |**2025-06-02**|**Implicit Deformable Medical Image Registration with Learnable Kernels**|Stefano Fogarollo et.al.|[2506.02150](http://arxiv.org/abs/2506.02150)|null|
@@ -1356,7 +1356,7 @@ layout: default
 |**2025-05-25**|**Words as Geometric Features: Estimating Homography using Optical Character Recognition as Compressed Image Representation**|Ross Greer et.al.|[2505.18925](http://arxiv.org/abs/2505.18925)|null|
 |**2025-05-23**|**Monocular Marker-free Patient-to-Image Intraoperative Registration for Cochlear Implant Surgery**|Yike Zhang et.al.|[2505.18381](http://arxiv.org/abs/2505.18381)|null|
 |**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340](http://arxiv.org/abs/2505.18340)|**[link](https://github.com/miriammaximo/mcl-dlf)**|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-23**|**4D-CTA Image and geometry dataset for kinematic analysis of abdominal aortic aneurysms**|Mostafa Jamshidian et.al.|[2505.17647](http://arxiv.org/abs/2505.17647)|null|
 |**2025-05-26**|**SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction**|Jiangjie Wu et.al.|[2505.17472](http://arxiv.org/abs/2505.17472)|null|
 |**2025-05-22**|**Temporal Differential Fields for 4D Motion Modeling via Image-to-Video Synthesis**|Xin You et.al.|[2505.17333](http://arxiv.org/abs/2505.17333)|null|
@@ -2389,7 +2389,7 @@ layout: default
 |**2025-06-16**|**DETRPose: Real-time end-to-end transformer model for multi-person pose estimation**|Sebastian Janampa et.al.|[2506.13027](http://arxiv.org/abs/2506.13027)|**[link](https://github.com/SebastianJanampa/DETRPose)**|
 |**2025-06-15**|**A large-scale, physically-based synthetic dataset for satellite pose estimation**|Szabolcs Velkei et.al.|[2506.12782](http://arxiv.org/abs/2506.12782)|null|
 |**2025-06-13**|**ViTaSCOPE: Visuo-tactile Implicit Representation for In-hand Pose and Extrinsic Contact Estimation**|Jayjun Lee et.al.|[2506.12239](http://arxiv.org/abs/2506.12239)|null|
-|**2025-06-10**|**Monocular 3D Hand Pose Estimation with Implicit Camera Alignment**|Christos Pantazopoulos et.al.|[2506.11133](http://arxiv.org/abs/2506.11133)|null|
+|**2025-06-10**|**Monocular 3D Hand Pose Estimation with Implicit Camera Alignment**|Christos Pantazopoulos et.al.|[2506.11133](http://arxiv.org/abs/2506.11133)|**[link](https://github.com/cpantazop/handrepo)**|
 |**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816](http://arxiv.org/abs/2506.10816)|null|
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787](http://arxiv.org/abs/2506.10787)|null|
 |**2025-06-11**|**Fluoroscopic Shape and Pose Tracking of Catheters with Custom Radiopaque Markers**|Jared Lawson et.al.|[2506.09934](http://arxiv.org/abs/2506.09934)|null|
@@ -2418,7 +2418,7 @@ layout: default
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
-|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853](http://arxiv.org/abs/2506.02853)|null|
+|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853](http://arxiv.org/abs/2506.02853)|**[link](https://github.com/MingjieWe/PGFormer)**|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
 |**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|null|
@@ -2443,7 +2443,7 @@ layout: default
 |**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|**[link](https://github.com/linyicheng1/orb_slam3_localization)**|
 |**2025-05-24**|**An Inertial Sequence Learning Framework for Vehicle Speed Estimation via Smartphone IMU**|Xuan Xiao et.al.|[2505.18490](http://arxiv.org/abs/2505.18490)|null|
 |**2025-05-23**|**Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance**|Jack Goffinet et.al.|[2505.18342](http://arxiv.org/abs/2505.18342)|null|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-23**|**Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery**|Ming Hu et.al.|[2505.17677](http://arxiv.org/abs/2505.17677)|null|
 |**2025-05-23**|**PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation**|Uyoung Jeong et.al.|[2505.17475](http://arxiv.org/abs/2505.17475)|**[link](https://github.com/uyoung-jeong/PoseBH)**|
 |**2025-05-22**|**Towards Texture- And Shape-Independent 3D Keypoint Estimation in Birds**|Valentin Schmuker et.al.|[2505.16633](http://arxiv.org/abs/2505.16633)|null|
@@ -2658,7 +2658,7 @@ layout: default
 |**2025-03-07**|**SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting**|Linqi Yang et.al.|[2503.05174](http://arxiv.org/abs/2503.05174)|null|
 |**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161](http://arxiv.org/abs/2503.05161)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
-|**2025-03-06**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
+|**2025-03-06**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|**[link](https://github.com/wish44165/ReynoldsFlow)**|
 |**2025-03-05**|**Active 6D Pose Estimation for Textureless Objects using Multi-View RGB Frames**|Jun Yang et.al.|[2503.03726](http://arxiv.org/abs/2503.03726)|null|
 |**2025-03-05**|**Machine Learning in Biomechanics: Key Applications and Limitations in Walking, Running, and Sports Movements**|Carlo Dindorf et.al.|[2503.03717](http://arxiv.org/abs/2503.03717)|null|
 |**2025-03-05**|**Improving 6D Object Pose Estimation of metallic Household and Industry Objects**|Thomas Pöllabauer et.al.|[2503.03655](http://arxiv.org/abs/2503.03655)|null|
@@ -2797,7 +2797,7 @@ layout: default
 |**2024-12-27**|**Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images**|Xudong Cai et.al.|[2412.19518](http://arxiv.org/abs/2412.19518)|null|
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
 |**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|**[link](https://github.com/hongsukchoi/hsfm_release)**|
-|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
+|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|**[link](https://github.com/zhaoxingZ/STVO)**|
 |**2024-12-21**|**EasyVis2: A Real Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose**|Yung-Hong Sun et.al.|[2412.16742](http://arxiv.org/abs/2412.16742)|null|
 |**2024-12-21**|**FACTS: Fine-Grained Action Classification for Tactical Sports**|Christopher Lai et.al.|[2412.16454](http://arxiv.org/abs/2412.16454)|null|
 |**2024-12-20**|**Can Generative Video Models Help Pose Estimation?**|Ruojin Cai et.al.|[2412.16155](http://arxiv.org/abs/2412.16155)|null|
@@ -3769,7 +3769,7 @@ layout: default
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|**[link](https://github.com/MiZhenxing/Switch-NeRF)**|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749](http://arxiv.org/abs/2505.01749)|null|
-|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|**[link](https://github.com/jiajiali04/3d-reconstruction-plants)**|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|**[link](https://github.com/JohannaXie/GauSS-MI)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
