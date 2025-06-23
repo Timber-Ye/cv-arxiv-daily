@@ -22,6 +22,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745](http://arxiv.org/abs/2506.16745)|null|
+|**2025-06-19**|**MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**|Chao He et.al.|[2506.16353](http://arxiv.org/abs/2506.16353)|null|
+|**2025-06-19**|**Fine-grained Image Retrieval via Dual-Vision Adaptation**|Xin Jiang et.al.|[2506.16273](http://arxiv.org/abs/2506.16273)|null|
+|**2025-06-19**|**Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation**|Connor Malone et.al.|[2506.15988](http://arxiv.org/abs/2506.15988)|null|
+|**2025-06-18**|**Semantic and Feature Guided Uncertainty Quantification of Visual Localization for Autonomous Vehicles**|Qiyuan Wu et.al.|[2506.15851](http://arxiv.org/abs/2506.15851)|null|
 |**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
@@ -768,7 +773,7 @@
 |**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
 |**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
-|**2025-06-18**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
+|**2025-06-19**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
@@ -911,6 +916,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Co-VisiON: Co-Visibility ReasONing on Sparse Image Sets of Indoor Scenes**|Chao Chen et.al.|[2506.16805](http://arxiv.org/abs/2506.16805)|null|
 |**2025-06-18**|**Unsupervised Pelage Pattern Unwrapping for Animal Re-identification**|Aleksandr Algasov et.al.|[2506.15369](http://arxiv.org/abs/2506.15369)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
@@ -1310,6 +1316,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-19**|**EndoMUST: Monocular Depth Estimation for Robotic Endoscopy via End-to-end Multi-step Self-supervised Training**|Liangjing Shao et.al.|[2506.16017](http://arxiv.org/abs/2506.16017)|null|
+|**2025-06-18**|**Tree-based adaptive finite element methods for deformable image registration**|Nicolás A. Barnafi et.al.|[2506.15876](http://arxiv.org/abs/2506.15876)|null|
+|**2025-06-18**|**Cross-Modality Learning for Predicting IHC Biomarkers from H&E-Stained Whole-Slide Images**|Amit Das et.al.|[2506.15853](http://arxiv.org/abs/2506.15853)|null|
 |**2025-06-18**|**Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration**|Kyobin Choo et.al.|[2506.15596](http://arxiv.org/abs/2506.15596)|null|
 |**2025-06-18**|**BCRNet: Enhancing Landmark Detection in Laparoscopic Liver Surgery via Bezier Curve Refinement**|Qian Li et.al.|[2506.15279](http://arxiv.org/abs/2506.15279)|null|
 |**2025-06-17**|**A Digital Twin Framework for Adaptive Treatment Planning in Radiotherapy**|Chih-Wei Chang et.al.|[2506.14701](http://arxiv.org/abs/2506.14701)|null|
@@ -2381,6 +2390,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking**|Teng Guo et.al.|[2506.17119](http://arxiv.org/abs/2506.17119)|null|
+|**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
+|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940](http://arxiv.org/abs/2506.16940)|null|
+|**2025-06-19**|**ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models**|Puhao Li et.al.|[2506.16211](http://arxiv.org/abs/2506.16211)|null|
+|**2025-06-19**|**STAR-Pose: Efficient Low-Resolution Video Human Pose Estimation via Spatial-Temporal Adaptive Super-Resolution**|Yucheng Jin et.al.|[2506.16061](http://arxiv.org/abs/2506.16061)|null|
+|**2025-06-19**|**KARL: Kalman-Filter Assisted Reinforcement Learner for Dynamic Object Tracking and Grasping**|Kowndinya Boyalakuntla et.al.|[2506.15945](http://arxiv.org/abs/2506.15945)|null|
+|**2025-06-19**|**Beyond Audio and Pose: A General-Purpose Framework for Video Synchronization**|Yosub Shin et.al.|[2506.15937](http://arxiv.org/abs/2506.15937)|null|
+|**2025-06-18**|**Improving Robotic Manipulation: Techniques for Object Pose Estimation, Accommodating Positional Uncertainty, and Disassembly Tasks from Examples**|Viral Rasik Galaiya et.al.|[2506.15865](http://arxiv.org/abs/2506.15865)|null|
+|**2025-06-18**|**PRISM-Loc: a Lightweight Long-range LiDAR Localization in Urban Environments with Topological Maps**|Kirill Muravyev et.al.|[2506.15849](http://arxiv.org/abs/2506.15849)|null|
 |**2025-06-18**|**Human Motion Capture from Loose and Sparse Inertial Sensors with Garment-aware Diffusion Models**|Andela Ilic et.al.|[2506.15290](http://arxiv.org/abs/2506.15290)|null|
 |**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-17**|**PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation**|Ming Xu et.al.|[2506.14596](http://arxiv.org/abs/2506.14596)|null|
@@ -3725,6 +3743,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-19**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|null|
 |**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-17**|**Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction**|Zhengquan Zhang et.al.|[2506.14856](http://arxiv.org/abs/2506.14856)|null|
 |**2025-06-18**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787](http://arxiv.org/abs/2506.12787)|null|
@@ -3733,7 +3752,7 @@
 |**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|**[link](https://github.com/tuallen/speede3dgs)**|
-|**2025-06-16**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-20**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
 |**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462](http://arxiv.org/abs/2506.06462)|null|
 |**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412](http://arxiv.org/abs/2506.06412)|null|
