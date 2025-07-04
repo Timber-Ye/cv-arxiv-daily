@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1338,10 +1338,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
-|**2025-07-02**|**Modality Agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909](http://arxiv.org/abs/2507.01909)|null|
+|**2025-07-03**|**Modality-agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909](http://arxiv.org/abs/2507.01909)|null|
 |**2025-07-02**|**S3D: A Spatial Steerable Surgical Drilling Framework for Robotic Spinal Fixation Procedures**|Daniyal Maroufi et.al.|[2507.01779](http://arxiv.org/abs/2507.01779)|null|
 |**2025-07-02**|**QC-OT: Optimal Transport with Quasiconformal Mapping**|Yuping Lv et.al.|[2507.01456](http://arxiv.org/abs/2507.01456)|null|
-|**2025-07-02**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
+|**2025-07-03**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
 |**2025-07-01**|**On the Intensity-based Inversion Method for Quantitative Quasi-Static Elastography**|Ekaterina Sherina et.al.|[2507.01207](http://arxiv.org/abs/2507.01207)|null|
 |**2025-07-01**|**Bridging Classical and Learning-based Iterative Registration through Deep Equilibrium Models**|Yi Zhang et.al.|[2507.00582](http://arxiv.org/abs/2507.00582)|null|
 |**2025-06-30**|**Refine Any Object in Any Scene**|Ziwei Chen et.al.|[2506.23835](http://arxiv.org/abs/2506.23835)|null|
