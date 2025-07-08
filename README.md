@@ -22,6 +22,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
+|**2025-07-07**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
+|**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
+|**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
+|**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831](http://arxiv.org/abs/2507.03831)|null|
 |**2025-07-01**|**LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**|Juelin Zhu et.al.|[2507.00659](http://arxiv.org/abs/2507.00659)|null|
 |**2025-06-28**|**Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**|Ghufran A. Omran et.al.|[2506.22939](http://arxiv.org/abs/2506.22939)|null|
 |**2025-06-28**|**Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**|Li-Cheng Shen et.al.|[2506.22864](http://arxiv.org/abs/2506.22864)|null|
@@ -928,15 +933,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
 |**2025-07-05**|**No time to train! Training-Free Reference-Based Instance Segmentation**|Miguel Espinosa et.al.|[2507.02798](http://arxiv.org/abs/2507.02798)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-07-01**|**Simulation-Efficient Cosmological Inference with Multi-Fidelity SBI**|Leander Thiele et.al.|[2507.00514](http://arxiv.org/abs/2507.00514)|null|
-|**2025-07-01**|**Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space**|Yingping Liang et.al.|[2507.00392](http://arxiv.org/abs/2507.00392)|null|
+|**2025-07-05**|**Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space**|Yingping Liang et.al.|[2507.00392](http://arxiv.org/abs/2507.00392)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-28**|**Single-Frame Point-Pixel Registration via Supervised Cross-Modal Feature Matching**|Yu Han et.al.|[2506.22784](http://arxiv.org/abs/2506.22784)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
-|**2025-06-27**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
+|**2025-07-07**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
 |**2025-06-26**|**The Role of Cyclopean-Eye in Stereo Vision**|Sherlon Almeida da Silva et.al.|[2506.20900](http://arxiv.org/abs/2506.20900)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
@@ -1340,6 +1346,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
+|**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
+|**2025-07-06**|**RegistrationMamba: A Mamba-based Registration Framework Integrating Multi-Expert Feature Learning for Cross-Modal Remote Sensing Images**|Wei Wang et.al.|[2507.04397](http://arxiv.org/abs/2507.04397)|null|
+|**2025-07-06**|**Robot-assisted Transcranial Magnetic Stimulation (Robo-TMS): A Review**|Wenzhi Bai et.al.|[2507.04345](http://arxiv.org/abs/2507.04345)|null|
+|**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321](http://arxiv.org/abs/2507.04321)|null|
+|**2025-07-06**|**Grid-Reg: Grid-Based SAR and Optical Image Registration Across Platforms**|Xiaochen Wei et.al.|[2507.04233](http://arxiv.org/abs/2507.04233)|null|
+|**2025-07-05**|**Adaptive Designs in Fast-Track Registration Processes**|Liane Kluge et.al.|[2507.04092](http://arxiv.org/abs/2507.04092)|null|
+|**2025-07-05**|**A Rigorous Behavior Assessment of CNNs Using a Data-Domain Sampling Regime**|Shuning Jiang et.al.|[2507.03866](http://arxiv.org/abs/2507.03866)|null|
+|**2025-07-04**|**Segmentation of separated Lumens in 3D CTA images of Aortic Dissection**|Christophe Lohou et.al.|[2507.03655](http://arxiv.org/abs/2507.03655)|null|
 |**2025-07-01**|**Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model**|Swakshar Deb et.al.|[2507.02003](http://arxiv.org/abs/2507.02003)|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
 |**2025-07-03**|**Modality-agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909](http://arxiv.org/abs/2507.01909)|null|
@@ -2439,6 +2454,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**UDF-GMA: Uncertainty Disentanglement and Fusion for General Movement Assessment**|Zeqi Luo et.al.|[2507.04814](http://arxiv.org/abs/2507.04814)|null|
+|**2025-07-06**|**Thousand-Brains Systems: Sensorimotor Intelligence for Rapid, Robust Learning and Inference**|Niels Leadholm et.al.|[2507.04494](http://arxiv.org/abs/2507.04494)|null|
+|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
+|**2025-07-05**|**Accurate Pose Estimation Using Contact Manifold Sampling for Safe Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2507.03925](http://arxiv.org/abs/2507.03925)|null|
+|**2025-07-02**|**Markerless Stride Length estimation in Athletic using Pose Estimation with monocular vision**|Patryk Skorupski et.al.|[2507.03016](http://arxiv.org/abs/2507.03016)|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565](http://arxiv.org/abs/2507.02565)|null|
 |**2025-07-03**|**IMASHRIMP: Automatic White Shrimp (Penaeus vannamei) Biometrical Analysis from Laboratory Images Using Computer Vision and Deep Learning**|Abiam Remache González et.al.|[2507.02519](http://arxiv.org/abs/2507.02519)|null|
 |**2025-07-03**|**3D Heart Reconstruction from Sparse Pose-agnostic 2D Echocardiographic Slices**|Zhurong Chen et.al.|[2507.02411](http://arxiv.org/abs/2507.02411)|null|
@@ -3817,6 +3837,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
 |**2025-07-01**|**PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](http://arxiv.org/abs/2507.00371)|null|
