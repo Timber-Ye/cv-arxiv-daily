@@ -22,7 +22,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891](http://arxiv.org/abs/2507.13891)|null|
+|**2025-07-20**|**LoopNet: A Multitasking Few-Shot Learning Approach for Loop Closure in Large Scale SLAM**|Mohammad-Maher Nakshbandi et.al.|[2507.15109](http://arxiv.org/abs/2507.15109)|null|
+|**2025-07-20**|**Visual Place Recognition for Large-Scale UAV Applications**|Ioannis Tsampikos Papapetros et.al.|[2507.15089](http://arxiv.org/abs/2507.15089)|null|
+|**2025-07-20**|**U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs**|Xiaojie Li et.al.|[2507.14902](http://arxiv.org/abs/2507.14902)|null|
+|**2025-07-20**|**An Evaluation of DUSt3R/MASt3R/VGGT 3D Reconstruction on Photogrammetric Aerial Blocks**|Xinyi Wu et.al.|[2507.14798](http://arxiv.org/abs/2507.14798)|null|
+|**2025-07-19**|**OptiCorNet: Optimizing Sequence-Based Context Correlation for Visual Place Recognition**|Zhenyu Li et.al.|[2507.14477](http://arxiv.org/abs/2507.14477)|null|
+|**2025-07-21**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891](http://arxiv.org/abs/2507.13891)|null|
 |**2025-07-17**|**$π^3$ : Scalable Permutation-Equivariant Visual Geometry Learning**|Yifan Wang et.al.|[2507.13347](http://arxiv.org/abs/2507.13347)|null|
 |**2025-07-17**|**FAR-Net: Multi-Stage Fusion Network with Enhanced Semantic Alignment and Adaptive Reconciliation for Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12823](http://arxiv.org/abs/2507.12823)|null|
 |**2025-07-17**|**MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12819](http://arxiv.org/abs/2507.12819)|null|
@@ -965,6 +970,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-07-17**|**Continuous Marine Tracking via Autonomous UAV Handoff**|Heegyeong Kim et.al.|[2507.12763](http://arxiv.org/abs/2507.12763)|null|
 |**2025-07-15**|**MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network**|Jianfei Jiang et.al.|[2507.11333](http://arxiv.org/abs/2507.11333)|null|
@@ -1389,6 +1395,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578](http://arxiv.org/abs/2507.15578)|null|
+|**2025-07-21**|**MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP**|Pei An et.al.|[2507.15257](http://arxiv.org/abs/2507.15257)|null|
+|**2025-07-20**|**Decision PCR: Decision version of the Point Cloud Registration task**|Yaojie Zhang et.al.|[2507.14965](http://arxiv.org/abs/2507.14965)|null|
+|**2025-07-19**|**GTPBD: A Fine-Grained Global Terraced Parcel and Boundary Dataset**|Zhiwei Zhang et.al.|[2507.14697](http://arxiv.org/abs/2507.14697)|null|
+|**2025-07-19**|**GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration**|Weikang Gu et.al.|[2507.14452](http://arxiv.org/abs/2507.14452)|null|
+|**2025-07-17**|**Mining Voter Behaviour and Confidence: A Rule-Based Analysis of the 2022 U.S. Elections**|Md Al Jubair et.al.|[2507.14236](http://arxiv.org/abs/2507.14236)|null|
 |**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
 |**2025-07-17**|**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**|Zi Wang et.al.|[2507.13110](http://arxiv.org/abs/2507.13110)|null|
 |**2025-07-17**|**cIDIR: Conditioned Implicit Neural Representation for Regularized Deformable Image Registration**|Sidaty El Hadramy et.al.|[2507.12953](http://arxiv.org/abs/2507.12953)|null|
@@ -2517,8 +2529,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734](http://arxiv.org/abs/2507.15734)|null|
+|**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
+|**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496](http://arxiv.org/abs/2507.15496)|null|
+|**2025-07-20**|**3-Dimensional CryoEM Pose Estimation and Shift Correction Pipeline**|Kaishva Chintan Shah et.al.|[2507.14924](http://arxiv.org/abs/2507.14924)|null|
+|**2025-07-20**|**An Evaluation of DUSt3R/MASt3R/VGGT 3D Reconstruction on Photogrammetric Aerial Blocks**|Xinyi Wu et.al.|[2507.14798](http://arxiv.org/abs/2507.14798)|null|
+|**2025-07-19**|**AI-Powered Precision in Sport Taekwondo: Enhancing Fairness, Speed, and Trust in Competition (FST.ai)**|Keivan Shariatmadar et.al.|[2507.14657](http://arxiv.org/abs/2507.14657)|null|
 |**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095](http://arxiv.org/abs/2507.14095)|null|
-|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891](http://arxiv.org/abs/2507.13891)|null|
+|**2025-07-21**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891](http://arxiv.org/abs/2507.13891)|null|
 |**2025-07-18**|**MaskHOI: Robust 3D Hand-Object Interaction Estimation via Masked Pre-training**|Yuechen Xie et.al.|[2507.13673](http://arxiv.org/abs/2507.13673)|null|
 |**2025-07-17**|**$π^3$ : Scalable Permutation-Equivariant Visual Geometry Learning**|Yifan Wang et.al.|[2507.13347](http://arxiv.org/abs/2507.13347)|null|
 |**2025-07-17**|**Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark**|Junsu Kim et.al.|[2507.13314](http://arxiv.org/abs/2507.13314)|null|
@@ -3932,6 +3950,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
+|**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
 |**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
 |**2025-07-18**|**EPSilon: Efficient Point Sampling for Lightening of Hybrid-based 3D Avatar Generation**|Seungjun Moon et.al.|[2507.13648](http://arxiv.org/abs/2507.13648)|null|
 |**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](http://arxiv.org/abs/2507.12132)|null|
