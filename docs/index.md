@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1398,7 +1398,7 @@ layout: default
 |**2025-07-22**|**Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation**|Xueming Fu et.al.|[2507.16608](http://arxiv.org/abs/2507.16608)|null|
 |**2025-07-22**|**A Single-step Accurate Fingerprint Registration Method Based on Local Feature Matching**|Yuwei Jia et.al.|[2507.16201](http://arxiv.org/abs/2507.16201)|null|
 |**2025-07-21**|**Extensive Air Shower Registration at Two Depths with SPHERE-3 Detector**|V. I. Galkin et.al.|[2507.16103](http://arxiv.org/abs/2507.16103)|null|
-|**2025-07-21**|**Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs**|Meriem Mastouri et.al.|[2507.16044](http://arxiv.org/abs/2507.16044)|null|
+|**2025-07-23**|**Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs**|Meriem Mastouri et.al.|[2507.16044](http://arxiv.org/abs/2507.16044)|null|
 |**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578](http://arxiv.org/abs/2507.15578)|null|
 |**2025-07-21**|**MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP**|Pei An et.al.|[2507.15257](http://arxiv.org/abs/2507.15257)|null|
 |**2025-07-20**|**Decision PCR: Decision version of the Point Cloud Registration task**|Yaojie Zhang et.al.|[2507.14965](http://arxiv.org/abs/2507.14965)|null|
